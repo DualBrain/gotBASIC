@@ -34,3 +34,7 @@ The Roslyn .NET compiler service provides C# and Visual Basic languages with ric
   - [Simple 3D rendering engine entirely written in VB.NET](https://github.com/morphx666/3DEngine)
 - [VbRogue - A community-based-project Rogue clone written in Visual Basic.](https://github.com/DualBrain/VbRogue)
 - [Apress - Build Your Own .NET Language and Compiler by Edward G. Nilges (Code)](https://github.com/Apress/build-your-own-.net-language-compiler)
+- [Checkers Solitaire - An original game by Cory Smith inspired by a game written circa 1978 by David H. Ahl.](https://github.com/DualBrain/CheckersSolitaire)
+- [Solitaire - Clone of Microsoft Windows Solitair circa Windows XP.](https://github.com/DualBrain/Solitaire)
+- 
+
