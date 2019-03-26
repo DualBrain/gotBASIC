@@ -1,6 +1,8 @@
 # gotBASIC.com
 
-This project contains "notes" for various BASIC dialects, projects, how-to's, tutorials and retro-computing related projects that will eventually become part of the gotBASIC.com website.
+This project contains "notes" for various BASIC dialects, projects, how-to's, tutorials and retro-computing related projects that will eventually become part of the http://gotBASIC.com website.
+
+The overall (impossible) goal of gotBASIC.com is to be the **GOTO** (<-- see what I did there?) website for **ALL** things related to the **BASIC** computer language; the one-stop source for every dialect and central hub for all versions (past-and-present) of **BASIC** in all its forms.
 
 ## General Links
 
