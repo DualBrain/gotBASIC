@@ -17,6 +17,7 @@ So please help me help everyone with this project; if you are aware of **BASIC**
 - [FreeBASIC](FreeBASIC.md)
 - [BCX](BCX.md)
 - [Chipmunk BASIC](Chipmunk.md)
+- [Blitz](Blitz.md)
 - Microcontrollers
   - [AVR](AVR.md)
   - [PIC32](PIC32.md)
