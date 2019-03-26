@@ -14,10 +14,13 @@ So please help me help everyone with this project; if you are aware of **BASIC**
 
 - [Microsoft Visual Basic (.NET)](VB.md)
 - [Microsoft Visual Basic (pre-.NET)](VB6.md)
+- [Microsoft QuickBASIC, PDS BASIC (QBX) and QBasic](QB.md)
+- [Microsoft GW-BASIC](GW-BASIC.md)
 - [FreeBASIC](FreeBASIC.md)
+- [QB64](QB64.md)
 - [BCX](BCX.md)
 - [Chipmunk BASIC](Chipmunk.md)
-- [Blitz](Blitz.md)
+- [BlitzBASIC](Blitz.md)
 - Microcontrollers
   - [AVR](AVR.md)
   - [PIC32](PIC32.md)
