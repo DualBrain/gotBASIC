@@ -13,6 +13,7 @@ So please help me help everyone with this project; if you are aware of **BASIC**
 ## Sitemap (work-in-progress)
 
 - [Microsoft Visual Basic (.NET)](VBNET.md)
+- [Microsoft Visual Basic (pre-.NET)](VB.md)
 - [FreeBASIC](FreeBASIC.md)
 - [BCX](BCX.md)
 - [Chipmunk BASIC](Chipmunk.md)
