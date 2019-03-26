@@ -13,6 +13,7 @@ So please help me help everyone with this project; if you are aware of **BASIC**
 ## Sitemap (work-in-progress)
 
 - [Microsoft Visual Basic (.NET)](VBNET.md)
+- [FreeBASIC](FreeBASIC.md)
 - Microcontrollers
   - [AVR](AVR.md)
   - [PIC32](PIC32.md)
