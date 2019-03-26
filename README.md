@@ -24,4 +24,4 @@ So please help me help everyone with this project; if you are aware of **BASIC**
 - [Micros](Micros.md) (Retrocomputing)
   - [Tandy/RadioShack Color Computer 1](Coco1.md)
 - [Single-board Computer Projects](SingleBoard.md)
-- [Other](Other.md)
+- [Other...](Other.md)
