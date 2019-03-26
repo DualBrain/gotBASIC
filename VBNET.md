@@ -8,6 +8,12 @@
 
 - [Packaging a .NET Core 3.0 application with MSIX](https://techcommunity.microsoft.com/t5/Windows-Dev-AppConsult/Packaging-a-NET-Core-3-0-application-with-MSIX/ba-p/386432)
 
+## Microsoft
+
+The Roslyn .NET compiler service provides C# and Visual Basic languages with rich code analysis APIs.
+
+- [Roslyn - The OSS version of VB.NET (and C#).](https://github.com/dotnet/roslyn)
+
 ## SUPER COOL PROJECTS!!!!
 
 - [Xavier Flix](https://whenimbored.xfx.net)
@@ -27,3 +33,4 @@
   - [MP3 decoding library written in VB.NET](https://github.com/morphx666/vbMP3decoder)
   - [Simple 3D rendering engine entirely written in VB.NET](https://github.com/morphx666/3DEngine)
 - [VbRogue - A community-based-project Rogue clone written in Visual Basic.](https://github.com/DualBrain/VbRogue)
+- [Apress - Build Your Own .NET Language and Compiler by Edward G. Nilges (Code)](https://github.com/Apress/build-your-own-.net-language-compiler)
