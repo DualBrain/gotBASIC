@@ -20,3 +20,5 @@
 - [Single Chip AVR BASIC Computer V0.3](https://hackaday.io/project/2428-single-chip-avr-basic-computer-v03)
 - [KLBasic for the Atmel AVR devices](https://www.seanet.com/~karllunt/klbasic_main.html)
 - [dk-basic - BASIC interpreter for AVR microcontrollers](https://code.google.com/archive/p/dk-basic/)
+- [HDMI Shield](https://github.com/techtoys/HDMI-Shield/tree/master/Ra8876_Lite)
+- [ArduinoBASIC - A BASIC interpreter and environment for the Arduino](https://github.com/robinhedwards/ArduinoBASIC)
