@@ -48,3 +48,7 @@ Thanks to Gene Buckle for purchasing and releasing all of Full Moon Software's (
 
 - [All Full Moon Software (aka Crescent Software) Tools](http://annex.retroarchive.org/crescent/index.html)
 - [QuickPak Professional for DOS on GitHub](https://github.com/geneb/QuickPak-Pro-DOS)
+
+## SUPER COOL PROJECTS!
+
+- [The M.I.C.E. Project - The (World's) Most Ill-Concieved Emulator: A TRS-80 Model I Emulator in GW-BASIC.](http://www.vavasour.ca/jeff/mice.html)
