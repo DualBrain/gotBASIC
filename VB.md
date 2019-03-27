@@ -7,6 +7,7 @@
 ## How-To's
 
 - [Packaging a .NET Core 3.0 application with MSIX](https://techcommunity.microsoft.com/t5/Windows-Dev-AppConsult/Packaging-a-NET-Core-3-0-application-with-MSIX/ba-p/386432)
+- [How to: Parse JSON using .NET or .NET Core – Intro](https://backtovisualbasic.net/how-to-parse-json-using-net-or-net-core/amp/)
 
 ## Microsoft
 
