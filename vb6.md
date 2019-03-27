@@ -2,6 +2,8 @@
 
 If you are looking for [Microsoft Visual Basic v7+ (.NET)](VB.md), go [here](VB.md).
 
+- [History of Visual Basic by George Mack](http://www.ojodepez-fanzine.net/network/qbdl/history_of_visual_basic.html)
+
 ## Cool Projects
 
 - [VBCorLib - A framework that brings many of the powerful .NET classes to VB6.](https://github.com/kellyethridge/VBCorLib)
