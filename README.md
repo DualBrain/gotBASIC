@@ -26,5 +26,6 @@ So please help me help everyone with this project; if you are aware of **BASIC**
   - [PIC32](PIC32.md)
 - [Micros](Micros.md) (Retrocomputing)
   - [Tandy/RadioShack Color Computer 1](Coco1.md)
+  - [Atari 600XL and 800XL](Atari600XL.md)
 - [Single-board Computer Projects](SingleBoard.md)
 - [Other...](Other.md)
