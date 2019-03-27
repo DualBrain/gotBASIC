@@ -19,3 +19,7 @@
 ### BASIC-80 Interpreter for Windows
 
 Just sent off an email to the author to get more details...
+
+## SUPER COOL PROJECTS!
+
+- [The M.I.C.E. Project - The (World's) Most Ill-Concieved Emulator: A TRS-80 Model I Emulator in GW-BASIC.](http://www.vavasour.ca/jeff/mice.html)
