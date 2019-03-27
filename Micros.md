@@ -8,4 +8,6 @@
   - [Color Computer 1](Coco1.md)
   - Color Computer 2
   - Color Computer 3
-  
+- Atari
+  - Atari 2600
+  - Atari 800XL
