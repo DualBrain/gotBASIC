@@ -8,3 +8,4 @@ If you are looking for [Microsoft Visual Basic v7+ (.NET)](VB.md), go [here](VB.
 
 - [VBCorLib - A framework that brings many of the powerful .NET classes to VB6.](https://github.com/kellyethridge/VBCorLib)
 - [mp3decoder - Decoder implementation of MP3 audio in 100% VB.](https://github.com/neveraway/mp3decoder)
+- [xFXJumpStart DHTML Menu Builder v4+ on GitHub](https://github.com/morphx666/dmb)
