@@ -8,7 +8,7 @@ So please help me help everyone with this project; if you are aware of **BASIC**
 
 ## General Links
 
-- [Wikiepedia - List of BASIC dialects](https://en.wikipedia.org/wiki/List_of_BASIC_dialects)
+- [Wikipedia - List of BASIC dialects](https://en.wikipedia.org/wiki/List_of_BASIC_dialects)
 
 ## Sitemap (work-in-progress)
 
