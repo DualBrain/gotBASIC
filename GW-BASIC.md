@@ -2,7 +2,7 @@
 
 ## Microsoft
 
-- 
+- [GW-BASIC User's Guide](http://www.ojodepez-fanzine.net/network/qbdl/GW-MAN/index.html)
 
 ## IBM
 
