@@ -3,6 +3,7 @@
 ## Microsoft
 
 - [GW-BASIC User's Guide](http://www.ojodepez-fanzine.net/network/qbdl/GW-MAN/index.html)
+- [Compiling and Linking with BASCOM 1.0 and 2.0](http://www.ojodepez-fanzine.net/network/qbdl/bascom-compiling-and-linking.html)
 
 ## IBM
 
