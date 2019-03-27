@@ -10,4 +10,4 @@
   - Color Computer 3
 - Atari
   - Atari 2600
-  - Atari 800XL
+  - [Atari 600XL/800XL](Atari600XL.md)
