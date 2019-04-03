@@ -6,6 +6,7 @@
 
 ## How-To's
 
+- [Retrieve Email and Parse Email in VB.NET - Tutorial](https://www.emailarchitect.net/eagetmail/kb/vbnet.aspx?cat=0&fbclid=IwAR378eNRnqo3ZmdNfiESKPARHRlV6OniIxki9Wqujn8HMrzpLaEQBquvzmQ)
 - [Packaging a .NET Core 3.0 application with MSIX](https://techcommunity.microsoft.com/t5/Windows-Dev-AppConsult/Packaging-a-NET-Core-3-0-application-with-MSIX/ba-p/386432)
 - [How to: Parse JSON using .NET or .NET Core – Intro](https://backtovisualbasic.net/how-to-parse-json-using-net-or-net-core/amp/)
 
