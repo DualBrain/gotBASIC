@@ -10,6 +10,24 @@
 - [Packaging a .NET Core 3.0 application with MSIX](https://techcommunity.microsoft.com/t5/Windows-Dev-AppConsult/Packaging-a-NET-Core-3-0-application-with-MSIX/ba-p/386432)
 - [How to: Parse JSON using .NET or .NET Core – Intro](https://backtovisualbasic.net/how-to-parse-json-using-net-or-net-core/amp/)
 
+## Video Tutorials
+
+- [VbPage (Facebook)](https://www.facebook.com/VbPagetut/?__tn__=%2CdkCH-R-R&eid=ARBUCwFpXoA32t0O1yzMKQqMLOloovOoY1YDC-5ssFMEodKCa5YdaTQhwtmceH_4-dwP_WOh8MRk1KZY&hc_ref=ART9mFM0cfhNGxixAiWdRbVIqNM22AMGc-45q53herZ2fWt6apskSngHrOX-ojnBrec&fref=nf&hc_location=group)
+
+## Communities
+
+- [Visual Basic .NET (Facebook)](https://www.facebook.com/groups/public.module/)
+- [VB.NET Developers (Facebook)](https://www.facebook.com/groups/vbnetdevelopers/)
+- [VB.net CODERS International Group (Facebook)](https://www.facebook.com/groups/vbcoders/)
+- [Visual Basic Group (Facebook)](https://www.facebook.com/groups/visualbas/)
+- [VB.Net C# Programmers (Facebook)](https://www.facebook.com/groups/252300688263578/)
+
+### User Groups
+
+- Texas
+  - [Dallas (Facebook)](https://www.facebook.com/groups/228879463971959/)
+  - [Fort Worth (Facebook)](https://www.facebook.com/groups/FWDNUG/)
+
 ## Microsoft
 
 The Roslyn .NET compiler service provides C# and Visual Basic languages with rich code analysis APIs.
