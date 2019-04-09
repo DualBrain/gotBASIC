@@ -32,6 +32,10 @@
 
 - [DotNetBrowser - Integrate a Chromium-based browser with your .NET app to display and process HTML5, CSS3, JavaScript, Flash etc.](https://www.teamdev.com/dotnetbrowser)
 
+## Samples
+
+- [VB Dev2Dev (GitHub)](https://github.com/VBDev2Dev)
+
 ## Microsoft
 
 The Roslyn .NET compiler service provides C# and Visual Basic languages with rich code analysis APIs.
