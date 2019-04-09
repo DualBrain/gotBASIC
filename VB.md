@@ -51,7 +51,7 @@ Although Microsoft has done a great job with several technology stacks; there ar
 - [Razor](https://docs.microsoft.com/en-us/aspnet/web-pages/overview/getting-started/introducing-razor-syntax-vb)  
   - [Vazor - A VB.NET Razor for ASP.NET Core 3.0 MVC and Razor Pages.](https://github.com/VBAndCs/Vazor)  
   - [A VB.NET Razor for ASP.NET Core 2.2 MVC and Razor Pages.](https://github.com/VBAndCs/Vazor-DotNetCore2)  
-- [Blazor] - CAUTION: Seriously bleeding edge here... much of this isn't VB.  
+- [Blazor](https://blazor.net) - CAUTION: Seriously bleeding edge here... much of this isn't VB.  
   - [Getting Started with Blazor (YouTube)](https://www.youtube.com/watch?v=bbHzyIsqGuU&list=PL8h4jt35t1whukdnbIMpAEWmL4h1XABaa)  
   - [Blazor Dual-Mode Example (GitHub)](https://github.com/Suchiman/BlazorDualMode)  
   
