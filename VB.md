@@ -28,14 +28,38 @@
   - [Dallas (Facebook)](https://www.facebook.com/groups/228879463971959/)
   - [Fort Worth (Facebook)](https://www.facebook.com/groups/FWDNUG/)
 
+## Components
+
+- [DotNetBrowser - Integrate a Chromium-based browser with your .NET app to display and process HTML5, CSS3, JavaScript, Flash etc.](https://www.teamdev.com/dotnetbrowser)
+
 ## Microsoft
 
 The Roslyn .NET compiler service provides C# and Visual Basic languages with rich code analysis APIs.
 
 - [Roslyn - The OSS version of VB.NET (and C#).](https://github.com/dotnet/roslyn)
 
+## Where there's a will...
+
+Although Microsoft has done a great job with several technology stacks; there are a few areas where support falls a little short or just doesn't seem to exist.  This section points to areas where you can find "how to make it (mostly) work in VB".
+
+- Xamaran
+  - [Xamarin.Forms using Visual Basic.NET](https://docs.microsoft.com/en-us/xamarin/cross-platform/platform/visual-basic/xamarin-forms)
+  - [Visual Basic.NET in Xamarin iOS and Android](https://docs.microsoft.com/en-us/xamarin/cross-platform/platform/visual-basic/native-apps)
+  - [Portable Visual Basic.NET](https://docs.microsoft.com/en-us/xamarin/cross-platform/platform/visual-basic/)
+  - [Mobile Apps with Visual Basic & Xamarin.Forms](https://devblogs.microsoft.com/xamarin/mobile-apps-with-visual-basic-xamarin-forms/)
+  - [Xamarin.Forms with Visual Basic using PCL (GitHub)](https://github.com/xamarin/mobile-samples/tree/master/VisualBasic/XamarinFormsVB)  
+- [Razor](https://docs.microsoft.com/en-us/aspnet/web-pages/overview/getting-started/introducing-razor-syntax-vb)  
+  - [Vazor - A VB.NET Razor for ASP.NET Core 3.0 MVC and Razor Pages.](https://github.com/VBAndCs/Vazor)  
+  - [A VB.NET Razor for ASP.NET Core 2.2 MVC and Razor Pages.](https://github.com/VBAndCs/Vazor-DotNetCore2)  
+- [Blazor] - CAUTION: Seriously bleeding edge here... much of this isn't VB.  
+  - [Getting Started with Blazor (YouTube)](https://www.youtube.com/watch?v=bbHzyIsqGuU&list=PL8h4jt35t1whukdnbIMpAEWmL4h1XABaa)  
+  - [Blazor Dual-Mode Example (GitHub)](https://github.com/Suchiman/BlazorDualMode)  
+  
 ## SUPER COOL PROJECTS!!!!
 
+- [Anthony D. Green](https://anthonydgreen.net/)
+  - [We have XML Literals; how about JSON Literals?](https://anthonydgreen.net/2019/03/11/json-aficionados-wanted/)([Video](https://www.youtube.com/watch?v=4-tEq-5VVHc))
+  - [Enhanced For Each Loops](https://anthonydgreen.net/2019/02/20/maybe-enhancing-for-each-loops-with-linq/)([Video](https://www.youtube.com/watch?v=ynBHLuicCYs))
 - [Xavier Flix](https://whenimbored.xfx.net)
   - [A VB.NET implementation of an almost working 8086 emulator.](https://github.com/morphx666/x8086NetEmu)
   - [A software based Oscilloscope / Vectorscope](https://github.com/morphx666/SoftScope)
