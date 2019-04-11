@@ -1,17 +1,16 @@
 # Microsoft Visual Basic (.NET)
 
-## Tutorials
-
-- [Microsoft Virtual Academy - Visual Basic Fundamentals for Absolute Beginners by Bob Tabor](https://mva.microsoft.com/en-us/training-courses/visual-basic-fundamentals-for-absolute-beginners-16507?l=jqMOvLKbC_9206218965)
-
 ## How-To's
 
 - [Retrieve Email and Parse Email in VB.NET - Tutorial](https://www.emailarchitect.net/eagetmail/kb/vbnet.aspx?cat=0&fbclid=IwAR378eNRnqo3ZmdNfiESKPARHRlV6OniIxki9Wqujn8HMrzpLaEQBquvzmQ)
 - [Packaging a .NET Core 3.0 application with MSIX](https://techcommunity.microsoft.com/t5/Windows-Dev-AppConsult/Packaging-a-NET-Core-3-0-application-with-MSIX/ba-p/386432)
 - [How to: Parse JSON using .NET or .NET Core – Intro](https://backtovisualbasic.net/how-to-parse-json-using-net-or-net-core/amp/)
+- [How to port desktop applications to .NET Core 3.0](https://devblogs.microsoft.com/dotnet/how-to-port-desktop-applications-to-net-core-3-0/)
+- [.NET Core Workers as Windows Services](https://devblogs.microsoft.com/aspnet/net-core-workers-as-windows-services/?utm_source=t.co&utm_medium=referral)
 
 ## Video Tutorials
 
+- [Microsoft Virtual Academy - Visual Basic Fundamentals for Absolute Beginners by Bob Tabor](https://mva.microsoft.com/en-us/training-courses/visual-basic-fundamentals-for-absolute-beginners-16507?l=jqMOvLKbC_9206218965)
 - [VbPage (Facebook)](https://www.facebook.com/VbPagetut/?__tn__=%2CdkCH-R-R&eid=ARBUCwFpXoA32t0O1yzMKQqMLOloovOoY1YDC-5ssFMEodKCa5YdaTQhwtmceH_4-dwP_WOh8MRk1KZY&hc_ref=ART9mFM0cfhNGxixAiWdRbVIqNM22AMGc-45q53herZ2fWt6apskSngHrOX-ojnBrec&fref=nf&hc_location=group)
 
 ## Communities
