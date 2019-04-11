@@ -8,6 +8,12 @@ Atari BASIC is an interpreter for the BASIC programming language that shipped wi
 - [Atari BASIC - A Self-teaching Guide](https://www.atariarchives.org/basic/)
 - [Atari BASIC - XL Edition](https://www.atariarchives.org/basicxl/)
 
+## Emulation
+
+- [AE8 Atari 800 XL Emulator](http://www.zerstoerung.de/)
+- [jsA8E Demo](http://www.zerstoerung.de/jsa8e/)
+- [JsA8E (JavaScript Atari 800 XL Emulator) online](http://atariage.com/forums/topic/224709-jsa8e-javascript-atari-800-xl-emulator-online/)
+
 ## Interesting Tidbits
 
 - [Atari BASIC - The Good, the Bad, and the Ugly](https://web.archive.org/web/20070524044410/http://www3.sympatico.ca/maury/other_stuff/atari_basic.html)
