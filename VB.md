@@ -1,5 +1,19 @@
 # Microsoft Visual Basic (.NET)
 
+## Download
+
+- [Microsoft Visual Studio 2019 Community Edition](https://visualstudio.microsoft.com/downloads/)
+
+## Microsoft (OSS)
+
+The Roslyn .NET compiler service provides C# and Visual Basic languages with rich code analysis APIs.
+
+- [Roslyn - The OSS version of VB.NET (and C#).](https://github.com/dotnet/roslyn)
+
+## Online
+
+- [Visual Basic on RexTester.com](https://rextester.com/l/visual_basic_online_compiler)
+
 ## How-To's
 
 - [Retrieve Email and Parse Email in VB.NET - Tutorial](https://www.emailarchitect.net/eagetmail/kb/vbnet.aspx?cat=0&fbclid=IwAR378eNRnqo3ZmdNfiESKPARHRlV6OniIxki9Wqujn8HMrzpLaEQBquvzmQ)
@@ -16,6 +30,7 @@
   - [Visual Basic 2010 Express 46 Part Series](https://www.schoolfreeware.com/Visual_Basic_2010_Express_Tutorials_-_VB.Net_-_Beginning_-_Game_Programming.html)
   - [Visual Basic 2010 Express 46 Part Series (YouTube)](https://www.youtube.com/playlist?list=PL86A8013B8782A7AD)
   - [Visual Basic 2012 Express 13 Part Series](https://www.schoolfreeware.com/Visual_Basic_Express_2012_For_Windows_Desktop_Tutorials.html)
+- [Sonar Learning's Visual Basic Programming 200 Part Series (20 hours)](https://sonarlearning.co.uk/coursepage.php?topic=desktop&course=ext-visual-basic)
 - [Visual Basic Tutorial 2017 (YouTube 29:04)](https://youtu.be/3FkWddODLno)
 - [Learn Visual Basic in 30 Minutes (YouTube 31:18)](https://www.youtube.com/watch?v=gcFHyVYdeFU&t=36s)
 - [Learn Visual Basic Advanced 2015 (YouTube 39:04)](https://www.youtube.com/watch?v=oWRxt48lRzo&t=15s)
@@ -38,7 +53,7 @@
 
 ## Components
 
-- [DotNetBrowser - Integrate a Chromium-based browser with your .NET app to display and process HTML5, CSS3, JavaScript, Flash etc.](https://www.teamdev.com/dotnetbrowser)
+- [DotNetBrowser - Integrate a Chromium-based browser with your .NET app. (Commercial)](https://www.teamdev.com/dotnetbrowser)
 
 ## Tools
 
@@ -48,11 +63,6 @@
 
 - [VB Dev2Dev (GitHub)](https://github.com/VBDev2Dev)
 
-## Microsoft
-
-The Roslyn .NET compiler service provides C# and Visual Basic languages with rich code analysis APIs.
-
-- [Roslyn - The OSS version of VB.NET (and C#).](https://github.com/dotnet/roslyn)
 
 ## Where there's a will...
 
