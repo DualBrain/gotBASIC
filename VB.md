@@ -9,6 +9,7 @@
 The Roslyn .NET compiler service provides C# and Visual Basic languages with rich code analysis APIs.
 
 - [Roslyn - The OSS version of VB.NET (and C#).](https://github.com/dotnet/roslyn)
+- [QuickVB](https://github.com/DualBrain/QuickVB): A MS-DOS QuickBASIC/QBasic-like IDE for Visual Basic code that's powered by the .NET Compiler Platform ("Roslyn"). 
 
 ## Online
 
