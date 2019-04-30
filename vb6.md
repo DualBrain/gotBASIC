@@ -54,6 +54,7 @@ If you are looking for [Microsoft Visual Basic v7+ (.NET)](VB.md), go [here](VB.
 - [iCode (GitHub)](https://github.com/liuzikai/iCode)
 - [VB6 Tracer (GitHub)](https://github.com/jbremer/vb6tracer): Runtime tracer for the VB6 virtual machine.
 - [PdbExp (GitHub)](https://github.com/smartdj/pdbexp)
-- [Demi-VB-Decompiler](http://www.semivbdecompiler.com/)
+- [Semi-VB-Decompiler](http://www.semivbdecompiler.com/)
+- [TheProgrammingZone (Semi-VB-Decompiler)](https://www.theprogrammingzone.com/)
 - [Semi-VB-Decompiler (GitHub)](https://github.com/VBGAMER45/Semi-VB-Decompiler)
 
