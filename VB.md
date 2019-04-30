@@ -11,6 +11,15 @@
 ## Video Tutorials
 
 - [Microsoft Virtual Academy - Visual Basic Fundamentals for Absolute Beginners by Bob Tabor](https://mva.microsoft.com/en-us/training-courses/visual-basic-fundamentals-for-absolute-beginners-16507?l=jqMOvLKbC_9206218965)
+- [Visual Basic 2010 Tutorial 200 Part Series (YouTube)](https://www.youtube.com/watch?v=mM3zB3QWuv8&list=PLC601DEA22187BBF1)
+- [SchoolFreeware.com](https://www.schoolfreeware.com)
+  - [Visual Basic 2010 Express 46 Part Series](https://www.schoolfreeware.com/Visual_Basic_2010_Express_Tutorials_-_VB.Net_-_Beginning_-_Game_Programming.html)
+  - [Visual Basic 2010 Express 46 Part Series (YouTube)](https://www.youtube.com/playlist?list=PL86A8013B8782A7AD)
+  - [Visual Basic 2012 Express 13 Part Series](https://www.schoolfreeware.com/Visual_Basic_Express_2012_For_Windows_Desktop_Tutorials.html)
+- [Visual Basic Tutorial 2017 (YouTube 29:04)](https://youtu.be/3FkWddODLno)
+- [Learn Visual Basic in 30 Minutes (YouTube 31:18)](https://www.youtube.com/watch?v=gcFHyVYdeFU&t=36s)
+- [Learn Visual Basic Advanced 2015 (YouTube 39:04)](https://www.youtube.com/watch?v=oWRxt48lRzo&t=15s)
+- [Visual Basic Fundamentals for Absolute Beginners (YouTube 8:59:09)(https://www.youtube.com/watch?v=oO9hUb14O-I)
 - [VbPage (Facebook)](https://www.facebook.com/VbPagetut/?__tn__=%2CdkCH-R-R&eid=ARBUCwFpXoA32t0O1yzMKQqMLOloovOoY1YDC-5ssFMEodKCa5YdaTQhwtmceH_4-dwP_WOh8MRk1KZY&hc_ref=ART9mFM0cfhNGxixAiWdRbVIqNM22AMGc-45q53herZ2fWt6apskSngHrOX-ojnBrec&fref=nf&hc_location=group)
 
 ## Communities
