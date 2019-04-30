@@ -3,9 +3,23 @@
 FreeBASIC is a completely free, open-source, multi-platform BASIC compiler, with syntax similar to MS-QuickBASIC, that adds new features such as pointers, unsigned data types, inline assembly, object orientation, and many others.
 
 - [FreeBASIC](https://www.freebasic.net/)
-- [FreeBASIC on GitHub](https://github.com/freebasic/fbc)
-- [VisualFBEditor - IDE for FreeBasic](https://github.com/XusinboyBekchanov/VisualFBEditor)
-- [MyFbFramework - My FreeBasic Framework](https://github.com/XusinboyBekchanov/MyFbFramework)
+- [FreeBASIC (GitHub)](https://github.com/freebasic/fbc)
+- Xuisinboy Bekchanov
+  - [VisualFBEditor - IDE (GitHub)](https://github.com/XusinboyBekchanov/VisualFBEditor)
+  - [MyFbFramework - My FreeBasic Framework (GitHub)](https://github.com/XusinboyBekchanov/MyFbFramework)
+- Paul Squires
+  - [FreeBASIC Editor for Windows (GitHub)](https://github.com/PaulSquires/WinFBE)
+  - [Windows Form Library (GitHub)](https://github.com/PaulSquires/WinFormsX)
+- Jose Roca
+  - [Windows Framework (GitHub)](https://github.com/JoseRoca/WinFBX)
+- [FbFrog (GitHub)](https://github.com/dkl/fbfrog): FreeBASIC binding creation tool.
+- [FbFrog Scripts (GitHub)](https://github.com/dkl/fbbindings): Scripts for fbfrog-based FreeBASIC bindings.
+- [FbRtLib (Github)](https://github.com/ImortisInglorian/fbrtLib): FreeBASIC Runtime Library written in FreeBASIC.
+- [Batched Files](https://github.com/BatchedFiles)
+  -[Station992 - Http Server (GitHub)](https://github.com/BatchedFiles/Station922)
+  -[Client library for IRC (GitHub)](https://github.com/BatchedFiles/IrcClientLibrary)
+- ["Nine" Card Game (GitHub)](https://github.com/TagalongGames/Nine)
+- [FreeBASIC in Russian (Unofficial)](http://www.freebasic.su/)
 
 ## FreeBASIC vs GW-BASIC 
 
