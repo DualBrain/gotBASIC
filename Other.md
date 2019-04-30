@@ -5,6 +5,8 @@
 - [Script BASIC (on SourceForge)](https://sourceforge.net/projects/scriptbasic/)
 - [JAVATARI - The online Atari 2600 emulator](http://javatari.org/)
 - [Atari BASIC (Archive.org)](https://archive.org/search.php?query=atari%20basic)
+- [OxygenBasic](https://www.oxygenbasic.org/): A Compact embeddable JIT compiler that reads C headers and compiles to x86 machine code. Executes directly in memory or creates DLLs and EXE files. Supports overloading and OOP. Currently available for MS platforms. 
+- [OxygenBasic (GitHub)](https://github.com/Charles-Pegge/OxygenBasic): BASIC Compiler. Run programs directly, or compile to 32/64 bit binary.  Supports C headers and assembly code.
 
 # Shouldn't these projects be in BASIC? ;-)
 
