@@ -31,6 +31,10 @@
 
 - [DotNetBrowser - Integrate a Chromium-based browser with your .NET app to display and process HTML5, CSS3, JavaScript, Flash etc.](https://www.teamdev.com/dotnetbrowser)
 
+## Tools
+
+- [dnSpy (GitHub)](https://github.com/0xd4d/dnSpy): .NET debugger and assembly editor.
+
 ## Samples
 
 - [VB Dev2Dev (GitHub)](https://github.com/VBDev2Dev)
