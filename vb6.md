@@ -37,3 +37,19 @@ If you are looking for [Microsoft Visual Basic v7+ (.NET)](VB.md), go [here](VB.
 - [VBCorLib - A framework that brings many of the powerful .NET classes to VB6.](https://github.com/kellyethridge/VBCorLib)
 - [mp3decoder - Decoder implementation of MP3 audio in 100% VB.](https://github.com/neveraway/mp3decoder)
 - [xFXJumpStart DHTML Menu Builder v4+ on GitHub](https://github.com/morphx666/dmb)
+- [Krool (GitHub)]
+  - [VB Common Controls Replacement Library](https://github.com/Kr00l/VBCCR)
+  - [VB FlexGrid Control](https://github.com/Kr00l/VBFLXGRD)
+  - [VB Multithread Library](https://github.com/Kr00l/VBMThread)
+- [Vladimer Vissoultchev (GitHub)](https://github.com/wqweto?tab=repositories)
+  - [VBLLVM (GitHub)](https://github.com/wqweto/VBLLVM): LLVM bindings for VB6.
+  - [VbRtcc (GitHub)](https://github.com/wqweto/VbRtcc): Runtime Tiny C Compiler for VB6.
+  - [ZipArchive (GitHub)](https://github.com/wqweto/ZipArchive): A single-class pure VB6 library for zip with ASM speed.
+  - [VbAsyncSocket (GitHub)](https://github.com/wqweto/VbAsyncSocket): Simple and thin WinSock API wrappers for VB6.
+  - [ModernSubclassingThunk (GitHub)](https://github.com/wqweto/ModernSubclassingThunk): The Modern Subclassing Thunk (MST) for VB6.
+- [iCode (GitHub)](https://github.com/liuzikai/iCode)
+- [VB6 Tracer (GitHub)](https://github.com/jbremer/vb6tracer): Runtime tracer for the VB6 virtual machine.
+- [PdbExp (GitHub)](https://github.com/smartdj/pdbexp)
+- [Demi-VB-Decompiler](http://www.semivbdecompiler.com/)
+- [Semi-VB-Decompiler (GitHub)](https://github.com/VBGAMER45/Semi-VB-Decompiler)
+
