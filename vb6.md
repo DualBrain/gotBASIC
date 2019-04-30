@@ -9,6 +9,10 @@ If you are looking for [Microsoft Visual Basic v7+ (.NET)](VB.md), go [here](VB.
 - [StackOverflow - Your favorite VB6 tools and tips.](https://stackoverflow.com/questions/664370/your-favorite-visual-basic-6-0-tools-and-tips)
 - [StackOverflow - Detect file changes outside the VB6 IDE.](https://stackoverflow.com/questions/24766228/detect-file-changes-outside-the-visual-basic-6-ide/24792427#24792427)
 
+## Communities
+
+- TBD
+
 ## IDE
 
 - [Visual Basic Tools for Visual Studio](https://marketplace.visualstudio.com/items?itemName=MatthiasFriedrich.VisualBasicToolsforVisualStudio)
