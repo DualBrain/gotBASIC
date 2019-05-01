@@ -82,6 +82,8 @@ The Roslyn .NET compiler service provides C# and Visual Basic languages with ric
 
 Although Microsoft has done a great job with several technology stacks; there are a few areas where support falls a little short or just doesn't seem to exist.  This section points to areas where you can find "how to make it (mostly) work in VB".
 
+- WebAssembly
+  - [A Very Basically VB.NET WebAssembly Compiler](https://github.com/GCModeller-Cloud/data.ts/releases/tag/v0.5.136-alpha)
 - Xamaran
   - [Xamarin.Forms using Visual Basic.NET](https://docs.microsoft.com/en-us/xamarin/cross-platform/platform/visual-basic/xamarin-forms)
   - [Visual Basic.NET in Xamarin iOS and Android](https://docs.microsoft.com/en-us/xamarin/cross-platform/platform/visual-basic/native-apps)
