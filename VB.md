@@ -17,7 +17,8 @@ The Roslyn .NET compiler service provides C# and Visual Basic languages with ric
 
 ## How-To's
 
-- [Get Started with Video Game Development using PuppyBreath (see Components section).](https://social.msdn.microsoft.com/Forums/en-US/2440752f-66e5-4995-93c4-e018ce43efc9/how-to-get-started-with-video-game-development-in-visual-basic-net-using-the-puppybreath?forum=vbgeneral)
+- [Get Started with Video Game Development using PuppyBreath (see Components section)](https://social.msdn.microsoft.com/Forums/en-US/2440752f-66e5-4995-93c4-e018ce43efc9/how-to-get-started-with-video-game-development-in-visual-basic-net-using-the-puppybreath?forum=vbgeneral)
+- [GdiGaming GDI+ Gaming API (see Components section)](https://social.msdn.microsoft.com/Forums/vstudio/en-US/8cb8d926-6f79-41d2-a906-edf1c1aab650/gdi-gaming-api-gdigaming-ctp-1?forum=vbgeneral)
 - [Retrieve Email and Parse Email in VB.NET - Tutorial](https://www.emailarchitect.net/eagetmail/kb/vbnet.aspx?cat=0&fbclid=IwAR378eNRnqo3ZmdNfiESKPARHRlV6OniIxki9Wqujn8HMrzpLaEQBquvzmQ)
 - [Packaging a .NET Core 3.0 application with MSIX](https://techcommunity.microsoft.com/t5/Windows-Dev-AppConsult/Packaging-a-NET-Core-3-0-application-with-MSIX/ba-p/386432)
 - [How to: Parse JSON using .NET or .NET Core – Intro](https://backtovisualbasic.net/how-to-parse-json-using-net-or-net-core/amp/)
@@ -55,7 +56,8 @@ The Roslyn .NET compiler service provides C# and Visual Basic languages with ric
 
 ## Components
 
-- [PuppyBreath (GitHub)](https://github.com/ReedKimble/PuppyBreath): A simplistic and robust video game engine for .NET Windows Forms projects, based entirely on managed code and GDI+ graphics.
+- [PuppyBreath by Reed Kimble (GitHub)](https://github.com/ReedKimble/PuppyBreath): A simplistic and robust video game engine for .NET Windows Forms projects, based entirely on managed code and GDI+ graphics.
+- [GdiGaming API by Reed Kimble (CodePlex)](https://archive.codeplex.com/?p=gdigaming): GDI+ based .NET Game Engine.
 - [DotNetBrowser - Integrate a Chromium-based browser with your .NET app. (Commercial)](https://www.teamdev.com/dotnetbrowser)
 
 ## Tools
