@@ -8,8 +8,15 @@
 
 The Roslyn .NET compiler service provides C# and Visual Basic languages with rich code analysis APIs.
 
-- [Roslyn](https://github.com/dotnet/roslyn): The **official** OSS version of VB.NET (and C#).
-- [QuickVB](https://github.com/DualBrain/QuickVB): A MS-DOS QuickBASIC/QBasic-like IDE for Visual Basic code that's powered by the .NET Compiler Platform ("Roslyn"). 
+- [Visual Basic Language Specification (GitHub)](https://github.com/dotnet/vblang/tree/master/spec)
+- [VbLang (GitHub)](https://github.com/dotnet/vblang): The home for design of the Visual Basic .NET programming language and runtime library.
+- [Roslyn (GitHub)](https://github.com/dotnet/roslyn): The **official** OSS version of VB.NET (and C#).
+  - [New Language Features in VB 14 (Visual Studio 2015) (GitHub)](https://github.com/dotnet/roslyn/wiki/New-Language-Features-in-VB-14)
+  - [Getting Started VB Syntax Analysis (GitHub)](https://github.com/dotnet/roslyn/wiki/Getting-Started-VB-Syntax-Analysis)
+  - [Getting Started VB Semantic Analysis (GitHub)](https://github.com/dotnet/roslyn/wiki/Getting-Started-VB-Semantic-Analysis)
+  - [Getting Started VB Syntax Transformation (GitHub)](https://github.com/dotnet/roslyn/wiki/Getting-Started-VB-Syntax-Transformation)
+  - [How To Write a Visual Basic Analyzer and Code Fix (GitHub)](https://github.com/dotnet/roslyn/wiki/How-To-Write-a-Visual-Basic-Analyzer-and-Code-Fix)
+- [QuickVB (GitHub)](https://github.com/DualBrain/QuickVB): A MS-DOS QuickBASIC/QBasic-like IDE for Visual Basic code that's powered by the .NET Compiler Platform ("Roslyn"). 
 
 ## Online
 
@@ -17,7 +24,6 @@ The Roslyn .NET compiler service provides C# and Visual Basic languages with ric
 
 ## How-To's
 
-- [How To Write a Visual Basic Analyzer and Code Fix](https://github.com/dotnet/roslyn/wiki/How-To-Write-a-Visual-Basic-Analyzer-and-Code-Fix)
 - [Get Started with Video Game Development using PuppyBreath (see Components section)](https://social.msdn.microsoft.com/Forums/en-US/2440752f-66e5-4995-93c4-e018ce43efc9/how-to-get-started-with-video-game-development-in-visual-basic-net-using-the-puppybreath?forum=vbgeneral)
 - [GdiGaming GDI+ Gaming API (see Components section)](https://social.msdn.microsoft.com/Forums/vstudio/en-US/8cb8d926-6f79-41d2-a906-edf1c1aab650/gdi-gaming-api-gdigaming-ctp-1?forum=vbgeneral)
 - [How to Create Video Games in VB.Net (Windows Forms)](https://social.technet.microsoft.com/wiki/contents/articles/17358.how-to-create-video-games-in-vb-net-windows-forms.aspx)
