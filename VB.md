@@ -17,6 +17,7 @@ The Roslyn .NET compiler service provides C# and Visual Basic languages with ric
 
 ## How-To's
 
+- [How To Write a Visual Basic Analyzer and Code Fix](https://github.com/dotnet/roslyn/wiki/How-To-Write-a-Visual-Basic-Analyzer-and-Code-Fix)
 - [Get Started with Video Game Development using PuppyBreath (see Components section)](https://social.msdn.microsoft.com/Forums/en-US/2440752f-66e5-4995-93c4-e018ce43efc9/how-to-get-started-with-video-game-development-in-visual-basic-net-using-the-puppybreath?forum=vbgeneral)
 - [GdiGaming GDI+ Gaming API (see Components section)](https://social.msdn.microsoft.com/Forums/vstudio/en-US/8cb8d926-6f79-41d2-a906-edf1c1aab650/gdi-gaming-api-gdigaming-ctp-1?forum=vbgeneral)
 - [How to Create Video Games in VB.Net (Windows Forms)](https://social.technet.microsoft.com/wiki/contents/articles/17358.how-to-create-video-games-in-vb-net-windows-forms.aspx)
@@ -28,7 +29,6 @@ The Roslyn .NET compiler service provides C# and Visual Basic languages with ric
 
 ## Video Tutorials
 
-- [Microsoft Virtual Academy - Visual Basic Fundamentals for Absolute Beginners by Bob Tabor](https://mva.microsoft.com/en-us/training-courses/visual-basic-fundamentals-for-absolute-beginners-16507?l=jqMOvLKbC_9206218965)
 - [Visual Basic 2010 Tutorial 200 Part Series (YouTube)](https://www.youtube.com/watch?v=mM3zB3QWuv8&list=PLC601DEA22187BBF1)
 - [SchoolFreeware.com](https://www.schoolfreeware.com)
   - [Visual Basic 2010 Express 46 Part Series](https://www.schoolfreeware.com/Visual_Basic_2010_Express_Tutorials_-_VB.Net_-_Beginning_-_Game_Programming.html)
@@ -39,6 +39,7 @@ The Roslyn .NET compiler service provides C# and Visual Basic languages with ric
 - [Learn Visual Basic in 30 Minutes (YouTube 31:18)](https://www.youtube.com/watch?v=gcFHyVYdeFU&t=36s)
 - [Learn Visual Basic Advanced 2015 (YouTube 39:04)](https://www.youtube.com/watch?v=oWRxt48lRzo&t=15s)
 - [Visual Basic Fundamentals for Absolute Beginners (YouTube 8:59:09)](https://www.youtube.com/watch?v=oO9hUb14O-I)
+- [Microsoft Virtual Academy - Visual Basic Fundamentals for Absolute Beginners by Bob Tabor](https://mva.microsoft.com/en-us/training-courses/visual-basic-fundamentals-for-absolute-beginners-16507?l=0L9k5dpxC_104513192): Note: I skip the first episode; mainly because it "bugs" me that the whole time we are being introduced to VB, it looks like the course is all about C#. (I've also had a lot of people tell me it's the wrong link because of this.)
 - [VbPage (Facebook)](https://www.facebook.com/VbPagetut/?__tn__=%2CdkCH-R-R&eid=ARBUCwFpXoA32t0O1yzMKQqMLOloovOoY1YDC-5ssFMEodKCa5YdaTQhwtmceH_4-dwP_WOh8MRk1KZY&hc_ref=ART9mFM0cfhNGxixAiWdRbVIqNM22AMGc-45q53herZ2fWt6apskSngHrOX-ojnBrec&fref=nf&hc_location=group)
 
 ## Communities
