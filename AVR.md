@@ -12,6 +12,7 @@
 ## Tutorials
 
 - [Getting Started With Atmel AVR and BASCOM by askjerry](https://www.instructables.com/id/Getting-Started-with-Atmel-AVR-and-BASCOM/)
+- [Arduino: Installing Standard Firmata](https://www.instructables.com/id/Arduino-Installing-Standard-Firmata/)
 
 ## Projects
 
