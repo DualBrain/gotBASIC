@@ -79,6 +79,11 @@ The Roslyn .NET compiler service provides C# and Visual Basic languages with ric
 
 - [VB Dev2Dev (GitHub)](https://github.com/VBDev2Dev)
 
+## Gists
+
+- Anthony D. Green
+  -[GameLoop](https://gist.github.com/AnthonyDGreen/c2a29f8e59990c2ad613f22a779ac60e?fbclid=IwAR31yd9vgHOyzJsmRj6A0LWTPYcqCpxWaCUbYWwr2vjibquFG51YcIxx7rY)
+
 ## Where there's a will...
 
 Although Microsoft has done a great job with several technology stacks; there are a few areas where support falls a little short or just doesn't seem to exist.  This section points to areas where you can find "how to make it (mostly) work in VB".
