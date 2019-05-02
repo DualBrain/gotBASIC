@@ -69,6 +69,7 @@ The Roslyn .NET compiler service provides C# and Visual Basic languages with ric
 - [PuppyBreath by Reed Kimble (GitHub)](https://github.com/ReedKimble/PuppyBreath): A simplistic and robust video game engine for .NET Windows Forms projects, based entirely on managed code and GDI+ graphics.
 - [GdiGaming API by Reed Kimble (CodePlex)](https://archive.codeplex.com/?p=gdigaming): GDI+ based .NET Game Engine.
 - [DotNetBrowser - Integrate a Chromium-based browser with your .NET app. (Commercial)](https://www.teamdev.com/dotnetbrowser)
+- [FirmataVB](http://www.acraigie.com/programming/firmatavb/default.html): Easily take advantage of the Firmata protocol (Arduino).
 
 ## Tools
 
