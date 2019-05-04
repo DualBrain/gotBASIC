@@ -52,11 +52,13 @@ The Roslyn .NET compiler service provides C# and Visual Basic languages with ric
 
 ## Communities
 
-- [Visual Basic .NET (Facebook)](https://www.facebook.com/groups/public.module/)
-- [VB.NET Developers (Facebook)](https://www.facebook.com/groups/vbnetdevelopers/)
-- [VB.net CODERS International Group (Facebook)](https://www.facebook.com/groups/vbcoders/)
-- [Visual Basic Group (Facebook)](https://www.facebook.com/groups/visualbas/)
-- [VB.Net C# Programmers (Facebook)](https://www.facebook.com/groups/252300688263578/)
+- [VB.NET Gitter](https://www.gitter.im/VB-NET)
+- Facebook
+  - [Visual Basic .NET](https://www.facebook.com/groups/public.module/)
+  - [VB.NET Developers](https://www.facebook.com/groups/vbnetdevelopers/)
+  - [VB.net CODERS International Group](https://www.facebook.com/groups/vbcoders/)
+  - [Visual Basic Group](https://www.facebook.com/groups/visualbas/)
+  - [VB.Net C# Programmers](https://www.facebook.com/groups/252300688263578/)
 
 ### User Groups
 
