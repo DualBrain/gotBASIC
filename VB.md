@@ -47,7 +47,6 @@ The Roslyn .NET compiler service provides C# and Visual Basic languages with ric
 - [Visual Basic Tutorial 2017 (YouTube 29:04)](https://youtu.be/3FkWddODLno)
 - [Learn Visual Basic in 30 Minutes (YouTube 31:18)](https://www.youtube.com/watch?v=gcFHyVYdeFU&t=36s)
 - [Learn Visual Basic Advanced 2015 (YouTube 39:04)](https://www.youtube.com/watch?v=oWRxt48lRzo&t=15s)
-
 - [VbPage (Facebook)](https://www.facebook.com/VbPagetut/?__tn__=%2CdkCH-R-R&eid=ARBUCwFpXoA32t0O1yzMKQqMLOloovOoY1YDC-5ssFMEodKCa5YdaTQhwtmceH_4-dwP_WOh8MRk1KZY&hc_ref=ART9mFM0cfhNGxixAiWdRbVIqNM22AMGc-45q53herZ2fWt6apskSngHrOX-ojnBrec&fref=nf&hc_location=group)
 
 ## Communities
