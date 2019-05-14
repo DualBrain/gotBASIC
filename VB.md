@@ -89,7 +89,7 @@ The Roslyn .NET compiler service provides C# and Visual Basic languages with ric
 
 Although Microsoft has done a great job with several technology stacks; there are a few areas where support falls a little short or just doesn't seem to exist.  This section points to areas where you can find "how to make it (mostly) work in VB".
 
-- .NET Core
+- .NET Core - Note: Microsoft is committed to VB on .NET Core; but we are still currently in the very beginning stages of this.  As such, most of the following related to .NET Core and WinForms isn't (currently) related to VB.
   - [Getting started with WinForms for .NET Core](https://github.com/dotnet/winforms/blob/master/Documentation/getting-started.md)
   - [Are your Windows Forms and WPF applications ready for .NET Core 3.0?](https://devblogs.microsoft.com/dotnet/are-your-windows-forms-and-wpf-applications-ready-for-net-core-3-0/)([GitHub](https://github.com/microsoft/dotnet-apiport-ui))
   - [Porting existing applications to .NET Core 3.0 (GitHub)](https://github.com/dotnet/winforms/blob/master/Documentation/porting-guidelines.md)
