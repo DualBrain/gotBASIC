@@ -89,6 +89,12 @@ The Roslyn .NET compiler service provides C# and Visual Basic languages with ric
 
 Although Microsoft has done a great job with several technology stacks; there are a few areas where support falls a little short or just doesn't seem to exist.  This section points to areas where you can find "how to make it (mostly) work in VB".
 
+- .NET Core
+  - [Getting started with WinForms for .NET Core](https://github.com/dotnet/winforms/blob/master/Documentation/getting-started.md)
+  - [Are your Windows Forms and WPF applications ready for .NET Core 3.0?](https://devblogs.microsoft.com/dotnet/are-your-windows-forms-and-wpf-applications-ready-for-net-core-3-0/)([GitHub](https://github.com/microsoft/dotnet-apiport-ui))
+  - [Porting existing applications to .NET Core 3.0 (GitHub)](https://github.com/dotnet/winforms/blob/master/Documentation/porting-guidelines.md)
+  - [How to port desktop applications to .NET Core 3.0](https://devblogs.microsoft.com/dotnet/how-to-port-desktop-applications-to-net-core-3-0/)
+  - [How to Port Desktop Applications to .NET Core 3.0 (YouTube)](https://www.youtube.com/watch?v=upVQEUc_KwU)
 - WebAssembly
   - [A Very Basically VB.NET WebAssembly Compiler](https://github.com/GCModeller-Cloud/data.ts/releases/tag/v0.5.136-alpha)
 - Xamaran
