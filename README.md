@@ -1,4 +1,4 @@
-[VB](VB.md) | [VB6](vb6.md) [QB64](QB64.md) | [FB](FreeBASIC.md) | [QB](QB.md) | [GW-BASIC](GW-BASIC.md)
+[VB](VB.md) | [VB6](vb6.md) | [QB64](QB64.md) | [FB](FreeBASIC.md) | [QB](QB.md) | [GW-BASIC](GW-BASIC.md)
 
 # gotBASIC.com
 
