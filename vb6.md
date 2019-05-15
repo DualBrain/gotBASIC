@@ -1,6 +1,6 @@
-# Microsoft Visual Basic (v1-v6)
+[Home](https://gotbasic.com) | [VB 7+](VB.md) | VB 1-6 | [FB](FreeBASIC.md) | [QB64](QB64.md) | [QB45](QB.md) | [GW-BASIC](GW-BASIC.md) | [Arduino](AVR.md)
 
-If you are looking for [Microsoft Visual Basic v7+ (.NET)](VB.md), go [here](VB.md).
+# Microsoft Visual Basic v1 through v6
 
 - [History of Visual Basic by George Mack](http://www.ojodepez-fanzine.net/network/qbdl/history_of_visual_basic.html)
 
