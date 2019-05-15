@@ -17,6 +17,8 @@ The Roslyn .NET compiler service provides C# and Visual Basic languages with ric
   - [Getting Started VB Syntax Transformation (GitHub)](https://github.com/dotnet/roslyn/wiki/Getting-Started-VB-Syntax-Transformation)
   - [How To Write a Visual Basic Analyzer and Code Fix (GitHub)](https://github.com/dotnet/roslyn/wiki/How-To-Write-a-Visual-Basic-Analyzer-and-Code-Fix)
 - [QuickVB (GitHub)](https://github.com/DualBrain/QuickVB): A MS-DOS QuickBASIC/QBasic-like IDE for Visual Basic code that's powered by the .NET Compiler Platform ("Roslyn"). 
+- [Microsoft.VisualBasic Runtime Reference Source (GitHub)](https://github.com/DualBrain/referencesource/tree/master/Microsoft.VisualBasic/runtime/msvbalib)
+- [Microsoft.VisualBasic.Core (GitHub)](https://github.com/dotnet/corefx/tree/master/src/Microsoft.VisualBasic.Core/src/Microsoft/VisualBasic)
 
 ## Online
 
