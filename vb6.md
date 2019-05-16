@@ -1,4 +1,4 @@
-[Home](https://gotbasic.com) | [VB 7+](VB.md) | VB 1-6 | [FB](FreeBASIC.md) | [QB64](QB64.md) | [QB45](QB.md) | [GW-BASIC](GW-BASIC.md) | [Arduino](AVR.md)
+[Home](https://gotbasic.com) • [VB 7+](VB.md) • VB 1-6 • [FB](FreeBASIC.md) • [QB64](QB64.md) • [QB45](QB.md) • [GW-BASIC](GW-BASIC.md) • [Arduino](AVR.md)
 
 # Microsoft Visual Basic v1 through v6
 
