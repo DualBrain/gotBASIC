@@ -1,4 +1,4 @@
-[Home](https://gotbasic.com) | [VB 7+](VB.md) | [VB 1-6](vb6.md) | [FB](FreeBASIC.md) | [QB64](QB64.md) | [QB45](QB.md) | GW-BASIC | [Arduino](AVR.md)
+[Home](https://gotbasic.com) • [VB 7+](VB.md) • [VB 1-6](vb6.md) • [FB](FreeBASIC.md) • [QB64](QB64.md) • [QB45](QB.md) • GW-BASIC • [Arduino](AVR.md)
 
 # GW-BASIC, BASICA, Clones
 
