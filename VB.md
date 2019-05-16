@@ -139,3 +139,7 @@ Although Microsoft has done a great job with several technology stacks; there ar
 - [Apress - Build Your Own .NET Language and Compiler by Edward G. Nilges (Code)](https://github.com/Apress/build-your-own-.net-language-compiler)
 - [Checkers Solitaire - An original game by Cory Smith inspired by a game written circa 1978 by David H. Ahl.](https://github.com/DualBrain/CheckersSolitaire)
 - [Solitaire - Clone of Microsoft Windows Solitaire circa Windows XP.](https://github.com/DualBrain/Solitaire)
+
+## Additional Resources / Related Information
+
+- [Microsoft UI Library (GitHub)](https://github.com/microsoft/microsoft-ui-xaml/blob/master/docs/roadmap.md)
