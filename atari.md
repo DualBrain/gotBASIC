@@ -1,3 +1,5 @@
+[Home](https://gotbasic.com) • [VB 7+](VB.md) • [VB 1-6](vb6.md) • [FB](FreeBASIC.md) • [QB64](QB64.md) • [QB45](QB.md) • [GW-BASIC](GW-BASIC.md) • [Arduino](AVR.md) • [Retro](micros.md)
+
 # Atari 600XL and 800XL
 
 Atari BASIC is an interpreter for the BASIC programming language that shipped with the Atari 8-bit family of 6502-based home computers. Unlike many 8-bit BASICs, Atari BASIC is not a derivative of Microsoft BASIC, and differs in significant ways. It includes keywords for Atari-specific features and lacks support for string arrays, for example. 
