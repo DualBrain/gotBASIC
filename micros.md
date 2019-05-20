@@ -6,6 +6,7 @@
   - [Atari 2600](atari.md)
   - [Atari 600XL/800XL](atari.md)
 - Commodore
+  - [Amiga](amiga.md)
   - [C64](c64.md)
 - RadioShack (Tandy)
   - TRS-80 Model I (Level I, Level II)
