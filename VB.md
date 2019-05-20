@@ -10,6 +10,7 @@
 
 The Roslyn .NET compiler service provides C# and Visual Basic languages with rich code analysis APIs.
 
+- [Diging Deeper into the Visual Basic Language Strategy](https://devblogs.microsoft.com/vbteam/digging-deeper-into-the-visual-basic-language-strategy/)
 - [Visual Basic Language Specification (GitHub)](https://github.com/dotnet/vblang/tree/master/spec)
 - [VbLang (GitHub)](https://github.com/dotnet/vblang): The home for design of the Visual Basic .NET programming language and runtime library.
 - [Roslyn (GitHub)](https://github.com/dotnet/roslyn): The **official** OSS version of VB.NET (and C#).
@@ -97,12 +98,17 @@ Although Microsoft has done a great job with several technology stacks; there ar
 - ILMerge
   - [ILMerge](https://www.microsoft.com/en-us/download/details.aspx?id=17630): ILMerge is a utility for merging multiple .NET assemblies into a single .NET assembly. It works on executables and DLLs alike and comes with several options for controlling the processing and format of the output.  
   - [ILMerge-GUI, the .NET merger](https://archive.codeplex.com/?p=ilmergegui)
+  - [.NET whole application in a single .exe file? (stackoverflow)](https://stackoverflow.com/questions/3261942/net-whole-application-as-a-single-exe-file)
 - .NET Core - Note: Microsoft is committed to VB on .NET Core; but we are still currently in the very beginning stages of this.  As such, most of the following related to .NET Core and WinForms isn't (currently) related to VB.
   - [Getting started with WinForms for .NET Core](https://github.com/dotnet/winforms/blob/master/Documentation/getting-started.md)
   - [Are your Windows Forms and WPF applications ready for .NET Core 3.0?](https://devblogs.microsoft.com/dotnet/are-your-windows-forms-and-wpf-applications-ready-for-net-core-3-0/)([GitHub](https://github.com/microsoft/dotnet-apiport-ui))
   - [Porting existing applications to .NET Core 3.0 (GitHub)](https://github.com/dotnet/winforms/blob/master/Documentation/porting-guidelines.md)
   - [How to port desktop applications to .NET Core 3.0](https://devblogs.microsoft.com/dotnet/how-to-port-desktop-applications-to-net-core-3-0/)
   - [How to Port Desktop Applications to .NET Core 3.0 (YouTube)](https://www.youtube.com/watch?v=upVQEUc_KwU)
+  - [.NET Core 3.0 Windows Forms Samples (GitHub)](https://github.com/dotnet/samples/tree/master/windowsforms)
+  - [Performance Improvements in .NET Core 3.0](https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-core-3-0/)
+  - [Announciing .NET Core 3.0 Preview 5](https://devblogs.microsoft.com/dotnet/announcing-net-core-3-0-preview-5/)
+  - [Introducing the new Microsoft.Data.SqlClient](https://devblogs.microsoft.com/dotnet/introducing-the-new-microsoftdatasqlclient/?fbclid=IwAR1kZtAt1AXL8DpEtF9uYtlRv2xXk4fyXXOMVIav3MLKLM2vWRgPuIgGE7I)
 - WebAssembly
   - [A Very Basically VB.NET WebAssembly Compiler](https://github.com/GCModeller-Cloud/data.ts/releases/tag/v0.5.136-alpha)
 - Xamaran
