@@ -66,8 +66,9 @@ The Roslyn .NET compiler service provides C# and Visual Basic languages with ric
 ### User Groups
 
 - Texas
-  - [Dallas (Facebook)](https://www.facebook.com/groups/228879463971959/)
-  - [Fort Worth (Facebook)](https://www.facebook.com/groups/FWDNUG/)
+  - [Dallas .NET Users Group (Facebook)](https://www.facebook.com/groups/228879463971959/)
+  - [Fort Worth .NET Users Group (Facebook)](https://www.facebook.com/groups/FWDNUG/)
+  - [NRH BASIC SIG (North Richland Hills BASIC Special Interest Group)](http://basicsig.com/)
 
 ## Components
 
