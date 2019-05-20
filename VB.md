@@ -88,7 +88,7 @@ The Roslyn .NET compiler service provides C# and Visual Basic languages with ric
 ## Gists
 
 - Anthony D. Green
-  -[GameLoop](https://gist.github.com/AnthonyDGreen/c2a29f8e59990c2ad613f22a779ac60e?fbclid=IwAR31yd9vgHOyzJsmRj6A0LWTPYcqCpxWaCUbYWwr2vjibquFG51YcIxx7rY)
+  - [GameLoop](https://gist.github.com/AnthonyDGreen/c2a29f8e59990c2ad613f22a779ac60e?fbclid=IwAR31yd9vgHOyzJsmRj6A0LWTPYcqCpxWaCUbYWwr2vjibquFG51YcIxx7rY)
 
 ## Where there's a will...
 
