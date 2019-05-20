@@ -1,4 +1,4 @@
-[Home](https://gotbasic.com) • [VB 7+](VB.md) • [VB 1-6](vb6.md) • [FB](FreeBASIC.md) • [QB64](QB64.md) • [QB45](QB.md) • [GW-BASIC](GW-BASIC.md) • [Arduino](AVR.md)
+[Home](https://gotbasic.com) • [VB 7+](VB.md) • [VB 1-6](vb6.md) • [FB](FreeBASIC.md) • [QB64](QB64.md) • [QB45](QB.md) • [GW-BASIC](GW-BASIC.md) • [Arduino](AVR.md) • [Retro](micros.md)
 
 # gotBASIC.com
 
@@ -24,8 +24,9 @@ So please help me help everyone with this project; if you are aware of **BASIC**
 - Microcontrollers
   - [AVR](AVR.md)
   - [PIC32](PIC32.md)
-- [Micros](Micros.md) (Retrocomputing)
-  - [Tandy/RadioShack Color Computer 1](Coco1.md)
-  - [Atari 600XL and 800XL](Atari600XL.md)
+- [Micros](micros.md) (Retrocomputing)
+  - [Atari 600XL and 800XL](atari.md)
+  - [Commodore C64](c64.md)
+  - [Tandy/RadioShack Color Computer Series](coco.md)
 - [Single-board Computer Projects](SingleBoard.md)
 - [Other...](Other.md)
