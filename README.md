@@ -26,6 +26,7 @@ So please help me help everyone with this project; if you are aware of **BASIC**
   - [PIC32](PIC32.md)
 - [Micros](micros.md) (Retrocomputing)
   - [Atari 600XL and 800XL](atari.md)
+  - [Commodore Amiga](amiga.md)
   - [Commodore C64](c64.md)
   - [Tandy/RadioShack Color Computer Series](coco.md)
 - [Single-board Computer Projects](SingleBoard.md)
