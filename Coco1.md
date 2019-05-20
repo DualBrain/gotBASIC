@@ -8,6 +8,8 @@
 
 # Color Computer 3 (Tandy)
 
+- [How to build a Mr. CoCo (FPGA)](http://www.cococommunity.net/how-to-build-a-mr-coco/)
+- [How to build a Matchbox CoCo (FPGA)](http://www.cococommunity.net/how-to-build-your-own-coco-4/)
 - [How to get VGA for the CoCo 3](http://www.cococommunity.net/vga-for-the-coco-3/)
 - [FPGA RGB2VGA](https://sites.google.com/site/tandycocoloco/rgb2vga)
 
