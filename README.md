@@ -8,6 +8,7 @@ So please help me help everyone with this project; if you are aware of **BASIC**
 
 ## General Links
 
+- [gotBASIC (Facebook)](https://www.facebook.com/groups/gotbasic): Like BASIC?  Have questions?  What to get more involved?  Join us over on [facebook](https://www.facebook.com/groups/gotbasic)!
 - [Wikipedia - List of BASIC dialects](https://en.wikipedia.org/wiki/List_of_BASIC_dialects)
 
 ## Sitemap (work-in-progress)
