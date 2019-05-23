@@ -66,6 +66,8 @@ The Roslyn .NET compiler service provides C# and Visual Basic languages with ric
 
 ### User Groups
 
+- Florida
+  - [Boca Raton, FL FlaDotNet (Meetup)](https://www.meetup.com/FlaDotNet/events/)
 - Texas
   - [Dallas .NET Users Group (Facebook)](https://www.facebook.com/groups/228879463971959/)
   - [Fort Worth .NET Users Group (Facebook)](https://www.facebook.com/groups/FWDNUG/)
