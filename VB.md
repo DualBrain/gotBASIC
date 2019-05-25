@@ -155,3 +155,9 @@ Although Microsoft has done a great job with several technology stacks; there ar
 ## Additional Resources / Related Information
 
 - [Microsoft UI Library (GitHub)](https://github.com/microsoft/microsoft-ui-xaml/blob/master/docs/roadmap.md)
+- [C#]
+  - [VB and C# Equivalents](https://www.tangiblesoftwaresolutions.com/vb-and-csharp-equivalents.html)
+  - [C# to VB Conversion Tips](https://www.tangiblesoftwaresolutions.com/sitemap.html#csharp-to-vb)
+  - [Tangible Software Solutions Instant VB (Commercial)](https://www.tangiblesoftwaresolutions.com/product_details/csharp-to-vb-converter.html): Instant VB produces great VB.NET code, saving you hours of painstaking work and valuable time.
+  - [developerFusion Convert C# to VB.NET (Free)](https://www.developerfusion.com/tools/convert/csharp-to-vb/): Simply paste in your C# code below, and this free utility will automatically convert it to its equivalent in VB.NET. 
+  - [Telerik Code Converter by Progress (Free)](http://converter.telerik.com/): Convert code from C# to VB and from VB to C#.
