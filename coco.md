@@ -14,9 +14,14 @@
 
 - [CoCo SDC](http://cocosdc.blogspot.com/?fbclid=IwAR0JquoF2a1xcd-mzVY-7jAoVoz-dU0LeiBYaSDVoVb0TyAOWcRRnmCW1qA)
 
+## Color Compouter 2
+
+- [Getting Started With Extended Color Basic (PDF)](http://www.colorcomputerarchive.com/coco/Documents/Manuals/Hardware/Getting%20Started%20With%20Extended%20Color%20Basic%20(Tandy).pdf)
+
 ## Color Computer 3
 
 - [Programming in BASIC on the Tandy RadioShack TRS-80 Color Computer (YouTube)](https://www.youtube.com/playlist?list=PLDfh7JjQaSYA1fP5KwRiOwefFIIF1Alid&fbclid=IwAR02qFC8wrAq8cf6rO4KUGpKb62KE_xaRvrweKEIHlfmy3Mq7E84EO6718U): A step-by-step series on how to program the Color Computer using a Virtual Color Computer 3 (50 videos).
+- [VCC Color Computer 3 Emulator (via archive.org)](https://web.archive.org/web/20181001201546/http://www.coco4.com/vcc/download.shtml)
 - [How to get VGA for the CoCo 3](http://www.cococommunity.net/vga-for-the-coco-3/)
 - [FPGA RGB2VGA](https://sites.google.com/site/tandycocoloco/rgb2vga)
 
@@ -24,3 +29,7 @@
 
 - [How to build a Matchbox CoCo](http://www.cococommunity.net/how-to-build-your-own-coco-4/)
 - [How to build a Mr. CoCo](http://www.cococommunity.net/how-to-build-a-mr-coco/)
+
+## Additional Information
+
+- [TRS-80 Color Computer Archive](http://www.colorcomputerarchive.com/)
