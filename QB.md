@@ -9,6 +9,14 @@
 - See alternative [QB64](QB64.md)...
 - See alternative [FreeBASIC](FreeBASIC.md)...
 
+## Tutorials
+
+- [QBasic for Beginners](https://www.qbasic.net/en/qbasic-tutorials/beginner/qbasic-beginner-1.htm)
+
+## Communities
+
+- [QuickBASIC Cafe](https://www.qbasic.net/)
+
 ## GW-BASIC to QBasic
 
 ### Summary
