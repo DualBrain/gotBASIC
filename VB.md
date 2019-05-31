@@ -156,6 +156,7 @@ Although Microsoft has done a great job with several technology stacks; there ar
 
 ## Additional Resources / Related Information
 
+- [Microsoft WinForms .NET Core UI Framework (GitHub)](https://github.com/dotnet/winforms): Windows Forms is a .NET Core UI framework for building Windows desktop applications. 
 - [Microsoft UI Library (GitHub)](https://github.com/microsoft/microsoft-ui-xaml/blob/master/docs/roadmap.md)
 - [C#]
   - [VB and C# Equivalents](https://www.tangiblesoftwaresolutions.com/vb-and-csharp-equivalents.html)
