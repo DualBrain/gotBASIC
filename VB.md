@@ -27,6 +27,10 @@ The Roslyn .NET compiler service provides C# and Visual Basic languages with ric
 
 - [Visual Basic on RexTester.com](https://rextester.com/l/visual_basic_online_compiler)
 
+## Good Reads
+
+- [An Exhausting List of Differences Between VB.NET & C# by Anthony D. Green](https://anthonydgreen.net/2019/02/12/exhausting-list-of-differences-between-vb-net-c/)
+
 ## How-To's
 
 - [Get Started with Video Game Development using PuppyBreath (see Components section)](https://social.msdn.microsoft.com/Forums/en-US/2440752f-66e5-4995-93c4-e018ce43efc9/how-to-get-started-with-video-game-development-in-visual-basic-net-using-the-puppybreath?forum=vbgeneral)
