@@ -146,8 +146,9 @@ Although Microsoft has done a great job with several technology stacks; there ar
 - [VbRogue - A community-based-project Rogue clone written in Visual Basic.](https://github.com/DualBrain/VbRogue)
 - [Apress - Build Your Own .NET Language and Compiler by Edward G. Nilges (Code)](https://github.com/Apress/build-your-own-.net-language-compiler)
 - [Cory Smith](http://addressof.com)
-  - [Checkers Solitaire - An original game by Cory Smith inspired by a game written circa 1978 by David H. Ahl. (GitHub)](https://github.com/DualBrain/CheckersSolitaire)
+  - [Checkers Solitaire - An original game inspired by a game written circa 1978 by David H. Ahl. (GitHub)](https://github.com/DualBrain/CheckersSolitaire)
   - [Solitaire - Clone of Microsoft Windows Solitaire circa Windows XP. (GitHub)](https://github.com/DualBrain/Solitaire)
+- [ExpressionToString by Zev Spitz (GitHub)](https://github.com/zspitz/ExpressionToString#visual-studio-debugger-visualizer-for-expression-trees): String representation of expression trees and expression tree parts + debugging visualizer.
 
 ## Additional Resources / Related Information
 
