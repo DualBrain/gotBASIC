@@ -10,7 +10,7 @@
 
 The Roslyn .NET compiler service provides C# and Visual Basic languages with rich code analysis APIs.
 
-- [Diging Deeper into the Visual Basic Language Strategy](https://devblogs.microsoft.com/vbteam/digging-deeper-into-the-visual-basic-language-strategy/)
+- [Digging Deeper into the Visual Basic Language Strategy](https://devblogs.microsoft.com/vbteam/digging-deeper-into-the-visual-basic-language-strategy/)
 - [Visual Basic Language Specification (GitHub)](https://github.com/dotnet/vblang/tree/master/spec)
 - [VbLang (GitHub)](https://github.com/dotnet/vblang): The home for design of the Visual Basic .NET programming language and runtime library.
 - [Roslyn (GitHub)](https://github.com/dotnet/roslyn): The **official** OSS version of VB.NET (and C#).
@@ -90,8 +90,17 @@ The Roslyn .NET compiler service provides C# and Visual Basic languages with ric
 
 ## Analyzers
 
+- [code-cracker (GitHub)](https://github.com/code-cracker/code-cracker): An analyzer library for C# and VB that uses Roslyn to produce refactorings, code analysis, and other niceties. http://code-cracker.github.io/
+- [DotNetAnalyzers (GitHub)](https://github.com/DotNetAnalyzers/DotNetAnalyzers): This project is for the community to make a common code base of .NET code analyzers using the new VS14 code analyzer functionality. 
 - [VBSttyleAnalyzer (GitHub)](https://github.com/mrlacey/VBStyleAnalyzer): Roslyn analyzers for VB UWP apps.
+- [DelSole.CrossAnalyzers (GitHub)](https://github.com/AlessandroDelSole/DelSole.CrossAnalyzers): A collection of analyzers and refactorings for C# and Visual Basic on multiple platforms. [*](https://github.com/amberdextrous/DotNetAnalyzers), [**](https://github.com/DualBrain/DotNetAnalyzers)
+- [DotNetAnalyzers (GitHub)](https://github.com/Urmel11/DotNetAnalyzers): No additional comments available.
 - ["VBAnalyzers" search on GitHub](https://github.com/search?l=Visual+Basic&q=Imports+Microsoft.CodeAnalysis.VisualBasic.Syntax&type=Code): This search link was shared with me; need to spend some time investigating through the results to find the "best of the best".
+
+## "My"
+
+- [Extending the My namespace](https://www.codeproject.com/articles/28979/extending-the-my-namespace)
+- [Getting Started with My.Blogs](https://docs.microsoft.com/en-us/previous-versions/ms364056(v=vs.80)): My.Blogs is a collection of sample code that will show you how you can easily provide programmatic access to weblogs in the applications you build. Full source code is provided along with Windows Forms, ASP.NET 2.0, and a Visual Studio 2005 Tools for Office Outlook Add-In.
 
 ## Samples
 
@@ -172,3 +181,5 @@ Although Microsoft has done a great job with several technology stacks; there ar
   - [developerFusion Convert C# to VB.NET (Free)](https://www.developerfusion.com/tools/convert/csharp-to-vb/): Simply paste in your C# code below, and this free utility will automatically convert it to its equivalent in VB.NET. 
   - [Telerik Code Converter by Progress (Free)](http://converter.telerik.com/): Convert code from C# to VB and from VB to C#.
  - [.NET Core Daily Builds -- Servicing and future releases](https://github.com/dotnet/core/blob/master/daily-builds.md)
+- Database
+  - [SQLite/SQL Server Compact Toolbox](https://marketplace.visualstudio.com/items?itemName=ErikEJ.SQLServerCompactSQLiteToolbox&fbclid=IwAR3-pzhs47PHm4c9Vd4-HvfFd-dfSeatWfnW4Iho2n3m_eRnuHMjWdbierQ): SQLite / SQL Server Compact Toolbox extension for Visual Studio. This extension adds several features to help your embedded database development efforts: Scripting of tables and data, import from SQL Server and CSV files and much, much more.
