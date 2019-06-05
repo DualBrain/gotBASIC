@@ -88,6 +88,11 @@ The Roslyn .NET compiler service provides C# and Visual Basic languages with ric
 
 - [dnSpy (GitHub)](https://github.com/0xd4d/dnSpy): .NET debugger and assembly editor.
 
+## Analyzers
+
+- [VBSttyleAnalyzer (GitHub)](https://github.com/mrlacey/VBStyleAnalyzer): Roslyn analyzers for VB UWP apps.
+- ["VBAnalyzers" search on GitHub](https://github.com/search?l=Visual+Basic&q=Imports+Microsoft.CodeAnalysis.VisualBasic.Syntax&type=Code): This search link was shared with me; need to spend some time investigating through the results to find the "best of the best".
+
 ## Samples
 
 - [VB Dev2Dev (GitHub)](https://github.com/VBDev2Dev)
