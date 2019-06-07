@@ -168,6 +168,7 @@ Although Microsoft has done a great job with several technology stacks; there ar
   - [Checkers Solitaire - An original game inspired by a game written circa 1978 by David H. Ahl. (GitHub)](https://github.com/DualBrain/CheckersSolitaire)
   - [Solitaire - Clone of Microsoft Windows Solitaire circa Windows XP. (GitHub)](https://github.com/DualBrain/Solitaire)
 - [ExpressionToString by Zev Spitz (GitHub)](https://github.com/zspitz/ExpressionToString#visual-studio-debugger-visualizer-for-expression-trees): String representation of expression trees and expression tree parts + debugging visualizer.
+- [dotNetTips.Utility by David McCarter (GitHub)](https://github.com/RealDotNetDave/dotNetTips.Utility): Common .NET code David McCarter has been writing since it was released that features C#, VB.NET, Portable Libraries, Logging, .NET Core.
 
 ## Additional Resources / Related Information
 
