@@ -30,6 +30,7 @@ What follows is not an exhaustive list of "issues" I see, but I believe this giv
 - Because TextWindow.WriteLine("Hello World") is SOOOO much better than PRINT "Hello World". ;-)
 - Start here so you can move to Java and C#????? What about VB?
 - There is the whole "graduate" thing that doesn't work.
+- On the official blog (at the time of making this list), the first entry is an [example](http://smallbasic.com/program/?NHT122-2).  Going to this example in Internet Explorer you'll find that there is a Silverlight version of the "compiler".  Running the application... it doesn't work.  OK, let's check to see if it works in the Windows application.  Launch and Import using the code NHT122-2.  Found, run... same problem.  The keys don't seem to align.  Switch over to the Web version... enter the number NHT122-2... not found.  Copy and paste the code directly, run... blank screen.  Try to downgrade back to 1.1... can't find the installer.  Grrr.  Literally, it's the first highlighted sample on their official blog!!!!
 
 Basically I'm saying that this verson of BASIC suffers from a form multiple-personality dissorder.  It's not 100% 
 sure of what it actually is supposed to be.
