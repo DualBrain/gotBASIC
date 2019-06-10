@@ -30,6 +30,8 @@ The Roslyn .NET compiler service provides C# and Visual Basic languages with ric
 ## Good Reads
 
 - [An Exhausting List of Differences Between VB.NET & C# by Anthony D. Green](https://anthonydgreen.net/2019/02/12/exhausting-list-of-differences-between-vb-net-c/)
+- [The Many Cases of ByRef by Jared Par](https://blog.paranoidcoding.com/2010/01/21/the-many-cases-of-byref.html)
+- [Deterministic builds in Roslyn by Jared Par](https://blog.paranoidcoding.com/2016/04/05/deterministic-builds-in-roslyn.html)
 
 ## How-To's
 
