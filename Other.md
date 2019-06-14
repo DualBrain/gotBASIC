@@ -4,6 +4,7 @@
 
 These are additional dialects that I've recently found that I'd like to spend more time investigating further.
 
+- [BBC BASIC](http://www.bbcbasic.co.uk/bbcbasic.html)
 - [AMOS2](http://amos2.tech/en-us/): After 30 years, [AMOS](https://en.wikipedia.org/wiki/AMOS_%28programming_language%29)/STOS are begin recreated by the [original author](http://storyofamos.blogspot.com/) targetting HTML5/Javascript.
 - [nuBASIC](https://www.nubasic.eu): nuBASIC is a programming language from the BASIC family, designed by the author, Antonino Calderone, mainly for educational purposes both for C++ developers that can deal with a non-trivial example of modern C++ programming and for beginners, which may get hooked on programming. ([SourceForge](https://sourceforge.net/projects/nubasic/))
 -[DolyeSoft BASIC 2.0](http://doylesoft.com/BASIC/?i=1): DoyleSoft BASIC, is a free, BASIC-like scripting language and IDE for all 32 and 64 bit versions of Windows.
