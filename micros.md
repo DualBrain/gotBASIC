@@ -1,4 +1,4 @@
-[Home](https://gotbasic.com) • [VB 7+](VB.md) • [VB 1-6](vb6.md) • [FB](FreeBASIC.md) • [QB64](QB64.md) • [QB45](QB.md) • [GW-BASIC](GW-BASIC.md) • [Arduino](AVR.md) • Retro
+[Home](https://gotbasic.com) • [VB 7+](vb.md) • [VB 1-6](vb6.md) • [FB](freebasic.md) • [QB64](qb64.md) • [QB45](qb.md) • [GW-BASIC](gw-basic.md) • [Arduino](avr.md) • Retro
 
 # Micros (Retrocomputing)
 

@@ -1,4 +1,4 @@
-[Home](https://gotbasic.com) • VB 7+ • [VB 1-6](vb6.md) • [FB](FreeBASIC.md) • [QB64](QB64.md) • [QB45](QB.md) • [GW-BASIC](GW-BASIC.md) • [Arduino](AVR.md)
+[Home](https://gotbasic.com) • VB 7+ • [VB 1-6](vb6.md) • [FB](freebasic.md) • [QB64](qb64.md) • [QB45](qb.md) • [GW-BASIC](gw-basic.md) • [Arduino](avr.md) • [Retro](micros.md)
 
 # Microsoft Visual Basic 7+ (.NET)
 
@@ -22,6 +22,8 @@ The Roslyn .NET compiler service provides C# and Visual Basic languages with ric
 - [QuickVB (GitHub)](https://github.com/DualBrain/QuickVB): A MS-DOS QuickBASIC/QBasic-like IDE for Visual Basic code that's powered by the .NET Compiler Platform ("Roslyn"). 
 - [Microsoft.VisualBasic Runtime Reference Source (GitHub)](https://github.com/DualBrain/referencesource/tree/master/Microsoft.VisualBasic/runtime/msvbalib)
 - [Microsoft.VisualBasic.Core (GitHub)](https://github.com/dotnet/corefx/tree/master/src/Microsoft.VisualBasic.Core/src/Microsoft/VisualBasic)
+- [Tracking the progress of porting VB Runtime to .NET Core](https://github.com/dotnet/corefx/issues/31181)
+- [Visual Basic in .NET Core 3.0 (Plan)](https://devblogs.microsoft.com/vbteam/visual-basic-in-net-core-3-0/)
 
 ## Online
 
@@ -43,6 +45,7 @@ The Roslyn .NET compiler service provides C# and Visual Basic languages with ric
 - [How to: Parse JSON using .NET or .NET Core – Intro](https://backtovisualbasic.net/how-to-parse-json-using-net-or-net-core/amp/)
 - [How to port desktop applications to .NET Core 3.0](https://devblogs.microsoft.com/dotnet/how-to-port-desktop-applications-to-net-core-3-0/)
 - [.NET Core Workers as Windows Services](https://devblogs.microsoft.com/aspnet/net-core-workers-as-windows-services/?utm_source=t.co&utm_medium=referral)
+- [Select the Visual Basic language version](https://docs.microsoft.com/en-us/dotnet/visual-basic/language-reference/configure-language-version)
 
 ## Video Tutorials
 
@@ -81,6 +84,7 @@ The Roslyn .NET compiler service provides C# and Visual Basic languages with ric
 
 ## Components
 
+- [AGKSharp for Windows](http://madbit.bplaced.com/?page_id=136): With AGKSharp you have the chance to write AppGameKit programs in the language C# and in VisualBasic.
 - [PuppyBreath by Reed Kimble (GitHub)](https://github.com/ReedKimble/PuppyBreath): A simplistic and robust video game engine for .NET Windows Forms projects, based entirely on managed code and GDI+ graphics.
 - [GdiGaming API by Reed Kimble (CodePlex)](https://archive.codeplex.com/?p=gdigaming): GDI+ based .NET Game Engine.
 - [DotNetBrowser - Integrate a Chromium-based browser with your .NET app. (Commercial)](https://www.teamdev.com/dotnetbrowser)
@@ -186,3 +190,4 @@ Although Microsoft has done a great job with several technology stacks; there ar
  - [.NET Core Daily Builds -- Servicing and future releases](https://github.com/dotnet/core/blob/master/daily-builds.md)
 - Database
   - [SQLite/SQL Server Compact Toolbox](https://marketplace.visualstudio.com/items?itemName=ErikEJ.SQLServerCompactSQLiteToolbox&fbclid=IwAR3-pzhs47PHm4c9Vd4-HvfFd-dfSeatWfnW4Iho2n3m_eRnuHMjWdbierQ): SQLite / SQL Server Compact Toolbox extension for Visual Studio. This extension adds several features to help your embedded database development efforts: Scripting of tables and data, import from SQL Server and CSV files and much, much more.
+- [Mono Visal Basic support](https://www.mono-project.com/docs/about-mono/languages/visualbasic/): Visual Basic.NET support in Mono. The Visual Basic runtime has been available for Mono for a while, and with the release of Mono 1.2.3, the Visual Basic support is complete, with the introduction of a self-hosting compiler and class libraries for Visual Basic development on any of the Mono supported systems.  
