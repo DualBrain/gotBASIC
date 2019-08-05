@@ -16,6 +16,7 @@
 ## Communities
 
 - [QuickBASIC Cafe](https://www.qbasic.net/)
+- [Pete's QBASIC / QuickBasic Site](www.petesqbsite.com/)
 
 ## GW-BASIC to QBasic
 

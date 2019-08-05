@@ -20,6 +20,7 @@ And remember...
   - [Gitter](https://gitter.im/GotBASIC/community)
   - [Facebook](https://www.facebook.com/groups/gotbasic)
 - [Wikipedia - List of BASIC dialects](https://en.wikipedia.org/wiki/List_of_BASIC_dialects)
+- [COMMAND_LINE HEROES - Season 3, Episode 2 - Learning the BASICs](https://www.redhat.com/en/command-line-heroes/season-3/learning-the-basics)  
 
 ## Sitemap (work-in-progress)
 

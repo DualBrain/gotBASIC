@@ -23,8 +23,13 @@
 - [MZ-Tools 8.0](https://www.mztools.com/)
 - [Zeus IDE](https://www.zeusedit.com/index.html)
 
+## Components
+
+- [Microsoft Visual Basic Power Packs 3.0](https://www.microsoft.com/en-us/download/details.aspx?id=25169&fbclid=IwAR1K6dTsikklTXyauJlQuZJExnSjdohJvXW0QzIrh6kkLxelTbof_LhQGog): Microsoft Visual Basic Power Packs 3.0 includes a new DataRepeater control and updated versions of the three previously released Visual Basic Power Packs, Line and Shape controls, the PrintForm Component and the Printer Compatibility Library.
+
 ## Alternatives
 
+- [RAD Basic (YouTube)](https://www.youtube.com/watch?v=oZNiXDBRl1I&feature=youtu.be)
 - [DoyleSoft BASIC](http://doylesoft.com/BASIC/?i=1)
 - [Jabaco](http://www.jabaco.org/)
 

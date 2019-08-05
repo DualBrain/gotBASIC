@@ -24,6 +24,11 @@ The Roslyn .NET compiler service provides C# and Visual Basic languages with ric
 - [Microsoft.VisualBasic.Core (GitHub)](https://github.com/dotnet/corefx/tree/master/src/Microsoft.VisualBasic.Core/src/Microsoft/VisualBasic)
 - [Tracking the progress of porting VB Runtime to .NET Core](https://github.com/dotnet/corefx/issues/31181)
 - [Visual Basic in .NET Core 3.0 (Plan)](https://devblogs.microsoft.com/vbteam/visual-basic-in-net-core-3-0/)
+- [Mono Linker - ILLink.Tasks](https://github.com/mono/linker/blob/master/src/ILLink.Tasks/README.md)
+- [.NET Core SDK "Nighlies"](https://github.com/dotnet/core-sdk/blob/master/README.md#installers-and-binaries)
+- [Select appropriate VB runtime by default #3415](https://github.com/dotnet/sdk/pull/3415)
+- [Features of a pattern matching syntax #337](https://github.com/dotnet/vblang/issues/337)
+- [.NET Core RID Catalog](https://docs.microsoft.com/en-us/dotnet/core/rid-catalog)
 
 ## Online
 
@@ -34,9 +39,13 @@ The Roslyn .NET compiler service provides C# and Visual Basic languages with ric
 - [An Exhausting List of Differences Between VB.NET & C# by Anthony D. Green](https://anthonydgreen.net/2019/02/12/exhausting-list-of-differences-between-vb-net-c/)
 - [The Many Cases of ByRef by Jared Par](https://blog.paranoidcoding.com/2010/01/21/the-many-cases-of-byref.html)
 - [Deterministic builds in Roslyn by Jared Par](https://blog.paranoidcoding.com/2016/04/05/deterministic-builds-in-roslyn.html)
+- [Windows Forms Visual Inheritance](https://docs.microsoft.com/en-us/dotnet/framework/winforms/advanced/windows-forms-visual-inheritance)
+- [Building web API apps on ASP.NET Core 2 and VB.NET](https://gunnarpeipman.com/aspnet/aspnet-core2-vbnet-weather-api/)
+- [Building ASP.NET Core web apps with VB.NET](https://dotnetthoughts.net/building-aspnet-core-apps-with-vbnet/)
 
 ## How-To's
 
+- [Setting up Raspian and .NET Core 2.0 on a Raspberry Pi](https://blogs.msdn.microsoft.com/david/2017/07/20/setting_up_raspian_and_dotnet_core_2_0_on_a_raspberry_pi/)
 - [Get Started with Video Game Development using PuppyBreath (see Components section)](https://social.msdn.microsoft.com/Forums/en-US/2440752f-66e5-4995-93c4-e018ce43efc9/how-to-get-started-with-video-game-development-in-visual-basic-net-using-the-puppybreath?forum=vbgeneral)
 - [GdiGaming GDI+ Gaming API (see Components section)](https://social.msdn.microsoft.com/Forums/vstudio/en-US/8cb8d926-6f79-41d2-a906-edf1c1aab650/gdi-gaming-api-gdigaming-ctp-1?forum=vbgeneral)
 - [How to Create Video Games in VB.Net (Windows Forms)](https://social.technet.microsoft.com/wiki/contents/articles/17358.how-to-create-video-games-in-vb-net-windows-forms.aspx)
@@ -46,6 +55,11 @@ The Roslyn .NET compiler service provides C# and Visual Basic languages with ric
 - [How to port desktop applications to .NET Core 3.0](https://devblogs.microsoft.com/dotnet/how-to-port-desktop-applications-to-net-core-3-0/)
 - [.NET Core Workers as Windows Services](https://devblogs.microsoft.com/aspnet/net-core-workers-as-windows-services/?utm_source=t.co&utm_medium=referral)
 - [Select the Visual Basic language version](https://docs.microsoft.com/en-us/dotnet/visual-basic/language-reference/configure-language-version)
+- [How to: Inherit Windows Forms](https://docs.microsoft.com/en-us/dotnet/framework/winforms/advanced/how-to-inherit-windows-forms)
+- [Migration to ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/migration/?view=aspnetcore-2.2#aspnet-to-aspnet-core)
+- [FTP](https://docs.microsoft.com/en-us/dotnet/framework/network-programming/ftp)
+- [Google Drive API how to VB.NET File Download (StackOverflow)](https://stackoverflow.com/questions/56931300/google-drive-api-how-to-vb-net-file-download)
+- [How to add watermark to PDF](https://www.syncfusion.com/kb/9072/how-to-add-watermark-to-pdf-file-in-c-vb-net?fbclid=IwAR2rHxCIGeiFCTqKs2tln5it-3Dliq4rdNsFcej3DSGjsMbYVAjyO2Hs5Mc)
 
 ## Video Tutorials
 
@@ -75,6 +89,7 @@ The Roslyn .NET compiler service provides C# and Visual Basic languages with ric
 
 ### User Groups
 
+- [.NET Developer Community](https://dotnet.microsoft.com/platform/community): Meet like-minded developers, connect with the .NET team, find podcass, and more.
 - Florida
   - [Boca Raton, FL FlaDotNet (Meetup)](https://www.meetup.com/FlaDotNet/events/)
 - Texas
@@ -96,6 +111,7 @@ The Roslyn .NET compiler service provides C# and Visual Basic languages with ric
 
 ## Analyzers
 
+- [Write Better Code Faster with Roslyn Analyzers](https://devblogs.microsoft.com/dotnet/write-better-code-faster-with-roslyn-analyzers/)
 - [code-cracker (GitHub)](https://github.com/code-cracker/code-cracker): An analyzer library for C# and VB that uses Roslyn to produce refactorings, code analysis, and other niceties. http://code-cracker.github.io/
 - [DotNetAnalyzers (GitHub)](https://github.com/DotNetAnalyzers/DotNetAnalyzers): This project is for the community to make a common code base of .NET code analyzers using the new VS14 code analyzer functionality. 
 - [VBSttyleAnalyzer (GitHub)](https://github.com/mrlacey/VBStyleAnalyzer): Roslyn analyzers for VB UWP apps.
@@ -137,19 +153,27 @@ Although Microsoft has done a great job with several technology stacks; there ar
   - [Introducing the new Microsoft.Data.SqlClient](https://devblogs.microsoft.com/dotnet/introducing-the-new-microsoftdatasqlclient/?fbclid=IwAR1kZtAt1AXL8DpEtF9uYtlRv2xXk4fyXXOMVIav3MLKLM2vWRgPuIgGE7I)
 - WebAssembly
   - [A Very Basically VB.NET WebAssembly Compiler](https://github.com/GCModeller-Cloud/data.ts/releases/tag/v0.5.136-alpha)
-- Xamaran
+- Xamarin
+  - [Visual Basic and .NET Standard](https://docs.microsoft.com/en-us/xamarin/cross-platform/platform/visual-basic/index)
   - [Xamarin.Forms using Visual Basic.NET](https://docs.microsoft.com/en-us/xamarin/cross-platform/platform/visual-basic/xamarin-forms)
   - [Visual Basic.NET in Xamarin iOS and Android](https://docs.microsoft.com/en-us/xamarin/cross-platform/platform/visual-basic/native-apps)
   - [Portable Visual Basic.NET](https://docs.microsoft.com/en-us/xamarin/cross-platform/platform/visual-basic/)
   - [Mobile Apps with Visual Basic & Xamarin.Forms](https://devblogs.microsoft.com/xamarin/mobile-apps-with-visual-basic-xamarin-forms/)
-  - [Xamarin.Forms with Visual Basic using PCL (GitHub)](https://github.com/xamarin/mobile-samples/tree/master/VisualBasic/XamarinFormsVB)  
+  - [Official Xamarin Samples (GitHub)](https://github.com/xamarin/mobile-samples/tree/master/VisualBasic)
+    - [XamarinFormsVB (GitHub)](https://github.com/xamarin/mobile-samples/tree/master/VisualBasic/XamarinFormsVB)  
+    - [TaskyVB (GitHub)](https://github.com/xamarin/mobile-samples/tree/master/VisualBasic/TaskyVB)  
+  - [Add full VB Support to Xamarin in 2018. (GitHub)](https://github.com/dotnet/vblang/issues/238)
 - [Razor](https://docs.microsoft.com/en-us/aspnet/web-pages/overview/getting-started/introducing-razor-syntax-vb)  
   - [Vazor - A VB.NET Razor for ASP.NET Core 3.0 MVC and Razor Pages.](https://github.com/VBAndCs/Vazor)  
   - [A VB.NET Razor for ASP.NET Core 2.2 MVC and Razor Pages.](https://github.com/VBAndCs/Vazor-DotNetCore2)  
 - [Blazor](https://blazor.net) - CAUTION: Seriously bleeding edge here... much of this isn't VB.  
   - [Getting Started with Blazor (YouTube)](https://www.youtube.com/watch?v=bbHzyIsqGuU&list=PL8h4jt35t1whukdnbIMpAEWmL4h1XABaa)  
   - [Blazor Dual-Mode Example (GitHub)](https://github.com/Suchiman/BlazorDualMode)  
-  
+- Web UI Alternatives
+  - [DotVVM (GitHub)](https://github.com/riganti/dotvvm): Open Source MVVM framework for Web Apps (https://www.dotvvm.com).  
+  - [Nancy (GitHub)](https://github.com/NancyFx/Nancy): Lightweight, low-ceremony, framework for building HTTP based services on .NET and Mono (http://nancyfx.org).  
+- [VB6 vs VB.NET Language](http://www.vbmigration.com/Resources/migratingfromvb6.aspx)
+
 ## COOL PROJECTS!!!!
 
 - [Anthony D. Green](https://anthonydgreen.net/)
@@ -190,4 +214,7 @@ Although Microsoft has done a great job with several technology stacks; there ar
  - [.NET Core Daily Builds -- Servicing and future releases](https://github.com/dotnet/core/blob/master/daily-builds.md)
 - Database
   - [SQLite/SQL Server Compact Toolbox](https://marketplace.visualstudio.com/items?itemName=ErikEJ.SQLServerCompactSQLiteToolbox&fbclid=IwAR3-pzhs47PHm4c9Vd4-HvfFd-dfSeatWfnW4Iho2n3m_eRnuHMjWdbierQ): SQLite / SQL Server Compact Toolbox extension for Visual Studio. This extension adds several features to help your embedded database development efforts: Scripting of tables and data, import from SQL Server and CSV files and much, much more.
-- [Mono Visal Basic support](https://www.mono-project.com/docs/about-mono/languages/visualbasic/): Visual Basic.NET support in Mono. The Visual Basic runtime has been available for Mono for a while, and with the release of Mono 1.2.3, the Visual Basic support is complete, with the introduction of a self-hosting compiler and class libraries for Visual Basic development on any of the Mono supported systems.  
+- [Mono Visual Basic support](https://www.mono-project.com/docs/about-mono/languages/visualbasic/): Visual Basic.NET support in Mono. The Visual Basic runtime has been available for Mono for a while, and with the release of Mono 1.2.3, the Visual Basic support is complete, with the introduction of a self-hosting compiler and class libraries for Visual Basic development on any of the Mono supported systems.  
+- [gRPC for .NET (GitHub)](https://github.com/grpc/grpc-dotnet)
+- [SlackNet](https://github.com/soxtoby/SlackNet): A comprehensive Slack API client for .NET.
+- [VSCode extension for CS-Script (GitHub)](https://github.com/oleg-shilo/cs-script.vscode): 

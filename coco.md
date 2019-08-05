@@ -30,6 +30,10 @@
 - [How to build a Matchbox CoCo](http://www.cococommunity.net/how-to-build-your-own-coco-4/)
 - [How to build a Mr. CoCo](http://www.cococommunity.net/how-to-build-a-mr-coco/)
 
+## Programs
+
+- [Type-in Mania: An Interactive Database of Early Basic Computer Applications](http://faculty.cbu.ca/jgerrie/Home/Type-in-Mania.html?fbclid=IwAR3DAaO6aL8Lho29OYJgUzuyFLy7iSZTW5SA4nNyVVI9zazwNDf8wrDe0Og)
+
 ## Additional Information
 
 - [TRS-80 Color Computer Archive](http://www.colorcomputerarchive.com/)
