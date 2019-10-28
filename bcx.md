@@ -8,7 +8,17 @@ BCX is a small command line tool that inputs a BCX BASIC source code file and ou
 
 Although BCX remains a work in progress, it is capable of some very powerful feats. Its ability to use Microsoft Windows structures, variables, and the powerful Win32 API, coupled with its ability to mix "C" code in a straight forward BASIC way, makes BCX a very powerful tool while retaining the relative ease of use by anyone familiar with modern BASIC programming."
 
-NOTE: BCX appears to be at at least version 7.2.6 (see [here](https://sourceforge.net/p/bc9basic/blog/)) as of 2016-02-23; however, not able to find this anywhere on the web.  I'm assuming that it's only available through the "Yahoo Group"; which, I've not been able to get any sort of a response when emailing the admin of that group in the past to get my account flagged as being able to see the files.  Would be so much simpler if they would either a) update 
+NOTE: BCX appears to be at at least version 7.2.6 (see [here](https://sourceforge.net/p/bc9basic/blog/)) as of 2016-02-23; however, not able to find this anywhere on the web.  I'm assuming that it's only available through the "Yahoo Group"; which, I've not been able to get any sort of a response when emailing the admin of that group in the past to get my account flagged as being able to see the files.  Would be so much simpler if they would either a) update where these files can be retrieved or b) move it to github like many other projects that mentioned on this site (hint, hint).
+
+## UPDATE - UPDATE - UPDATE
+
+It has recently been anounced in the yahoo group that yahoo is changing the service in such a way that BCX will no longer be housed within it's walls...
+
+Furthermore, it was announced (10/26/2019) that Jeff Shollenberger is now hosting a new official site for BCX located at:
+
+- [BCX Basic Coders](http://BcxBasicCoders.com): The Open Source BASIC to C Translator for Windows.
+
+## Original Site(s)
 
 - [BCX - The FREE! BASIC to C translator for Windows](http://www.bcxbasic.com/) ([archive](https://web.archive.org/web/20160422073918/http://www.bcxbasic.com/))
 - [BCX (Basic to C Converter](http://bcx-basic.sourceforge.net/)
