@@ -43,6 +43,17 @@ The Roslyn .NET compiler service provides C# and Visual Basic languages with ric
 - [Building web API apps on ASP.NET Core 2 and VB.NET](https://gunnarpeipman.com/aspnet/aspnet-core2-vbnet-weather-api/)
 - [Building ASP.NET Core web apps with VB.NET](https://dotnetthoughts.net/building-aspnet-core-apps-with-vbnet/)
 
+## People
+
+The following people are either people who are (or have) worked on Visual Basic (.NET / .NET Core) or who are individuals who actively advocate / promote it's usage by providing samples, projects, public speaking, etc.
+
+- [Anthony D. Green](https://anthonydgreen.net/) ([blog](https://anthonydgreen.net/), [github](https://github.com/AnthonyDGreen))
+- [Cory Smith](https://addressof.com) ([blog](https://addressof.com), [github](https://github.com/dualbrain))
+- Paul M. Cohen ([github](https://github.com/paul1956))
+- [Xavier Flix]() ([blog](https://whenimbored.xfx.net/), [github](https://github.com/morphx666))
+
+If you would like to be added to this list, please feel free to either contact me or create a pull request. ;-)
+
 ## How-To's
 
 - [Setting up Raspian and .NET Core 2.0 on a Raspberry Pi](https://blogs.msdn.microsoft.com/david/2017/07/20/setting_up_raspian_and_dotnet_core_2_0_on_a_raspberry_pi/)
