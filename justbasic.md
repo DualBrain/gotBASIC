@@ -5,6 +5,7 @@
 ### Where to find?
 
 - [Just BASIC](http://www.justbasic.com/)
+- [Official Form](https://justbasiccom.proboards.com/)
 
 ### Social Media
 
