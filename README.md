@@ -34,6 +34,7 @@ And remember...
 - [BCX](bcx.md)
 - [Chipmunk BASIC](chipmunk.md)
 - [BlitzBASIC](blitz.md)
+- [Bywater BASIC Interpreter](bywater.md)
 - Microcontrollers
   - [AVR](avr.md)
   - [PIC32](pic32.md)
