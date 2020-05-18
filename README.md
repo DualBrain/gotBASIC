@@ -14,7 +14,13 @@ And remember...
 
 ## General Links
 
-- [Where it all started.](https://www.dartmouth.edu/basicfifty/basicmanual_1964.pdf)
+  - Where it all started...
+    - [BASIC Manual (v1)](https://www.dartmouth.edu/basicfifty/basicmanual_1964.pdf)
+    - [BASIC Manual (v2)](http://www.bitsavers.org/pdf/dartmouth/BASIC_Oct64.pdf)
+    - [Birth of BASIC (YouTube)](https://youtu.be/WYPNjSoDrqw)
+    - [Photo of John G. Kemeny circa 1971](https://www.facebook.com/photo.php?fbid=3231692710177167&set=gm.2801583449951637&type=3&eid=ARBtSSg1CovWA2io5tfAxHmmAPipYiSrENWlV7gpvv7y37WUdFsJ9hCG0VFfODJdf76_IVQ3k6fOEczC&ifg=1)
+
+- [Why Johnny can't code](https://www.salon.com/test2/2006/09/14/basic_2) by David Brin
 
 - Love BASIC? Have questions?  Want to get more involved?  Join us on...
   - [Gitter](https://gitter.im/GotBASIC/community)
@@ -35,6 +41,8 @@ And remember...
 - [Chipmunk BASIC](chipmunk.md)
 - [BlitzBASIC](blitz.md)
 - [Bywater BASIC Interpreter](bywater.md)
+- [Oxygen Basic](oxygen.md)
+- [SpecBAS](specbas.md)
 - Microcontrollers
   - [AVR](avr.md)
   - [PIC32](pic32.md)
@@ -45,3 +53,7 @@ And remember...
   - [Tandy/RadioShack Color Computer Series](coco.md)
 - [Single-board Computer Projects](SingleBoard.md)
 - [Other...](other.md)
+
+## Other Resources (Lists)
+
+- [the basics' page](http://basic.mindteq.com/)

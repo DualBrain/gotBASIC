@@ -2,6 +2,8 @@
 
 ## Just BASIC
 
+Just BASIC is a programming language for Windows.  It is completely free and it is suitable for creating all kinds of applications for business, industry, education and entertainment.
+
 ### Where to find?
 
 - [Just BASIC](http://www.justbasic.com/)

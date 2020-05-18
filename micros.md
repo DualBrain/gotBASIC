@@ -2,6 +2,8 @@
 
 # Micros (Retrocomputing)
 
+- Apple
+  - [Apple II](apple.md)
 - Atari
   - [Atari 2600](atari.md)
   - [Atari 600XL/800XL](atari.md)
