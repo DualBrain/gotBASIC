@@ -15,6 +15,7 @@ These are additional dialects that I've recently found that I'd like to spend mo
 - [Basic4GL](https://www.basic4gl.net/): Write programs in BASIC on your PC - then run them on your Android phone or tablet.
 - [BBC BASIC](http://www.bbcbasic.co.uk/bbcbasic.html)
 - [Blassic](http://blassic.net/): Blassic is a classic Basic interpreter. The line numbers are mandatory, and it has PEEK & POKE. The main goal is to execute programs written in old interpreters, even those that use peculiar control flow constructs or automodifiable code. However, it can be used as a scripting language, and has some not-so-classic instructions. It has graphics modes that are compatible with some classic systems and user defined. 
+- [bootBASIC](https://github.com/nanochess/bootBASIC): bootBASIC is a BASIC language in 512 bytes of x86 machine code.
 - [Bywater BASIC Interpreter](https://sourceforge.net/projects/bwbasic/): The Bywater BASIC Interpreter (bwBASIC) implements a large superset of the ANSI Standard for Minimal BASIC (X3.60-1978) and a significant subset of the ANSI Standard for Full BASIC (X3.113-1987) in C.
 - [Decimal BASIC](http://hp.vector.co.jp/authors/VA008683/english/): Decimal BASIC is a programming environment for those who write programs for their own investigation. Decimal BASIC adopts ANSI/ISO Full BASIC as its syntax, because Full BASIC has suitable facilities for those who are unacquainted with the peculiar knowledge about computers.
 - [DolyeSoft BASIC 2.0](http://doylesoft.com/BASIC/?i=1): DoyleSoft BASIC, is a free, BASIC-like scripting language and IDE for all 32 and 64 bit versions of Windows.
@@ -29,7 +30,8 @@ These are additional dialects that I've recently found that I'd like to spend mo
 - [OxygenBasic](https://www.oxygenbasic.org/): A Compact embeddable JIT compiler that reads C headers and compiles to x86 machine code. Executes directly in memory or creates DLLs and EXE files. Supports overloading and OOP. Currently available for MS platforms. 
 - [OxygenBasic (GitHub)](https://github.com/Charles-Pegge/OxygenBasic): BASIC Compiler. Run programs directly, or compile to 32/64 bit binary.  Supports C headers and assembly code.
 - [RBASIC](http://www.rbasic.com/): RBASIC (Radio Basic) is a rapid application development environment especially designed to make custom software development for software-defined radio receivers easier and more enjoyable. 
-- [RFO BASIC!](http://rfo-basic.com): The Dr. Richard Feynman Observatory BASIC! for Android.
+- [RFO BASIC!](http://rfo-basic.com): The Dr. Richard Feynman Observatory BASIC! for Android.  ([Forum](https://www.tapatalk.com/groups/rfobasic/)) ([Google Play](https://play.google.com/store/apps/details?id=com.rfo.compiler))
+- [RTB - BASIC](https://projects.drogon.net/rtb): Return to Basics, or RTB, is a programming language inspired by the BASIC programming language that was used on the microcomputers of the late 1970s and 1980s.  As well has having an interactive allowing program entry, debugging, listing and so on in the same way as traditional BASIC has with line numbers, it also takes a more modern approach with a full-screen syntax highlighting editor which allows easier program entry without line-numbers, a unified looping construct, multi-line if/then/else statements, named procedures and functions and many more features to list here.  It currently runs on the Raspberry Pi under Raspbian and other Linux systems.
 - [Run BASIC](http://www.runbasic.com/): Run BASIC Personal Server is an all-in-one system that makes web programming easy and fun. With a knowledge of the BASIC programming language and without needing to learn a lot of arcane web technologies you can create web applications for use on a PC, for use on a local network, or hosted onto the Internet. Run BASIC applications work on Windows, Linux and Mac computers and many cell phones. 
 - [Script BASIC](https://www.scriptbasic.org/)
 - [Script BASIC (on SourceForge)](https://sourceforge.net/projects/scriptbasic/)
@@ -49,6 +51,10 @@ wxBasic can create stand-alone executables by binding together source code with 
 - [How to Build an 8-bit Computer](https://www.instructables.com/id/How-to-Build-an-8-Bit-Computer/)
 - [GB Studio](https://www.gbstudio.dev/): A free and easy to use retro adventure game creator for your favorite handheld video game system.
 - [AVR-BASIC Computer (GitHub))](https://github.com/fuzzymannerz/AVR-BASIC-Computer): An updated version of [AVR-BASIC Computer v1](https://hackaday.io/project/3537-avr-basic-computer-v01) to work with Arduino IDE >=1.8.
+
+# Wow!
+
+- [BBC Micro Bot](https://www.8bitkick.cc/bbc-micro-bot.html): Welcome to 8-bit cloud.  Send a tweet to @bbcmicrobot and it will run it on a 1980s 8-bit computer emulation!
 
 # Shouldn't these projects be in BASIC? ;-)
 

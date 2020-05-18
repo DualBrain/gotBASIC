@@ -20,6 +20,10 @@ Please be sure to take the time to visit [https://gw-basic.com](https://gw-basic
 - [GW-BASIC by Cory Smith (Silverlight Edition)](http://addressof.com/basic/)
 - BASIC-80 Interpreter for Windows - Sent email to the autor asking for permission to host.
 
+## Videos
+
+- [Writing a Tetris clone in GW-BASIC -- Tandy 1000 programming example](https://www.youtube.com/watch?v=JDnypVoQcPw) ([Source (PDF)](https://bisqwit.iki.fi/jutut/kuvat/programming_examples/gwbasictetris.pdf))
+
 ## SUPER COOL PROJECTS!
 
 - [The M.I.C.E. Project - The (World's) Most Ill-Concieved Emulator: A TRS-80 Model I Emulator in GW-BASIC.](http://www.vavasour.ca/jeff/mice.html)

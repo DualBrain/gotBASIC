@@ -5,3 +5,11 @@
 ### Hardware Emulation (FPGA)
 
 - [Amiga on MiSTer](https://www.mistercores.com/amiga-core/)
+
+## Videos
+
+- [How to install Amiblitz / Blitz Basic 3 on the Commodore Amiga running on WinUAW](https://youtu.be/BftEFLlSWhI)
+
+## Books
+
+- [Amiga 3D Graphic Programming in BASIC](https://archive.org/details/Amiga3dGraphicProgrammingInBasic/mode/2up): A revealing book on how to use the spectacular and powerful graphic capabilities of the Amiga.

@@ -4,17 +4,28 @@
 
 - Apple
   - [Apple II](apple.md)
+- Applied Technology
+  - [MicroBee](microbee.md)
 - Atari
   - [Atari 2600](atari.md)
   - [Atari 600XL/800XL](atari.md)
+- BBC Micro
+  - [Model B](bbc.md)
 - Commodore
   - [Amiga](amiga.md)
   - [C64](c64.md)
+  - [PET](pet.md)
+  - [VIC20](vic20.md)
 - RadioShack (Tandy)
   - TRS-80 Model I (Level I, Level II)
   - TRS-80 Model II
   - TRS-80 Model III
   - TRS-80 Model IV
+  - [Color Computer MC-10](mc10.md)
   - [Color Computer 1](coco.md)
   - [Color Computer 2](coco.md)
   - [Color Computer 3](coco.md)
+
+# Books
+
+- [More BASIC Computer Games by David H. Ahl (PDF)](https://www.atariarchives.org/morebasicgames/index.php) - 1979
