@@ -211,6 +211,10 @@ Although Microsoft has done a great job with several technology stacks; there ar
 - [ExpressionToString by Zev Spitz (GitHub)](https://github.com/zspitz/ExpressionToString#visual-studio-debugger-visualizer-for-expression-trees): String representation of expression trees and expression tree parts + debugging visualizer.
 - [dotNetTips.Utility by David McCarter (GitHub)](https://github.com/RealDotNetDave/dotNetTips.Utility): Common .NET code David McCarter has been writing since it was released that features C#, VB.NET, Portable Libraries, Logging, .NET Core.
 
+## GitHub Projects
+
+- [VBAsyncEnumerableHelper](https://github.com/Nukepayload2/VBAsyncEnumerableHelper): Provides helpers for consuming BCL Async interfaces with VB.
+
 ## Additional Resources / Related Information
 
 - [Microsoft WinForms .NET Core UI Framework (GitHub)](https://github.com/dotnet/winforms): Windows Forms is a .NET Core UI framework for building Windows desktop applications. 

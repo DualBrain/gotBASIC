@@ -22,6 +22,7 @@
 - [Rubberduck on GitHub](https://github.com/rubberduck-vba/Rubberduck)
 - [MZ-Tools 8.0](https://www.mztools.com/)
 - [Zeus IDE](https://www.zeusedit.com/index.html)
+- [ModernVB (GitHub)](https://github.com/VykosX/ModernVB): Updates the Visual Basic 6 IDE to look and feel more modern.
 
 ## Components
 

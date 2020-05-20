@@ -47,6 +47,7 @@ And remember...
 - [Oxygen Basic](oxygen.md)
 - [SpecBAS](specbas.md)
 - [PowerBASIC](powerbasic.md)
+- [thinBASIC](thinbasic.md)
 - Microcontrollers
   - [AVR](avr.md)
   - [PIC32](pic32.md)
