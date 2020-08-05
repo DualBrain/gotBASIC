@@ -2,6 +2,10 @@
 
 # Single Board Computers
 
+## Raspberry Pi
+
+- See [Raspberry Pi](pi.md)
+
 ## The Colour Maximite
 
 - [The Colour Maximite](http://geoffg.net/maximite.html)
@@ -11,6 +15,7 @@
 - [MMBasic - A full featured BASIC interpreter for 32 bit microcontrollers](http://mmbasic.com/)
 - [Port of z80sim 1.17 to PIC32](https://github.com/TheCodeman/z80pack-1.17-ksd-pic32)
 - [The Back Shed - BASIC Speed Benchmark Tests](https://www.thebackshed.com/forum/forum_posts.asp?TID=4685&PN=1&TPN=1)
+- See also [Colour Maximite](maximite.md)
 
 ## Duinomite (fork of Maximite)
 

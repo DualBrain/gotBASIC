@@ -56,7 +56,7 @@ And remember...
   - [Commodore Amiga](amiga.md)
   - [Commodore C64](c64.md)
   - [Tandy/RadioShack Color Computer Series](coco.md)
-- [Single-board Computer Projects](SingleBoard.md)
+- [Single-board Computer Projects](singleboard.md)
 - [Other...](other.md)
 
 ## WOW! just WOW!
