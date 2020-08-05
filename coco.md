@@ -5,6 +5,7 @@
 ## Emulators
 
 - [Color Compouter 2 Disk BASIC v1.1 circa 1982 (Archive.org)](https://archive.org/details/coco2cart_Color_Computer_Disk_BASIC_V1.1_1982_26-3022_Tandy): No need to download, start playing right away directly in your browser!
+- [XRoar - Dragon & CoCo emulator](https://www.6809.org.uk/xroar): XRoar is a Dragon emulator for Linux, Unix, Mac OS X and Windows. Due to hardware similarities, XRoar also emulates the Tandy Colour Computer (CoCo) models 1 & 2.
 
 ## IDE (Windows)
 
@@ -17,6 +18,7 @@
 ## Color Compouter 2
 
 - [Getting Started With Extended Color Basic (PDF)](http://www.colorcomputerarchive.com/coco/Documents/Manuals/Hardware/Getting%20Started%20With%20Extended%20Color%20Basic%20(Tandy).pdf)
+- [The MOOH - Memory expansion for your Dragon or CoCo 1/2](http://tormod.me/mooh.html): The MOOH is a memory expansion cartridge board for the Dragon 32/64 and CoCo 1/2, adding 512 KB of RAM and a socket for up to 64 KB ROM. It also features an SPI interface and an SD-card slot.
 
 ## Color Computer 3
 
@@ -25,10 +27,21 @@
 - [How to get VGA for the CoCo 3](http://www.cococommunity.net/vga-for-the-coco-3/)
 - [FPGA RGB2VGA](https://sites.google.com/site/tandycocoloco/rgb2vga)
 
+## CocoPi3
+
+[Zipped SD card image for Raspberry Pi 3](http://www.cocopi3.com/)
+[Zipped SD card image for Raspberry Pi 3 (Alt)](http://ogsteviestrow.com/coco3/)
+[CocoPi3 RPi3 Distribution](https://github.com/mrgw454/CocoPi3)
+[HOWTO: Add new CocoPi3 git repo to CocoPi3 distribution](https://docs.google.com/document/d/1tTtsB-_iR7ECtPwY11cxcHeB9GSF8oaZszDFWWV3uNg)
+[Ron Klien's YouTube Channel](https://www.youtube.com/channel/UCApGKXmQxldvBga3_CoeWXA)
+[CocoPi3 Release Notes (CocoFEST 2019 Edition)](https://docs.google.com/document/d/1BkhNFjF3vd7sCoy1E6qa7TlPGUPdZMy2xz4EqZoyqtk)
+
 ## Hardware Emulation (FPGA)
 
 - [How to build a Matchbox CoCo](http://www.cococommunity.net/how-to-build-your-own-coco-4/)
 - [How to build a Mr. CoCo](http://www.cococommunity.net/how-to-build-a-mr-coco/)
+- [A hardware keyboard encoder for the TRS-80 Color Computer](https://github.com/wyndec/CoCoKeys2USB)
+- [HxC2001 - A Universal Floppy Drive Emulator](http://hxc2001.free.fr/floppy_drive_emulator/)
 
 ## Programs
 
@@ -38,3 +51,8 @@
 
 - [TRS-80 Color Computer Archive](http://www.colorcomputerarchive.com/)
 - [CoCoWares](http://cocowares.com/): The place to find all the Hardware, Software and Services currently available for the TRS-80 / Tandy Color Computer.
+- [NitrOS-9 "Ease of Use" (EOU)](http://www.lcurtisboyle.com/nitros9/nitros9.html)
+- [FuzixOS: Because Small Is Beautiful](https://github.com/EtchedPixels/FUZIX)
+- [Fuzix Installer Project (FIP)](https://github.com/beretta42/fip): Tandy CoCo3 Specific.
+- [YA-DOS-0.5a+ compatible HDD image](https://github.com/mrgw454/CCHDD)
+- [The KEEP BBS](https://web2.thekeep.net/wp/)

@@ -29,6 +29,10 @@ The Roslyn .NET compiler service provides C# and Visual Basic languages with ric
 - [Select appropriate VB runtime by default #3415](https://github.com/dotnet/sdk/pull/3415)
 - [Features of a pattern matching syntax #337](https://github.com/dotnet/vblang/issues/337)
 - [.NET Core RID Catalog](https://docs.microsoft.com/en-us/dotnet/core/rid-catalog)
+- [WinForms (.NET Core) Samples](https://github.com/dotnet/samples/tree/master/windowsforms)
+- [Use the Windows Compatibility Pack to port code to .NET Core](https://docs.microsoft.com/en-us/dotnet/core/porting/windows-compat-pack)
+- [WindowCommunityToolkit](https://github.com/windows-toolkit/WindowsCommunityToolkit): The Windows Community Toolkit is a collection of helper functions, custom controls, and app services. It simplifies and demonstrates common developer tasks building UWP apps for Windows 10. The toolkit is part of the .NET Foundation.
+- [MAUI](https://github.com/dotnet/maui): MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop. [Introduction](https://devblogs.microsoft.com/dotnet/introducing-net-multi-platform-app-ui/)
 
 ## Online
 
@@ -184,6 +188,8 @@ Although Microsoft has done a great job with several technology stacks; there ar
   - [DotVVM (GitHub)](https://github.com/riganti/dotvvm): Open Source MVVM framework for Web Apps (https://www.dotvvm.com).  
   - [Nancy (GitHub)](https://github.com/NancyFx/Nancy): Lightweight, low-ceremony, framework for building HTTP based services on .NET and Mono (http://nancyfx.org).  
 - [VB6 vs VB.NET Language](http://www.vbmigration.com/Resources/migratingfromvb6.aspx)
+- [VB.NET Grammars and Snippets
+ for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=gordonwalkedby.vbnet)
 
 ## COOL PROJECTS!!!!
 

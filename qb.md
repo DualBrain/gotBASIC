@@ -18,6 +18,10 @@
 - [QuickBASIC Cafe](https://www.qbasic.net/)
 - [Pete's QBASIC / QuickBasic Site](www.petesqbsite.com/)
 
+## Interesting Projects
+
+- [A Markdown implementation for FreeDOS](https://github.com/clasqm/QBASDOWN): Convert (parse) markdown (.md) files into HTML.
+
 ## GW-BASIC to QBasic
 
 ### Summary
