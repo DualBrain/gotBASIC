@@ -4,18 +4,18 @@
 
 - [Raspberry Pi (Official)](https://www.raspberrypi.org/)
 
-# Visual Basic via .NET Core
+## Visual Basic via .NET Core
 
 For the most part, discussions in this section are going to be specific to Pi4 running [Raspbian](https://www.raspbian.org) and Visual Basic as it exists through [.NET Core](https://dotnet.microsoft.com). At the time of this writing the official release of .NET Core is v3.1; v5 is "just around the corner".
 
 There are basically two paths to *developing* for Pi; one is to use another PC (Windows 10 for example) and the other is developing directly on the Pi.  
 
-## Using Windows 10
+### Using Windows 10
 
 - [Visual Studio 2019](https://visualstudio.microsoft.com/vs/): I prefer the *Community Edition*: from what I understand it is free for personal use,, small project/team use (5 or less in size) and or active contribution to open source.  Hint: This website is actually open source; please feel free to contribute via github. ;-)  When you install, be sure to select *.NET desktop development* and *.NET Core cross-platform development*.
 - [GTK# for .NET](https://www.mono-project.com/download/stable/): Note: Do not need to install Mono; just click the *Download Gtk#* "button".
 
-## Using Raspbian
+### Using Raspbian
 
 - [.NET Core](https://docs.microsoft.com/en-us/dotnet/core/install/linux-debian) or this [HowTo](https://elbruno.com/2019/12/30/raspberypi-how-to-install-net-core-3-1-in-a-raspberry-pi-4/)
 - [How to install Visual Studio Code on a Raspberry Pi 4 in minutes (Scott Hanselman)](https://www.hanselman.com/blog/HowToInstallVisualStudioCodeOnARaspberryPi4InMinutes.aspx): Please note that the build for this is actually targeting *stretch*, not *buster* - but seems to work just fine.
@@ -26,7 +26,7 @@ There are basically two paths to *developing* for Pi; one is to use another PC (
 
 To make things simpler (since I prefer to develop on Windows 10), I also setup remote desktop from Windows 10 to Pi4 following the instructions for *Remote desktop with xrdp* using [this](https://raspberrytips.com/remote-desktop-raspberry-pi/).
 
-## Building a GUI-style Application
+### Building a GUI-style Application
 
 The following instructions are an overview (500 mile high) set of actions you must do regardless of whether or not you are developing using Visual Studio 2019 (Windows 10) or Visual Studio Code (Raspbian).
 
@@ -36,8 +36,19 @@ The following instructions are an overview (500 mile high) set of actions you mu
 - Need to add the nuget package for "[GtkSharp](https://www.nuget.org/packages/GtkSharp)"
 - Need to add the nuget package for "[System.Drawing.Common](https://www.nuget.org/packages/System.Drawing.Common/4.7.0)"
 
+## Tutorials
+
+- [GtkSharp - Cross Platform Toolkits (5 part series)](http://grbd.github.io/posts/2016/01/28/gtksharp-part-1-cross-platform-toolkits/)
+
+## Q&amp;A
+
+- [How to check the OS version at runtime?](https://stackoverflow.com/questions/5116977/how-to-check-the-os-version-at-runtime-e-g-on-windows-or-linux-without-using)
+- [Glade Multiple Window Project](https://stackoverflow.com/questions/54853986/glade-gtkmm-multiple-window-project)
+- [Can't center dialog window above main window when using Glade (Quickly)](https://askubuntu.com/questions/186587/cant-center-dialog-window-above-main-window-when-using-glade-quickly)
+
 ## Helpful Links
 
 - [5 ways to remote desktop on Raspberry Pi (Windows/Linux/Mac)](https://raspberrytips.com/remote-desktop-raspberry-pi/)
 - [Barrier - Software KVM](https://github.com/debauchee/barrier/releases/tag/v2.3.2)
 - [How To Install Visual Studio Code on a Raspberry Pi 4 In Minutes](https://www.hanselman.com/blog/HowToInstallVisualStudioCodeOnARaspberryPi4InMinutes.aspx)
+- [Discussion of "Move UI from WinForms to GTK#"](https://github.com/KSP-CKAN/CKAN/issues/1840)
