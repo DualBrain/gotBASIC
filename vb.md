@@ -239,3 +239,5 @@ Although Microsoft has done a great job with several technology stacks; there ar
 - [gRPC for .NET (GitHub)](https://github.com/grpc/grpc-dotnet)
 - [SlackNet](https://github.com/soxtoby/SlackNet): A comprehensive Slack API client for .NET.
 - [VSCode extension for CS-Script (GitHub)](https://github.com/oleg-shilo/cs-script.vscode): 
+- [WasmWinforms (GitHub)](https://github.com/roozbehid/WasmWinforms)
+- [NuGet Must Haves](https://nugetmusthaves.com/): Helps you find the best NuGet packages!

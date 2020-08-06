@@ -64,4 +64,5 @@
 - [Semi-VB-Decompiler](http://www.semivbdecompiler.com/)
 - [TheProgrammingZone (Semi-VB-Decompiler)](https://www.theprogrammingzone.com/)
 - [Semi-VB-Decompiler (GitHub)](https://github.com/VBGAMER45/Semi-VB-Decompiler)
+- [vb2glade](https://sourceforge.net/p/vb2glade/code/HEAD/tree/)
 

@@ -39,12 +39,17 @@ The following instructions are an overview (500 mile high) set of actions you mu
 ## Tutorials
 
 - [GtkSharp - Cross Platform Toolkits (5 part series)](http://grbd.github.io/posts/2016/01/28/gtksharp-part-1-cross-platform-toolkits/)
+- [ZetCode - GTK# tutorial](http://zetcode.com/gui/gtksharp/)
+- [ZetCode - Widgets II in GTK#](http://zetcode.com/gui/gtksharp/widgetsII/)
 
 ## Q&amp;A
 
 - [How to check the OS version at runtime?](https://stackoverflow.com/questions/5116977/how-to-check-the-os-version-at-runtime-e-g-on-windows-or-linux-without-using)
 - [Glade Multiple Window Project](https://stackoverflow.com/questions/54853986/glade-gtkmm-multiple-window-project)
 - [Can't center dialog window above main window when using Glade (Quickly)](https://askubuntu.com/questions/186587/cant-center-dialog-window-above-main-window-when-using-glade-quickly)
+- [Open subwindow in GTK3](https://stackoverflow.com/questions/22747195/open-subwindow-in-gtk3)
+- [Make GTK widget fill parent window](https://stackoverflow.com/questions/29985323/make-gtk-widget-fill-parent-window)
+- [How do I access GUI (GTK) from multi threads?](https://stackoverflow.com/questions/2548200/how-do-i-access-gui-gtk-from-multi-threads)
 
 ## Helpful Links
 
@@ -52,3 +57,20 @@ The following instructions are an overview (500 mile high) set of actions you mu
 - [Barrier - Software KVM](https://github.com/debauchee/barrier/releases/tag/v2.3.2)
 - [How To Install Visual Studio Code on a Raspberry Pi 4 In Minutes](https://www.hanselman.com/blog/HowToInstallVisualStudioCodeOnARaspberryPi4InMinutes.aspx)
 - [Discussion of "Move UI from WinForms to GTK#"](https://github.com/KSP-CKAN/CKAN/issues/1840)
+- [An introduction to GUI building with Glade (PDF)](https://www-uxsup.csx.cam.ac.uk/courses/moved.Glade/course.pdf)
+
+## For future research
+
+- [Convert a GTK application to a Qt application](https://madebyryan.blogspot.com/2011/07/convert-gtk-application-into-qt.html)
+- [QtSharp (GitHub)](https://github.com/ddobrev/QtSharp)
+- [QtSharp (GitLab)](https://gitlab.com/ddobrev/QtSharp)
+- [Cross Platform WinForms (Kinda)](https://dotnetcoretutorials.com/2018/03/19/cross-platform-winforms-kinda/)
+- [Programming with gtkmm 3](http://transit.iut2.upmf-grenoble.fr/doc/gtkmm-3.0/tutorial/html/index.html)
+- [GTK+ Reference Manual](https://developer.gimp.org/api/2.0/gtk/index.html)
+- [GtkSharp: HelloWorld, second try (scroll down a little bit)](https://www.mono-project.com/docs/gui/gtksharp/hello-world/)
+- [convert gtkglade to libglade for backwards compatibility](https://stackoverflow.com/questions/5599394/convert-gtkglade-to-libglade-for-a-backwards-compatibility)
+- [How do I use gtk builder in C#](https://stackoverflow.com/questions/15599497/how-do-i-use-gtk-builder-in-c-sharp)
+- [Glade 3.8 Win32 Binaries](http://ftp.gnome.org/pub/GNOME/binaries/win32/glade/3.8/)
+- [Creating a closable tab in Mono/GTK](https://stackoverflow.com/questions/2581902/creating-a-closeable-tab-in-mono-gtk)
+- [Layout management in PyGTK](http://zetcode.com/gui/pygtk/layout/) or [GTK+ layout management](http://zetcode.com/gui/gtk2/gtklayoutmanagement/)
+- [Menus and toolbars in GTK+](http://zetcode.com/gui/gtk2/menusandtoolbars/)
