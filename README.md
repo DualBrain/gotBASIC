@@ -48,6 +48,11 @@ And remember...
 - [SpecBAS](specbas.md)
 - [PowerBASIC](powerbasic.md)
 - [thinBASIC](thinbasic.md)
+- [Single-board Computer Projects](singleboard.md)
+  - [Raspberry Pi](pi.md)
+  - [Colour Maximite](cmm1.md)
+  - [Colour Maximite 2](cmm2.md)
+  - [More...](singleboard.md)
 - Microcontrollers
   - [AVR](avr.md)
   - [PIC32](pic32.md)
@@ -56,7 +61,7 @@ And remember...
   - [Commodore Amiga](amiga.md)
   - [Commodore C64](c64.md)
   - [Tandy/RadioShack Color Computer Series](coco.md)
-- [Single-board Computer Projects](singleboard.md)
+  - [More...](micros.md)
 - [Other...](other.md)
 
 ## WOW! just WOW!
