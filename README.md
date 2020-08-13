@@ -53,15 +53,16 @@ And remember...
   - [Colour Maximite](cmm1.md)
   - [Colour Maximite 2](cmm2.md)
   - [More...](singleboard.md)
-- Microcontrollers
+- [Microcontrollers](micro.md)
   - [AVR](avr.md)
   - [PIC32](pic32.md)
-- [Micros](micros.md) (Retrocomputing)
+  - [More...](micro.md)
+- [Personal Computers (Retro)](retro.md)
   - [Atari 600XL and 800XL](atari.md)
   - [Commodore Amiga](amiga.md)
   - [Commodore C64](c64.md)
   - [Tandy/RadioShack Color Computer Series](coco.md)
-  - [More...](micros.md)
+  - [More...](retro.md)
 - [Other...](other.md)
 
 ## WOW! just WOW!
