@@ -60,6 +60,7 @@ If you would like to be added to this list, please feel free to either contact m
 
 ## How-To's
 
+- [Converting C# to VB](csharp.md)
 - [Setting up Raspian and .NET Core 2.0 on a Raspberry Pi](https://blogs.msdn.microsoft.com/david/2017/07/20/setting_up_raspian_and_dotnet_core_2_0_on_a_raspberry_pi/)
 - [Get Started with Video Game Development using PuppyBreath (see Components section)](https://social.msdn.microsoft.com/Forums/en-US/2440752f-66e5-4995-93c4-e018ce43efc9/how-to-get-started-with-video-game-development-in-visual-basic-net-using-the-puppybreath?forum=vbgeneral)
 - [GdiGaming GDI+ Gaming API (see Components section)](https://social.msdn.microsoft.com/Forums/vstudio/en-US/8cb8d926-6f79-41d2-a906-edf1c1aab650/gdi-gaming-api-gdigaming-ctp-1?forum=vbgeneral)
