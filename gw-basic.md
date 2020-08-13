@@ -18,7 +18,7 @@ Please be sure to take the time to visit [https://gw-basic.com](https://gw-basic
 - [PC-BASIC - Free, cross-platform emulator for the GW-BASIC family of interpreters.](http://www.pc-basic.org)
 - [PC-BASIC Source](https://github.com/robhagemans/pcbasic/)
 - [GW-BASIC by Cory Smith (Silverlight Edition)](http://addressof.com/basic/)
-- BASIC-80 Interpreter for Windows - Sent email to the autor asking for permission to host.
+- BASIC-80 Interpreter for Windows - Sent email to the author asking for permission to host.
 
 ## Videos
 
@@ -26,4 +26,4 @@ Please be sure to take the time to visit [https://gw-basic.com](https://gw-basic
 
 ## SUPER COOL PROJECTS!
 
-- [The M.I.C.E. Project - The (World's) Most Ill-Concieved Emulator: A TRS-80 Model I Emulator in GW-BASIC.](http://www.vavasour.ca/jeff/mice.html)
+- [The M.I.C.E. Project - The (World's) Most Ill-Conceived Emulator: A TRS-80 Model I Emulator in GW-BASIC.](http://www.vavasour.ca/jeff/mice.html)
