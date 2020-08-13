@@ -3,8 +3,6 @@
 # Microcontrollers
 
 - [AVR (Arduino)](avr.md)
-- [PIC32](pic32.md)
-- [PICAXE](picaxe.md)
-- [MICROMITE](micromite.md): See [Maximite](maximite.md)
-- [Annex RDS](annexrds.md)
-- [ESP-BASIC](espbasic.md)
+- [ESP-8266](esp.md)
+- [PIC](pic.md)
+- [MICROMITE](micromite.md)

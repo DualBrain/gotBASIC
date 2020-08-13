@@ -3,3 +3,7 @@
 # ESPBASIC (ESP-8266)
 
 - [ESPBASIC (Official)](http://www.esp8266basic.com/)
+
+# ANNEX WIFI RDS (ESP-8266)
+
+- [ANNEX WIFI RDS (Rapid Development Suite)](https://sites.google.com/site/annexwifi/home): Scripting environment with integrated IDE for ESP-8266 modules
