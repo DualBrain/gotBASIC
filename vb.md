@@ -115,6 +115,7 @@ If you would like to be added to this list, please feel free to either contact m
 
 ## Components
 
+- [WebView2](https://devblogs.microsoft.com/dotnet/bring-the-best-of-the-web-to-your-net-desktop-applications-with-webview2/): Bring the best of the Web to your .NET desktop applications.
 - [AGKSharp for Windows](http://madbit.bplaced.com/?page_id=136): With AGKSharp you have the chance to write AppGameKit programs in the language C# and in VisualBasic.
 - [PuppyBreath by Reed Kimble (GitHub)](https://github.com/ReedKimble/PuppyBreath): A simplistic and robust video game engine for .NET Windows Forms projects, based entirely on managed code and GDI+ graphics.
 - [GdiGaming API by Reed Kimble (CodePlex)](https://archive.codeplex.com/?p=gdigaming): GDI+ based .NET Game Engine.
