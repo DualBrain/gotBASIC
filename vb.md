@@ -6,6 +6,29 @@
 
 - [Microsoft Visual Studio 2019 Community Edition](https://visualstudio.microsoft.com/downloads/)
 
+## .NET 5
+
+Starting this section here as of November 10, 2020 to track any interesting links as they relate to VB and .NET 5.0.
+
+- [Announcing .NET 5.0](https://devblogs.microsoft.com/dotnet/announcing-net-5-0/)  
+- [App Trimming in .NET 5](https://devblogs.microsoft.com/dotnet/app-trimming-in-net-5/)  
+- [Customizing Trimming in .NET 5](https://devblogs.microsoft.com/dotnet/customizing-trimming-in-net-core-5/)  
+- [Introducing the Half type!](https://devblogs.microsoft.com/dotnet/introducing-the-half-type/)  
+- [Debug Your .NET Core Apps in WSL 2 with Visual Studio](https://devblogs.microsoft.com/dotnet/debug-your-net-core-apps-in-wsl-2-with-visual-studio/)  
+- [.NET CLI Templates in Visual Studio](https://devblogs.microsoft.com/dotnet/net-cli-templates-in-visual-studio/)  
+- [Windows Forms Designer for .NET Core Released](https://devblogs.microsoft.com/dotnet/windows-forms-designer-for-net-core-released/)  
+- [Bring the best of the Web to your .NET desktop applications with WebView2](https://devblogs.microsoft.com/dotnet/bring-the-best-of-the-web-to-your-net-desktop-applications-with-webview2/)  
+- [Support Single-File Apps in .NET 5 (github)](https://github.com/dotnet/runtime/issues/36590)  
+- [Single file deployment and executable](https://docs.microsoft.com/en-us/dotnet/core/deploying/single-file)  
+- [Enable 'generators' in the VB compiler... (16.?)](https://github.com/dotnet/roslyn/pull/49139#)
+- [VisualBasic command line tests should run on netcore (16.9)](https://github.com/dotnet/roslyn/issues/49212)  
+- [Source Generators: should user generators require an attribute for discovery?](https://github.com/dotnet/roslyn/issues/42566)
+
+Stuff to review...
+
+- [Automatically find latent bugs in your code with .NET 5](https://devblogs.microsoft.com/dotnet/automatically-find-latent-bugs-in-your-code-with-net-5/)
+- [New C# Source Generator Samples](https://devblogs.microsoft.com/dotnet/new-c-source-generator-samples/)  
+
 ## Microsoft (OSS)
 
 The Roslyn .NET compiler service provides C# and Visual Basic languages with rich code analysis APIs.
@@ -154,6 +177,7 @@ If you would like to be added to this list, please feel free to either contact m
 
 Although Microsoft has done a great job with several technology stacks; there are a few areas where support falls a little short or just doesn't seem to exist.  This section points to areas where you can find "how to make it (mostly) work in VB".
 
+- [VB Flag Auto Generator (github)](https://github.com/VBAndCs/VB-Flag-auto-generator)
 - ILMerge
   - [ILMerge](https://www.microsoft.com/en-us/download/details.aspx?id=17630): ILMerge is a utility for merging multiple .NET assemblies into a single .NET assembly. It works on executables and DLLs alike and comes with several options for controlling the processing and format of the output.  
   - [ILMerge-GUI, the .NET merger](https://archive.codeplex.com/?p=ilmergegui)
