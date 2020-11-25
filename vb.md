@@ -6,6 +6,10 @@
 
 - [Microsoft Visual Studio 2019 Community Edition](https://visualstudio.microsoft.com/downloads/)
 
+## IL
+
+- [Sharplab.io](https://sharplab.io/) - You can easily switch the Code dropdown to Visual Basic, type code in and instantly see what the underlying IL will be - in the browser, nothing to download.
+
 ## .NET 5
 
 Starting this section here as of November 10, 2020 to track any interesting links as they relate to VB and .NET 5.0.
@@ -18,11 +22,13 @@ Starting this section here as of November 10, 2020 to track any interesting link
 - [.NET CLI Templates in Visual Studio](https://devblogs.microsoft.com/dotnet/net-cli-templates-in-visual-studio/)  
 - [Windows Forms Designer for .NET Core Released](https://devblogs.microsoft.com/dotnet/windows-forms-designer-for-net-core-released/)  
 - [Bring the best of the Web to your .NET desktop applications with WebView2](https://devblogs.microsoft.com/dotnet/bring-the-best-of-the-web-to-your-net-desktop-applications-with-webview2/)  
+- [Getting started with WebView2 in Windows Forms (Preview)](https://docs.microsoft.com/en-us/microsoft-edge/WebView2/gettingstarted/winforms)
 - [Support Single-File Apps in .NET 5 (github)](https://github.com/dotnet/runtime/issues/36590)  
 - [Single file deployment and executable](https://docs.microsoft.com/en-us/dotnet/core/deploying/single-file)  
 - [Enable 'generators' in the VB compiler... (16.?)](https://github.com/dotnet/roslyn/pull/49139#)
 - [VisualBasic command line tests should run on netcore (16.9)](https://github.com/dotnet/roslyn/issues/49212)  
 - [Source Generators: should user generators require an attribute for discovery?](https://github.com/dotnet/roslyn/issues/42566)
+- [How to migrate a Windows Forms desktop app to .NET 5](https://docs.microsoft.com/en-us/dotnet/desktop/winforms/migration/?view=netdesktop-5.0)
 
 Stuff to review...
 
@@ -163,10 +169,16 @@ If you would like to be added to this list, please feel free to either contact m
 
 - [Extending the My namespace](https://www.codeproject.com/articles/28979/extending-the-my-namespace)
 - [Getting Started with My.Blogs](https://docs.microsoft.com/en-us/previous-versions/ms364056(v=vs.80)): My.Blogs is a collection of sample code that will show you how you can easily provide programmatic access to weblogs in the applications you build. Full source code is provided along with Windows Forms, ASP.NET 2.0, and a Visual Studio 2005 Tools for Office Outlook Add-In.
+- [Package and deploy custom My extensions](https://docs.microsoft.com/en-us/dotnet/visual-basic/developing-apps/customizing-extending-my/packaging-and-deploying-custom-my-extensions)
+- [Customizing Projects and Extending My](https://docs.microsoft.com/en-us/dotnet/visual-basic/developing-apps/customizing-extending-my/)
+- [Extending the My Namespace](https://docs.microsoft.com/en-us/dotnet/visual-basic/developing-apps/customizing-extending-my/extending-the-my-namespace)
+
 
 ## Samples
 
 - [VB Dev2Dev (GitHub)](https://github.com/VBDev2Dev)
+- [Karen Payne's Visual Basic Getting Started (GitHub)](https://github.com/karenpayneoregon/visual-basic-getting-started)
+- [AdvanceRichTextBox with line numbers (GitHub)](https://github.com/paul1956/AdvanceRichTextBox)
 
 ## Gists
 
@@ -177,7 +189,10 @@ If you would like to be added to this list, please feel free to either contact m
 
 Although Microsoft has done a great job with several technology stacks; there are a few areas where support falls a little short or just doesn't seem to exist.  This section points to areas where you can find "how to make it (mostly) work in VB".
 
-- [VB Flag Auto Generator (github)](https://github.com/VBAndCs/VB-Flag-auto-generator)
+- [Mohammad Hamdy Ghenem (@VBAndCs)](https://github.com/VBAndCs)
+  - [VB Flag Auto Generator (github)](https://github.com/VBAndCs/VB-Flag-auto-generator)
+  - [VB Record Generator (github)](https://github.com/VBAndCs/VB-Record-Generator)
+  - [Vazor - A VB.NET Razor for ASP.NET Core 3.0 MVC and Razor Pages.](https://github.com/VBAndCs/Vazor)  
 - ILMerge
   - [ILMerge](https://www.microsoft.com/en-us/download/details.aspx?id=17630): ILMerge is a utility for merging multiple .NET assemblies into a single .NET assembly. It works on executables and DLLs alike and comes with several options for controlling the processing and format of the output.  
   - [ILMerge-GUI, the .NET merger](https://archive.codeplex.com/?p=ilmergegui)

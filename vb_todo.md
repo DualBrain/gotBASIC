@@ -24,3 +24,11 @@ Why aren't these sorts of projects done in /available to Visual Basic...
 These are articles that we should spend some time porting to VB.
 
 - [Writing High-Performance C# and .NET Code: Part 4 - Creating Strings with No Allocation Overhead Using String.Create](https://www.stevejgordon.co.uk/creating-strings-with-no-allocation-overhead-using-string-create-csharp)
+
+- [Console Virtual Terminal Sequences](https://docs.microsoft.com/en-us/windows/console/console-virtual-terminal-sequences#alternate-screen-buffer)
+- [Console Screen Buffers](https://docs.microsoft.com/en-us/windows/console/console-screen-buffers)
+- [Resize Event for Console](https://stackoverflow.com/questions/31467941/resize-event-for-console)
+- [gsudo (github)](https://github.com/gerardog/gsudo)
+
+- [Introducing C# Source Generators](https://devblogs.microsoft.com/dotnet/introducing-c-source-generators/)
+- [Announcing C#/WinRT Version 1.0 with the .NET 5 GA Release](https://blogs.windows.com/windowsdeveloper/2020/11/10/announcing-c-winrt-version-1-0-with-the-net-5-ga-release/?WT.mc_id=WD-MVP-4025064&_lrsc=833a4442-7f77-4037-9166-03fa56c8e16b&utm_campaign=elevate&utm_source=twitter&utm_medium=social)
