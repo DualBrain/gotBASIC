@@ -9,6 +9,12 @@ Please be sure to take the time to visit [https://gw-basic.com](https://gw-basic
 - [GW-BASIC User's Guide](http://www.ojodepez-fanzine.net/network/qbdl/GW-MAN/index.html)
 - [Compiling and Linking with BASCOM 1.0 and 2.0](http://www.ojodepez-fanzine.net/network/qbdl/bascom-compiling-and-linking.html)
 
+## Open-Source (Official'ish)
+
+- [Microsoft Open-Sources GW-BASIC](https://devblogs.microsoft.com/commandline/microsoft-open-sources-gw-basic/)
+- [Assembling Microsoft GW-BASIC from 1983, with MASM or JWasm](https://github.com/tkchia/GW-BASIC) - Fork of the following...
+- [Assembling Microsoft GW-BASIC from 1983](https://github.com/dspinellis/GW-BASIC)
+
 ## IBM
 
 - [Wikipedia - IBM Advanced BASIC (BASICA.COM)](https://en.wikipedia.org/wiki/IBM_BASIC#IBM_Advanced_BASIC)
