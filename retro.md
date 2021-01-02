@@ -2,6 +2,8 @@
 
 # Personal Computers (Retro)
 
+- Altair
+  - [Micro-Soft Altair BASIC 3.2 Source](https://github.com/option8/Altair-BASIC)
 - Apple
   - [Apple II](apple.md)
 - Applied Technology
@@ -16,6 +18,9 @@
   - [C64](c64.md)
   - [PET](pet.md)
   - [VIC20](vic20.md)
+- IBM (and Compatibles)
+  - [Faux86](https://github.com/paulwratt/Faux86) - A portable, open-source 8086 PC emulator for bare metal Raspberry Pi
+  - [BASIC-DOS](https://github.com/jeffpar/basicdos) - PC DOS Reimagined
 - RadioShack (Tandy)
   - TRS-80 Model I (Level I, Level II)
   - TRS-80 Model II
@@ -25,6 +30,9 @@
   - [Color Computer 1](coco.md)
   - [Color Computer 2](coco.md)
   - [Color Computer 3](coco.md)
+- Z80
+  - [BASIC-11 for the Z80](https://github.com/hperaza/BASIC-11-Z80)
+  - [NASCOM ROM BASIC Version 4.7 - (C) 1978 Microsoft](https://github.com/feilipu/NASCOM_BASIC_4.7)
 
 # Books
 

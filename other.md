@@ -20,6 +20,7 @@ These are additional dialects that I've recently found that I'd like to spend mo
 - [Decimal BASIC](http://hp.vector.co.jp/authors/VA008683/english/): Decimal BASIC is a programming environment for those who write programs for their own investigation. Decimal BASIC adopts ANSI/ISO Full BASIC as its syntax, because Full BASIC has suitable facilities for those who are unacquainted with the peculiar knowledge about computers.
 - [DolyeSoft BASIC 2.0](http://doylesoft.com/BASIC/?i=1): DoyleSoft BASIC, is a free, BASIC-like scripting language and IDE for all 32 and 64 bit versions of Windows.
 - [Dragon BASIC compiler for Game Boy Advance](https://github.com/uli/dragonbasic)
+- [BASIC interpreter with a REPL and a web interface written in Rust](https://github.com/jmmv/endbasic)
 - [Gambas Almost Means BASIC!](http://gambas.sourceforge.net/en/main.html): Gambas is a free development environment and a full powerful development platform based on a Basic interpreter with object extensions, as easy as Visual Basic™. 
 - [GNU LibertyBasic Compiler Collectio Project](http://lbpp.sourceforge.net/): A collection of user friendly, fully open sourced B.A.S.I.C Linux~Win32 compilers!
 - [Just BASIC](https://www.justbasic.com/): A free BASIC, plain and simple.

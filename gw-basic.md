@@ -26,6 +26,10 @@ Please be sure to take the time to visit [https://gw-basic.com](https://gw-basic
 - [GW-BASIC by Cory Smith (Silverlight Edition)](http://addressof.com/basic/)
 - BASIC-80 Interpreter for Windows - Sent email to the author asking for permission to host.
 
+## Samples/Code
+
+- [Hoard of GW-BASIC](https://github.com/robhagemans/hoard-of-gwbasic) - A collection of GW-BASIC code by various authors
+
 ## Videos
 
 - [Writing a Tetris clone in GW-BASIC -- Tandy 1000 programming example](https://www.youtube.com/watch?v=JDnypVoQcPw) ([Source (PDF)](https://bisqwit.iki.fi/jutut/kuvat/programming_examples/gwbasictetris.pdf))
