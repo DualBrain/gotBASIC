@@ -47,6 +47,10 @@ These are additional dialects that I've recently found that I'd like to spend mo
 wxBasic can create stand-alone executables by binding together source code with the interpreter. wxBasic is written primarily in C, with some C++ linking it to the wxWidgets library. wxWidgets supplies the cross-platform features. wxBasic runs on Windows using native controls, and Linux using the GTK Library. A Macintosh port is being actively investigated. 
 - [XBasic](http://www.maxreason.com/software/xbasic/share.html): XBasic is a comprehensive program development environment that integrates a powerful editor, compiler, debugger, function libraries and GuiDesigner into a seamless working environment that encompasses the whole process of creating fast, efficient, reliable, portable 32/64 bit programs.  See XBasic overview. Compatible and equivalent implementations of XBasic are available for Windows95/98/NT and Linux.  XBasic is written entirely XBasic, plus a little assembly language.  XBasic is open-source freeware released under the standard GPL and LGPL licenses to assure all enhancements and derivatives remain open-source.
 
+- [Locomotive BASIC interpreter written in Haskell](https://github.com/jarmond/locomotive-haskell)
+- [UBASIC-PLUS](https://github.com/mkostrun/UBASIC-PLUS): uBasic Plus for microcontrollers adds features to uBasic such as arrays and floating point numbers, more functions and ability to control hardware (analog read/write,digital write, et c.) all while improving internal workings of the interpreter. It is centered around ARM Cortex M0 processors.
+- [EndBASIC](https://github.com/jmmv/endbasic): BASIC interpreter with a REPL and a web interface written in Rust
+
 ## Other...
 
 - [Minsk - Building a Compiler - coded live during streaming via YouTube (GitHub)](https://github.com/terrajobst/minsk): This repo contains Minsk, a handwritten compiler in C#. It illustrates basic concepts of compiler construction and how one can tool the language inside of an IDE by exposing APIs for parsing and type checking. 
