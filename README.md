@@ -26,6 +26,7 @@ And remember...
 - [Why Johnny can't code](https://www.salon.com/test2/2006/09/14/basic_2) by David Brin
 
 - Love BASIC? Have questions?  Want to get more involved?  Join us on...
+  - [Discord](https://discord.gg/V9U5dMRs)
   - [Gitter](https://gitter.im/GotBASIC/community)
   - [Facebook](https://www.facebook.com/groups/gotbasic)
 - [Wikipedia - List of BASIC dialects](https://en.wikipedia.org/wiki/List_of_BASIC_dialects)
