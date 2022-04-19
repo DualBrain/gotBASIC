@@ -22,6 +22,8 @@ And remember...
     - [Photo of John G. Kemeny circa 1971](https://www.facebook.com/photo.php?fbid=3231692710177167&set=gm.2801583449951637&type=3&eid=ARBtSSg1CovWA2io5tfAxHmmAPipYiSrENWlV7gpvv7y37WUdFsJ9hCG0VFfODJdf76_IVQ3k6fOEczC&ifg=1)
     - [Mary Kenneth Keller (Wikipedia)](https://en.wikipedia.org/wiki/Mary_Kenneth_Keller)
     - [BASIC Necessities: How GE Helped Launch The Computing Language That Changed The World](https://www.ge.com/reports/basic-necessities-how-ge-helped-launch-the-computing-language-that-changed-the-world/)
+    - [History of Microsoft - 1975](https://youtu.be/BLaMbaVT22E)
+    - [A re-tracing of how Paul Allen loaded BASIC on the MITS Altair 8800 from paper tape](https://youtu.be/2wEyqJnhec8)
 
 - [Why Johnny can't code](https://www.salon.com/test2/2006/09/14/basic_2) by David Brin
 
