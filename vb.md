@@ -10,6 +10,16 @@
 
 - [Sharplab.io](https://sharplab.io/) - You can easily switch the Code dropdown to Visual Basic, type code in and instantly see what the underlying IL will be - in the browser, nothing to download.
 
+## .NET 7
+
+- [Status of WinForms in NativeAOT](https://codevision.medium.com/status-of-winforms-in-nativeaot-4267644b1e60)
+- [Again WinForms and NativeAOT](https://codevision.medium.com/again-winforms-and-nativeaot-fd068425cc13) 
+
+## .NET 6
+
+- [SILK.NET](https://github.com/dotnet/Silk.NET): Silk.NET is your one-stop-shop for high-speed .NET multimedia, graphics, and compute; providing bindings to popular low-level APIs such as OpenGL, OpenCL, OpenAL, OpenXR, GLFW, SDL, Vulkan, Assimp, and DirectX. Use Silk.NET to spruce up applications with cross-platform 3D graphics, audio, compute and haptics! Silk.NET works on any .NET Standard 2.0 compliant platform, including .NET 6.0, Xamarin, .NET Framework 4.6.1+, and .NET Core 2.0+.
+- [C# StringLiteralGenerator](https://github.com/ufcpp/StringLiteralGenerator)
+
 ## .NET 5
 
 Starting this section here as of November 10, 2020 to track any interesting links as they relate to VB and .NET 5.0.
