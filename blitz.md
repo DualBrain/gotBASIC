@@ -19,4 +19,5 @@
 AMIBLITZ³ is a free Development environment for AmigaOS3.x and Compatible based on BlitzBasic.
 
 - [AMIBLITZ³](https://www.amiblitz.de/)
-- [AMIBLITZ³ - Source](https://sourceforge.net/p/amiblitz3/code/HEAD/tree/)
+- [AMIBLITZ³: SourceForge](https://sourceforge.net/p/amiblitz3/code/HEAD/tree/)
+- [GitHub³: AMIBLITZ](https://github.com/AmiBlitz/AmiBlitz3)
