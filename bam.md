@@ -2,10 +2,11 @@
 
 # Basic Anywhere Machine
 
-> All-in-one HTML file. BASIC interpreter with a console window.  IDE with CodeMirror + helpful programming tools.  Your BASIC programs.  Your data. The ultimate in portability. Online. Offline. Powered by TiddlyWiki.
+> All-in-one HTML file. BASIC interpreter with a console window.  IDE with CodeMirror + helpful programming tools.  Your BASIC programs.  Your data. The ultimate in portability. Online. Offline.
 
-Looks like it's based on [Google's wwwBASIC](wwwbasic.md).
+It is an enhanced version of [Google's wwwBASIC](wwwbasic.md) (a BASIC meant for the web), embedded in (or hosted by) and enhanced by [[TiddlyWiki](https://tiddlywiki.com/).
+
+So a single-file HTML, with IDE, tools, the interpreter, the BASIC programs, on-line/off-line, with various BASIC program export options.
 
 - [BASIC Anywhere Machine](https://sites.google.com/view/basicanywheremachine)
 - [IDE (browser-based)](https://basicanywheremachine.neocities.org/BAM_IDE.html)
-

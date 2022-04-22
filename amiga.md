@@ -6,7 +6,7 @@
 
 - [AQB](https://github.com/gooofy/aqb): A QuickBASIC-style Compiler and IDE for Amiga computers.
 - [AMIBLITZ³](blitz.md): AMIBLITZ³ is a free Development environment for AmigaOS3.x and Compatible based on BlitzBasic.
-- [MetaComCo ABasiC](https://archive.org/details/Amiga_BASIC_v1.0_1985_Commodore_Microsoft): Note that the entry is mislabeled, but a commentor pointed out which version of BASIC this actually is.
+- [MetaComCo ABasiC](https://archive.org/details/Amiga_BASIC_v1.0_1985_Commodore_Microsoft): Note that the entry is mislabeled, but a commentor pointed out which version of BASIC this actually is. See [MetaComCo](https://en.wikipedia.org/wiki/MetaComCo).
 
 ### Hardware Emulation (FPGA)
 

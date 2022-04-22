@@ -19,11 +19,13 @@ And remember...
     - [BASIC Manual (v2)](http://www.bitsavers.org/pdf/dartmouth/BASIC_Oct64.pdf)
     - [Birth of BASIC (YouTube)](https://youtu.be/WYPNjSoDrqw)
     - [BASIC at 50 (YouTube)](https://youtu.be/gxo9LVIgOiI)
+    - [A basic history of BASIC on it's 50th birthday](https://www.gamedeveloper.com/business/a-basic-history-of-basic-on-its-50th-birthday)
     - [Photo of John G. Kemeny circa 1971](https://www.facebook.com/photo.php?fbid=3231692710177167&set=gm.2801583449951637&type=3&eid=ARBtSSg1CovWA2io5tfAxHmmAPipYiSrENWlV7gpvv7y37WUdFsJ9hCG0VFfODJdf76_IVQ3k6fOEczC&ifg=1)
     - [Mary Kenneth Keller (Wikipedia)](https://en.wikipedia.org/wiki/Mary_Kenneth_Keller)
     - [BASIC Necessities: How GE Helped Launch The Computing Language That Changed The World](https://www.ge.com/reports/basic-necessities-how-ge-helped-launch-the-computing-language-that-changed-the-world/)
     - [History of Microsoft - 1975](https://youtu.be/BLaMbaVT22E)
     - [A re-tracing of how Paul Allen loaded BASIC on the MITS Altair 8800 from paper tape](https://youtu.be/2wEyqJnhec8)
+    - [Altair BASIC Manual](http://www.virtualaltair.com/virtualaltair.com/PDF/AltairBasic_1275.pdf)
 
 - [Why Johnny can't code](https://www.salon.com/test2/2006/09/14/basic_2) by David Brin
 
