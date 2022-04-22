@@ -61,6 +61,7 @@ And remember...
 - [BASIC Anywhere Machine](bam.md)
 - [QBJS](qbjs.md)
 - [AOZ Studio](aozstudio.md)
+- [SmallBASIC](smallbasic.md)
 - [Single-board Computer Projects](singleboard.md)
   - [Raspberry Pi](pi.md)
   - [Colour Maximite](cmm1.md)
