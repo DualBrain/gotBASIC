@@ -62,6 +62,7 @@ And remember...
 - [QBJS](qbjs.md)
 - [AOZ Studio](aozstudio.md)
 - [SmallBASIC](smallbasic.md)
+- [wxBasic](wxbasic.md)
 - [Single-board Computer Projects](singleboard.md)
   - [Raspberry Pi](pi.md)
   - [Colour Maximite](cmm1.md)

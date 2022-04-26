@@ -52,6 +52,10 @@ wxBasic can create stand-alone executables by binding together source code with 
 - [UBASIC-PLUS](https://github.com/mkostrun/UBASIC-PLUS): uBasic Plus for microcontrollers adds features to uBasic such as arrays and floating point numbers, more functions and ability to control hardware (analog read/write,digital write, et c.) all while improving internal workings of the interpreter. It is centered around ARM Cortex M0 processors.
 - [EndBASIC](https://github.com/jmmv/endbasic): BASIC interpreter with a REPL and a web interface written in Rust
 
+## People
+
+- [Felix Codes - Basic Forever](https://felix.plesoianu.ro/languages/basic/index.html)
+
 ## Other...
 
 - [Minsk - Building a Compiler - coded live during streaming via YouTube (GitHub)](https://github.com/terrajobst/minsk): This repo contains Minsk, a handwritten compiler in C#. It illustrates basic concepts of compiler construction and how one can tool the language inside of an IDE by exposing APIs for parsing and type checking. 
