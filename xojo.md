@@ -2,8 +2,8 @@
 
 # Xojo
 
-> Build Native, Cross-Platform Apps
+The Xojo programming environment and programming language is developed and commercially marketed by Xojo, Inc. of Austin, Texas for software development targeting macOS, Microsoft Windows, Linux, iOS, the Web and Raspberry Pi. Xojo uses a proprietary object-oriented language.
 
-Rapid application development for Desktop, Web, Mobile and Raspberry Pi
+Prior to 2013, the product was known as REALbasic.
 
 - [Home](https://www.xojo.com/)
