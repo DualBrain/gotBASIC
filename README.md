@@ -36,7 +36,7 @@ And remember...
 - [Wikipedia - List of BASIC dialects](https://en.wikipedia.org/wiki/List_of_BASIC_dialects)
 - [COMMAND_LINE HEROES - Season 3, Episode 2 - Learning the BASICs](https://www.redhat.com/en/command-line-heroes/season-3/learning-the-basics)  
 
-## Sitemap (work-in-progress)
+## BASICS
 
 - [AOZ Studio](aozstudio.md)
 - [BASIC Anywhere Machine](bam.md)
@@ -64,6 +64,9 @@ And remember...
 - [Google's wwwBASIC](wwwbasic.md)
 - [wxBasic](wxbasic.md)
 - [Xojo](xojo.md)
+
+## Platforms
+
 - [Single-board Computer Projects](singleboard.md)
   - [Raspberry Pi](pi.md)
   - [Colour Maximite](cmm1.md)
@@ -81,6 +84,13 @@ And remember...
   - [Commodore C64](c64.md)
   - [Tandy/RadioShack Color Computer Series](coco.md)
   - [More...](retro.md)
+
+## Not Quite BASIC (aka BASIC-esque)
+
+- [Easylang](https://easylang.online/)
+
+## TODO
+
 - [Other...](other.md)
 
 ## WOW! just WOW!
