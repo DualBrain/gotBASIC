@@ -10,6 +10,7 @@
 ## IDE (Windows)
 
 - [Phoenix IDE](http://www.cococommunity.net/product/phoenix-ide/)
+- [Phoenix IDE Programming Application for the Tandy Color Computer (in BASIC)](https://youtu.be/WwE6WqpO9Dc)
 
 ## Color Computer 1
 

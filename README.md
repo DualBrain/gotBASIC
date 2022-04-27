@@ -97,8 +97,11 @@ And remember...
 
 ## Not Quite BASIC (aka BASIC-esque)
 
-- [Easylang](https://easylang.online/)
-- [microStudio](https://microstudio.dev/projects/)
+Although the following aren't BASIC in the classical sense, many of these have languages that are clearly inspired by (or at the very least, clearly share similarities with) BASIC (credited or not).
+
+- [Easylang](https://easylang.online/): Easy online programming language and development environment for teach and learning programming.
+- [microStudio](https://microstudio.dev/projects/): Create games, learn programming, play, share, prototype and jam!
+- [Sonic Pi](https://sonic-pi.net/): A code-based music creation and performance tool.
 
 ## TODO
 
