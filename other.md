@@ -6,6 +6,7 @@
 
 These are additional dialects that I've recently found that I'd like to spend more time investigating further.
 
+- [BASIC Source Repository](http://www.qbasicnews.com/abc/index.php)
 - [64K BASIC](http://www.basic-lang.org/): The BASIC Programming Language: Microcomputer Edition (in Rust). [GitHub](https://github.com/AE9RB/basic-lang)
 - [AMOS2](http://amos2.tech/en-us/): After 30 years, [AMOS](https://en.wikipedia.org/wiki/AMOS_%28programming_language%29)/STOS are begin recreated by the [original author](http://storyofamos.blogspot.com/) targeting HTML5/Javascript.
 - [AppGameKit|https://www.appgamekit.com/]: AppGameKit is an easy to learn game development engine, ideal for Beginners, Hobbyists & Indie developers.  From the creators of Dark Basic.

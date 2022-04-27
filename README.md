@@ -50,7 +50,9 @@ And remember...
 - [Microsoft QuickBASIC, PDS BASIC (QBX) and QBasic](qb.md)
 - [QB64](qb64.md)
 - [QBJS](qbjs.md)
+- [QuickBASIC Clone (Unfinished)](qbc.md)
 - [MMBasic](mmbasic.md)
+- [MoonRock](moonrock.md)
 - [Oxygen Basic](oxygen.md)
 - [PowerBASIC](powerbasic.md)
 - [PureBasic](purebasic.md)
@@ -84,6 +86,25 @@ And remember...
   - [Commodore C64](c64.md)
   - [Tandy/RadioShack Color Computer Series](coco.md)
   - [More...](retro.md)
+- Console (Retro)
+  - Atari (Console)
+    - [2600 IDE](https://atariage.com/forums/topic/93971-2600-ide-link/)
+    - [Batari BASIC](http://www.bataribasic.com/install.html)
+    - [How to make an Atari game](https://www.tinkernut.com/how-to-make-an-atari-game/)
+    - [7800basic](http://7800.8bitdev.org/index.php/7800basic)
+  - Colecovision
+    - [Colecovision BASIC](https://atariage.com/forums/topic/197428-colecovision-basic/page/2/#comments)
+  - Nintendo
+    - [nbasic Language Reference Manual](http://bobrost.com/nes/files/nbasic_manual.html)
+    - [NES Resources](http://bobrost.com/nes/resources.php)
+    - [NES on 8-bit Workshop](https://8bitworkshop.com/docs/platforms/nes/index.html)
+    - [NES Dev Wiki](https://www.nesdev.org/wiki/Projects)
+    - [Tool to compile Family Basic programs to .NES](https://archive.nes.science/nesdev-forums/f2/t10156.xhtml)
+    - [Programming NES Games in BASIC](https://atariage.com/forums/topic/149491-programming-nes-games-in-basic/)
+  - Genesis/MegaDrive
+    - [SecondBASIC Studio](secondbasic.md)
+  - ZX Spectrum
+    - [ZX Basic Wiki](https://zxbasic.readthedocs.io/en/docs/)
 
 ## Not Quite BASIC (aka BASIC-esque)
 
