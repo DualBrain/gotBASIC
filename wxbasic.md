@@ -14,5 +14,5 @@ wxBasic is written primarily in C, with some C++ linking it to the [wxWidgets li
 
 wxBasic runs on Windows using native controls, and Linux using the [GTK Library](http://www.gtk.org/).
 
-- [Home](http://wxbasic.sourceforge.net/index.php)
+- [Home](http://wxbasic.sourceforge.net)
 - [GitHub](https://github.com/wxbasic/wxbasic)

@@ -18,7 +18,6 @@ Atari BASIC is an interpreter for the BASIC programming language that shipped wi
 
 ## Interesting Tidbits
 
-- [A constructive look at the Atari 2600 BASIC cartridge](http://boston.conman.org/2015/06/16.1)
 - [Atari BASIC - The Good, the Bad, and the Ugly](https://web.archive.org/web/20070524044410/http://www3.sympatico.ca/maury/other_stuff/atari_basic.html)
 - [Create your own version of Microsoft BASIC for 6502](https://www.pagetable.com/?p=46)
 - [Atari BASIC (Archive.org)](https://archive.org/search.php?query=atari%20basic)

@@ -5,6 +5,14 @@
 - [Raspberry Pi (Official)](https://www.raspberrypi.org/)
 - [Boot to BASIC](https://popey.com/blog/2021/01/raspberry-pi-boot-to-basic)
 
+## BASIC
+
+**PICO**
+
+- [BASIC Interpreter for the Raspberry Pi Pico](https://geoffg.net/picomite.html)
+- [MMBASIC - A BASIC interpereter for the Raspberry Pi](https://forums.raspberrypi.com/viewtopic.php?t=212334)
+- [Pi-cromite V5.4.05 with documentation](http://www.thebackshed.com/forum/ViewTopic.php?TID=9823)
+
 ## Visual Basic via .NET Core
 
 For the most part, discussions in this section are going to be specific to Pi4 running [Raspbian](https://www.raspbian.org) and Visual Basic as it exists through [.NET Core](https://dotnet.microsoft.com). At the time of this writing the official release of .NET Core is v3.1; v5 is "just around the corner".

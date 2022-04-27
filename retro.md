@@ -9,7 +9,6 @@
 - Applied Technology
   - [MicroBee](microbee.md)
 - Atari
-  - [Atari 2600](atari.md)
   - [Atari 600XL/800XL](atari.md)
 - BBC Micro
   - [Model B](bbc.md)
@@ -33,9 +32,8 @@
 - Z80
   - [BASIC-11 for the Z80](https://github.com/hperaza/BASIC-11-Z80)
   - [NASCOM ROM BASIC Version 4.7 - (C) 1978 Microsoft](https://github.com/feilipu/NASCOM_BASIC_4.7)
-- Mattel Intellivision
-  - [Oscar Toledo G. - IntyBASIC: a BASIC compiler for Intellivision](https://nanochess.org/intybasic.html)
-  - [The IntyBASIC compiler official thread](https://atariage.com/forums/topic/248209-the-intybasic-compiler-official-thread/)
+- ZX Spectrum
+  - [ZX Basic Wiki](https://zxbasic.readthedocs.io/en/docs/)
 
 # Books
 
