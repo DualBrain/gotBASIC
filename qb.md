@@ -12,6 +12,7 @@
 ## Tutorials
 
 - [QBasic for Beginners](https://www.qbasic.net/en/qbasic-tutorials/beginner/qbasic-beginner-1.htm)
+- [QBASIC Programming for Kids by Ted Felix](http://tedfelix.com/qbasic/)
 
 ## Resources
 
