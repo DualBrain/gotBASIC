@@ -13,6 +13,10 @@
 
 - [QBasic for Beginners](https://www.qbasic.net/en/qbasic-tutorials/beginner/qbasic-beginner-1.htm)
 
+## Resources
+
+- [QB45.org](https://qb45.org/): About programming in QBasic/QuickBASIC, the programming language that was developed by Microsoft.
+
 ## Communities
 
 - [QuickBASIC Cafe](https://www.qbasic.net/)

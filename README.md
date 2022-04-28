@@ -113,4 +113,11 @@ Although the following aren't BASIC in the classical sense, many of these have l
 
 ## Other Resources (Lists)
 
-- [the basics' page](http://basic.mindteq.com/)
+### Enthusiasts (People)
+
+- [Mike Hawk Got Game](https://qbmikehawk.neocities.org/)
+- ["RetroNick" on YouTube](https://www.youtube.com/channel/UCLak9dN2fgKU9keY2XEBRFQ) • [on GitHub](https://github.com/RetroNick2020/Channel-Code)
+
+### Lists
+
+- [The Basics' page (since 2001)](http://basic.mindteq.com/)
