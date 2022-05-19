@@ -6,6 +6,7 @@ FreeBASIC is a completely free, open-source, multi-platform BASIC compiler, with
 
 - [FreeBASIC](https://www.freebasic.net/)
 - [FreeBASIC (GitHub)](https://github.com/freebasic/fbc)
+- [FreeBASIC (Discord)](https://discord.com/invite/286rSdK)
 - Xuisinboy Bekchanov
   - [VisualFBEditor - IDE (GitHub)](https://github.com/XusinboyBekchanov/VisualFBEditor)
   - [MyFbFramework - My FreeBasic Framework (GitHub)](https://github.com/XusinboyBekchanov/MyFbFramework)
