@@ -2,7 +2,7 @@
 
 # QuickBASIC Clone (QBC)
 
-Purpose is to provide tools for running QuickBASIC programs in Linux and other non-MS-DOS -environments.
+Purpose is to provide tools for running QuickBASIC programs in Linux and other non-MS-DOS environments.
 
 It currently seems like it will become a QuickBASIC to C++ translator. In fact, it already translates a large subset of QuickBASIC to C++. However, the resulting code is not maintainable, and the library which it requires, is not finished. But it is being developed, in hopes it will one day enable running complicated DOS-specific QuickBASIC programs such as this, under Linux.
 
