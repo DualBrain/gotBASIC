@@ -23,12 +23,16 @@ Please be sure to take the time to visit [https://gw-basic.com](https://gw-basic
 
 - [PC-BASIC - Free, cross-platform emulator for the GW-BASIC family of interpreters.](http://www.pc-basic.org)
 - [PC-BASIC Source](https://github.com/robhagemans/pcbasic/)
-- ~~[GW-BASIC by Cory Smith (Silverlight Edition)](http://addressof.com/basic/)~~
-- BASIC-80 Interpreter for Windows - Sent email to the author asking for permission to host.
+- ~~[GW-BASIC by Cory Smith (Silverlight Edition)](http://addressof.com/basic/)~~: no longer available due to Microsoft sunsetting (deprecating) Silverlight.
+
+## Third-Party Extensions/Tools
+
+- [Rster Master Sprite/Icon/Map Editor](https://github.com/RetroNick2020/raster-master): Has support for generating GW-BASIC source.
 
 ## Samples/Code
 
 - [Hoard of GW-BASIC](https://github.com/robhagemans/hoard-of-gwbasic) - A collection of GW-BASIC code by various authors
+- [The *Converting the 'BASIC Computer Games' to 'modern languages'* project.](https://github.com/coding-horror/basic-computer-games/). [Read more...](https://hackaday.com/2021/02/26/the-famous-basic-computer-games-book-gets-a-2021-update/)
 
 ## Videos
 

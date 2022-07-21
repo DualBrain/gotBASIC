@@ -14,6 +14,11 @@
 
 - [GitHub: tankrampage (Blitz3D)](https://github.com/JoystickAndCursorKeys/tankrampage): 2D, 2 Player, Tank game, inspired by "FirePower" on the Amiga.
 
+## PC
+
+- [BlitzMax NG Download](https://www.syntaxbomb.com/blitzmax-blitzmax-ng/blitzmax-ng-download/)
+- [BlitzMax DX 1.0 Alpha Release Download](https://www.blitzcoder.org/forum/topic.php?id=803)
+
 ## Amiga
 
 AMIBLITZ³ is a free Development environment for AmigaOS3.x and Compatible based on BlitzBasic.

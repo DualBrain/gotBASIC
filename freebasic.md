@@ -23,6 +23,7 @@ FreeBASIC is a completely free, open-source, multi-platform BASIC compiler, with
   -[Client library for IRC (GitHub)](https://github.com/BatchedFiles/IrcClientLibrary)
 - ["Nine" Card Game (GitHub)](https://github.com/TagalongGames/Nine)
 - [FreeBASIC in Russian (Unofficial)](http://www.freebasic.su/)
+- [Compiling FB for DOS](https://www.freebasic.net/wiki/DevBuildDos)
 
 ## FreeBASIC vs GW-BASIC 
 

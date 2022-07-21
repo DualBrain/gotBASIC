@@ -35,6 +35,12 @@
 - ZX Spectrum
   - [ZX Basic Wiki](https://zxbasic.readthedocs.io/en/docs/)
 
+# *Retro Modern*
+
+This category is for languages/projects that aren't exactly retro but strive to provide the flavor of retro-ness on modern platforms.
+
+- [BASIC8](https://github.com/paladin-t/b8): An integrated *Fantasy Computer* for game and other program development where you can create, share and play disks in a modern BASIC dialect with built-in tools for editing sprites, tiles, map, quantized, etc.
+
 # Books
 
 - [More BASIC Computer Games by David H. Ahl (PDF)](https://www.atariarchives.org/morebasicgames/index.php) - 1979

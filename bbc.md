@@ -9,6 +9,10 @@
 - [Wikipedia](https://en.wikipedia.org/wiki/BBC_BASIC)
 - [BBC BASIC](http://www.bbcbasic.co.uk/bbcbasic.html)
 
+# BBC BASIC
+
+- [BBCSDL](http://www.bbcbasic.co.uk/bbcsdl/index.html)
+
 # Very Cool!!!!
 
-- [BBC Micro Bot](): Welcome to 8-bit cloud.  Send a tweet to @bbcmicrobot and it will run it on a 1980s 8-bit computer emulation!
+- [BBC Micro Bot](https://twitter.com/bbcmicrobot): Welcome to 8-bit cloud.  Send a tweet to @bbcmicrobot and it will run it on a 1980s 8-bit computer emulation!

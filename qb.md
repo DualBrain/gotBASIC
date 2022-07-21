@@ -8,11 +8,36 @@
 - [QBasic](http://members.optusnet.com.au/mskeon/qbastest.html)([Additional Details.](https://answers.microsoft.com/en-us/windows/forum/windows_7-windows_programs/the-case-for-quick-basic-in-the-21st-century/dbc79c0a-9f4a-4e32-824f-7a0672628ccd?auth=1))
 - See alternative [QB64](QB64.md)...
 - See alternative [FreeBASIC](FreeBASIC.md)...
+- See alternative [Bsharp (B#)](https://github.com/DualBrain/bsharp)...
+- See alternative [QBC](QBC.md)...
 
 ## Tutorials
 
 - [QBasic for Beginners](https://www.qbasic.net/en/qbasic-tutorials/beginner/qbasic-beginner-1.htm)
 - [QBASIC Programming for Kids by Ted Felix](http://tedfelix.com/qbasic/)
+
+## Third-Party Extensions
+
+The following products from the company formally known as *Crescent Software* and *Full Moon Software* have all been generously made [freely available (meaning **public domain**)](http://annex.retroarchive.org/crescent/index.html) (with source) via GitHub (linked below).  You can also find more details on this directly from the original author (and, dare I say, legend) [Ethan Winer](http://ethanwiner.com/fullmoon.html).
+
+- [QuickPak Professional for DOS (Crescent Software)](https://github.com/geneb/QuickPak-Pro-DOS): The most comprehensive collection of BASIC tools ever produced.
+- [P.D.Q. (Crescent Software)](https://github.com/geneb/PDQ): A revolutionary concept in high-level languages.
+- [QB Plus (Crescent Software)](https://github.com/geneb/QBPlus): A collection of software accessories developted for the QuickBASIC programmer.
+- [Don Malin's XREF (Crescent Software)](https://github.com/geneb/XREF): The most sophisticated cross-reference program ever developed.
+- [QuickScreen (Crescent Software)](https://github.com/geneb/QuickScreen): Tools to create text entry screens in QuickBASIC 4.x and PDS 7.x.
+- [QuickPak Scientific (Crescent Software)](https://github.com/geneb/QuickPakScientific): A powerful numerical analysis toolbox for DOS compiled BASIC.
+- [QuickMenu (Crescent Software)](https://github.com/geneb/QuickMenu): A DOS menuing system.
+- [PDQComm (Crescent Software)](https://github.com/geneb/PDQComm): Add full-featured communications to your compiled BASIC programs.
+- [LaserPak (Crescent Software](https://github.com/geneb/LaserPak): A comprehensive set of subroutines for generating graphics on a laserjet or compatible.
+- [GraphPak Professional (Crescent Software)](https://github.com/geneb/GraphPak): Add professional-looking graphs and charts to your programs.
+- [The Graphics Workshop (Crescent Software)](https://github.com/geneb/GraphicsWorkshop): Create blazing fast graphics with half the code.
+- [Graphics QuickScreen (Crescent Software)](https://github.com/geneb/Graphics-QuickScreen): Tools to create graphics entry screens in QuickBASIC 4.x, PDS 7.x and VBDOS.
+- [Compression Workshop (Crescent Software)](https://github.com/geneb/CompressionWorkshop): Routines to compress and decompress data.
+- [QBase](https://github.com/geneb/QBase): Database system.
+
+There are many, many, many others that provided third-party tools...
+
+- [Fastgraph for DOS](http://fastgraph.com/catalog.html): Assembly language graphics powerhouse providing not only raw speed but ease of doing so. This is an amazing product the deserves a solid mention for the DOS BASIC developer. Will also mention when combined with [Fastgraph/Fonts](http://fastgraph.com/catalog.html) and [Fastgraph/Image](http://fastgraph.com/catalog.html) you could pretty much accomplish anything in BASIC that could be done in any language available for DOS.
 
 ## Resources
 
