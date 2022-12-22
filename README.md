@@ -12,6 +12,14 @@ And remember...
 
 > You can please some of the people all of the time, you can please all of the people some of the time, but you can’t please all of the people all of the time. ― John Lydgate
 
+## Love BASIC?
+
+Want to hang out and chat with others that also have an unwavering fascination with BASIC? Have general questions/comments? Want to share your experience? Want to simply get more involved? Join us on...
+
+  - [Discord](https://discord.gg/AYcgDwERUU)
+  - [Facebook](https://www.facebook.com/groups/gotbasic)
+  - [Gitter](https://gitter.im/GotBASIC/community)
+
 ## General Links
 
   - Where it all started...
@@ -27,12 +35,7 @@ And remember...
     - [A re-tracing of how Paul Allen loaded BASIC on the MITS Altair 8800 from paper tape](https://youtu.be/2wEyqJnhec8)
     - [Altair BASIC Manual](http://www.virtualaltair.com/virtualaltair.com/PDF/AltairBasic_1275.pdf)
 
-- [Why Johnny can't code](https://www.salon.com/test2/2006/09/14/basic_2) by David Brin
-
-- Love BASIC? Have questions?  Want to get more involved?  Join us on...
-  - [Discord](https://discord.gg/V9U5dMRs)
-  - [Gitter](https://gitter.im/GotBASIC/community)
-  - [Facebook](https://www.facebook.com/groups/gotbasic)
+- [Why Johnny can't code](https://www.salon.com/test2/2006/09/14/basic_2) by David Brian
 - [Wikipedia - List of BASIC dialects](https://en.wikipedia.org/wiki/List_of_BASIC_dialects)
 - [COMMAND_LINE HEROES - Season 3, Episode 2 - Learning the BASICs](https://www.redhat.com/en/command-line-heroes/season-3/learning-the-basics)  
 
