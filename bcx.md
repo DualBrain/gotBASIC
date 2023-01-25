@@ -12,7 +12,7 @@ NOTE: BCX appears to be at at least version 7.2.6 (see [here](https://sourceforg
 
 ## UPDATE - UPDATE - UPDATE
 
-It has recently been anounced in the yahoo group that yahoo is changing the service in such a way that BCX will no longer be housed within it's walls...
+It has recently been announced in the yahoo group that yahoo is changing the service in such a way that BCX will no longer be housed within it's walls...
 
 Furthermore, it was announced (10/26/2019) that Jeff Shollenberger is now hosting a new official site for BCX located at:
 

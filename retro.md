@@ -21,10 +21,10 @@
   - [Faux86](https://github.com/paulwratt/Faux86) - A portable, open-source 8086 PC emulator for bare metal Raspberry Pi
   - [BASIC-DOS](https://github.com/jeffpar/basicdos) - PC DOS Reimagined
 - RadioShack (Tandy)
-  - TRS-80 Model I (Level I, Level II)
-  - TRS-80 Model II
-  - TRS-80 Model III
-  - TRS-80 Model IV
+  - [TRS-80 Model I (Level I, Level II)](trs80.md)
+  - [TRS-80 Model II](trs80.md)
+  - [TRS-80 Model III](trs80.md)
+  - [TRS-80 Model IV](trs80.md)
   - [Color Computer MC-10](mc10.md)
   - [Color Computer 1](coco.md)
   - [Color Computer 2](coco.md)
@@ -44,3 +44,7 @@ This category is for languages/projects that aren't exactly retro but strive to 
 # Books
 
 - [More BASIC Computer Games by David H. Ahl (PDF)](https://www.atariarchives.org/morebasicgames/index.php) - 1979
+
+# Other
+
+- [BASIC benchmark index for 8-bit computers](https://github.com/scruss/bench64)
