@@ -10,8 +10,9 @@
 - [Blitz Basic PC CD-ROM (archive.org)](https://archive.org/details/blitz_basic_pccd/): This appears to be 16-bit; so won't work on a modern Windows installation.
 - [Blitz 3D PC CD-ROM (archive.org)](https://archive.org/details/blitz-3d): This does appear to work on Windows 11 x64.
 
-## Community Contributions
+## Community
 
+- [Amiga BlitzBasic & AmiBlitz (Facebook)](https://www.facebook.com/groups/342460143062811/)
 - [Amiga BlitzBasic 2.1 / AmiBlitz 3 Tutorials and Downloads](http://mbergmann-sh.de/ab3/)
 
 ## Samples
@@ -24,6 +25,12 @@
 - [BlitzMax DX 1.0 Alpha Release Download](https://www.blitzcoder.org/forum/topic.php?id=803)
 
 ## Amiga
+
+- [Download Ultimate Blitz Basic Plus](http://ubb.plus/)
+- [A Guide to Blitz Basic - Neil Wright, Mickley 1996 (PDF)](http://mbergmann-sh.de/ab3/bbguide.pdf)
+- [BLITZ BASIC 2.1 Manual - circa 2020 (PDF)](http://mbergmann-sh.de/ab3/bbmanual.pdf)
+- [Storm Wizard](http://stormwizard.amiforce.de/): Storm Wizard is a tool to make designing of GUIs easy and efficient. You will get an AmigaOS compliant UI very quickly without programming one line of code.
+- [AmiBlitz 2 Ferefernz Handbuch](http://www.amiforce.de/amiblitz/referenzhandbuch/inhaltsverzeichnis.php)
 
 AMIBLITZ³ is a free Development environment for AmigaOS3.x and Compatible based on BlitzBasic.
 
