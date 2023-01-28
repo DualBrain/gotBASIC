@@ -42,6 +42,7 @@ There are many, many, many others that provided third-party tools...
 ## Resources
 
 - [QB45.org](https://qb45.org/): About programming in QBasic/QuickBASIC, the programming language that was developed by Microsoft.
+- [QBasic Source Code Public Domain](https://thedubber.altervista.org/qbsrc.htm)
 
 ## Communities
 
