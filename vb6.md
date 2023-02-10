@@ -4,6 +4,12 @@
 
 - [History of Visual Basic by George Mack](http://www.ojodepez-fanzine.net/network/qbdl/history_of_visual_basic.html)
 
+## Discord
+
+Join us over on Discord for real-time interaction with other like minded Visual Basic enthusiasts!
+
+- [Discord Invite](https://discord.gg/Y8EH5fF6WG)
+
 ## How-To's
 
 - [StackOverflow - Your favorite VB6 tools and tips.](https://stackoverflow.com/questions/664370/your-favorite-visual-basic-6-0-tools-and-tips)

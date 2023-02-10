@@ -6,6 +6,12 @@
 
 - [Microsoft Visual Studio 2019 Community Edition](https://visualstudio.microsoft.com/downloads/)
 
+## Discord
+
+Join us over on Discord for real-time interaction with other like minded Visual Basic enthusiasts!
+
+- [Discord Invite](https://discord.gg/Y8EH5fF6WG)
+
 ## IL
 
 - [Sharplab.io](https://sharplab.io/) - You can easily switch the Code dropdown to Visual Basic, type code in and instantly see what the underlying IL will be - in the browser, nothing to download.
