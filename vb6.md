@@ -17,7 +17,7 @@ Join us over on Discord for real-time interaction with other like minded Visual 
 
 ## Communities
 
-- TBD
+- [Visual Basic Discord Server (Invite)](https://discord.gg/Y8EH5fF6WG)
 
 ## IDE
 

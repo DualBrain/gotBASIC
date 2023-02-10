@@ -4,7 +4,7 @@
 
 ## Download
 
-- [Microsoft Visual Studio 2019 Community Edition](https://visualstudio.microsoft.com/downloads/)
+- [Microsoft Visual Studio 2022 Community Edition](https://visualstudio.microsoft.com/downloads/)
 
 ## Discord
 
@@ -140,6 +140,7 @@ If you would like to be added to this list, please feel free to either contact m
 
 ## Communities
 
+- [Visual Basic Discord Server (Invite)](https://discord.gg/Y8EH5fF6WG)
 - [VB.NET Gitter](https://www.gitter.im/VB-NET)
 - Facebook
   - [Visual Basic .NET](https://www.facebook.com/groups/public.module/)
