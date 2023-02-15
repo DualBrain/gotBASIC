@@ -4,12 +4,6 @@
 
 - [History of Visual Basic by George Mack](http://www.ojodepez-fanzine.net/network/qbdl/history_of_visual_basic.html)
 
-## Discord
-
-Join us over on Discord for real-time interaction with other like minded Visual Basic enthusiasts!
-
-- [Discord Invite](https://discord.gg/Y8EH5fF6WG)
-
 ## How-To's
 
 - [StackOverflow - Your favorite VB6 tools and tips.](https://stackoverflow.com/questions/664370/your-favorite-visual-basic-6-0-tools-and-tips)
@@ -37,10 +31,15 @@ Join us over on Discord for real-time interaction with other like minded Visual 
 
 ## Alternatives
 
-- [RAD Basic (YouTube)](https://www.youtube.com/watch?v=oZNiXDBRl1I&feature=youtu.be)
+Products with a goal of 100% compatibility...
+
+- [RAD Basic](radbasic.md)
+- [TwinBasic](twinbasic.md)
+
+Products that tend to be compared to VB6...
+
 - [DoyleSoft BASIC](http://doylesoft.com/BASIC/?i=1)
 - [Jabaco](http://www.jabaco.org/)
-- [TwinBasic](https://www.twinbasic.com/)
 
 ## VB's Little Sister (VBA)
 
