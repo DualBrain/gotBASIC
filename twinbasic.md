@@ -9,3 +9,8 @@
 - [twinBASIC](https://twinbasic.com/)
 - [twinBASIC (Discord Invite)](https://discord.gg/UaW9GgKKuE)
 - [twinBASIC (GitHub)](https://github.com/twinbasic/twinbasic)
+
+## Community
+
+- [twinBASIC Weekly Update](https://nolongerset.com/tag/twinbasic-weekly-update/)
+- [twinBASIC @ nolongerset.com](https://nolongerset.com/tag/twinbasic/)
