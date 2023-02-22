@@ -24,4 +24,16 @@ As a microcontroller, Agon light™ has a control port featuring SPI, I2C, 20 di
 * No more assembly programming to customize or personalize your computer's firmware: Agon light™'s entire firmware suite, including the functionality of the Video Display Processor (VDP), is programmed in C with freely available tooling (compilers, IDEs, loaders, etc.).
 * Agon™ is an open-hardware and open-source project through and through, so you get all the information about the system.
 
-- [Agon light™](https://www.thebyteattic.com/p/agon.html)
+## Official
+
+* [Agon light™](https://www.thebyteattic.com/p/agon.html)
+
+## Projects
+
+* [Oregon Trail](https://github.com/LuzrBum/Agon-OregonTrail)
+* [CP/M](https://bitbucket.org/cocoacrumbs/agon-vpd-cpm/src/master/)
+
+## Resources
+
+* [Complete BBC Micro Games Archive](http://bbcmicro.co.uk/)
+* [Learn Assembly Programming With ChibiAkumas!](https://www.chibiakumas.com/ez80/?fbclid=IwAR1kUZ2JLkmRJMGTcbyEQ1a49O-Ztrx_bkhzAPf6Ti6X3fDYuOsFUfET4nA)
