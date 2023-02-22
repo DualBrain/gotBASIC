@@ -51,6 +51,7 @@ Products that tend to be compared to VB6...
 
 ## Cool Projects
 
+- [ZoneStripper](https://github.com/fafalone/ZoneStripper): Remove Zone.Identifier alternate data stream that identifies files as 'from the internet'.
 - [VBCorLib - A framework that brings many of the powerful .NET classes to VB6.](https://github.com/kellyethridge/VBCorLib)
 - [mp3decoder - Decoder implementation of MP3 audio in 100% VB.](https://github.com/neveraway/mp3decoder)
 - [xFXJumpStart DHTML Menu Builder v4+ on GitHub](https://github.com/morphx666/dmb)

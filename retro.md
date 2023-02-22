@@ -18,6 +18,7 @@
   - [PET](pet.md)
   - [VIC20](vic20.md)
 - IBM (and Compatibles)
+  - [PCem](https://pcem-emulator.co.uk/)
   - [Faux86](https://github.com/paulwratt/Faux86) - A portable, open-source 8086 PC emulator for bare metal Raspberry Pi
   - [BASIC-DOS](https://github.com/jeffpar/basicdos) - PC DOS Reimagined
 - RadioShack (Tandy)

@@ -6,6 +6,10 @@
 
 Why aren't these sorts of projects done in /available to Visual Basic...
 
+- [ls_proxy](https://github.com/axelson/ls_proxy)
+- [Interactive Language Server log inspector](https://github.com/Microsoft/language-server-protocol-inspector)
+- [Markdown Language Service](https://github.com/microsoft/vscode-markdown-languageservice)
+- [Markdown Language Server](https://github.com/microsoft/vscode/tree/main/extensions/markdown-language-features/server)
 - [Building a self-contained game in C# under 8K](https://medium.com/@MStrehovsky/building-a-self-contained-game-in-c-under-8-kilobytes-74c3cf60ea04): on [GitHub](https://github.com/MichalStrehovsky/SeeSharpSnake) - leverages the [CoreRT](https://github.com/dotnet/corert) experimental .NET Core runtime for AOT compilation.  Some additional info via a [twitter thread](https://twitter.com/MStrehovsky/status/1215331352352034818?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1215331352352034818%7Ctwgr%5E&ref_url=https%3A%2F%2Fcdn.embedly.com%2Fwidgets%2Fmedia.html%3Ftype%3Dtext2Fhtmlkey%3Da19fcc184b9711e1b4764040d3dc5c07schema%3Dtwitterurl%3Dhttps3A%2F%2Ftwitter.com%2FMStrehovsky%2Fstatus%2F1215331352352034818image%3D).
 - [DOOM fire effect in C# running on Windows NET 3.51](https://medium.com/@MStrehovsky/doom-fire-effect-in-c-running-on-windows-nt-3-51-fad6ee839345)
 
