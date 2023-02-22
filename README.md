@@ -81,6 +81,7 @@ Want to hang out and chat with others that also have an unwavering fascination w
 
 - [Single-board Computer Projects](singleboard.md)
   - [Raspberry Pi](pi.md)
+  - [Agon light™](agon.md)
   - [Colour Maximite](cmm1.md)
   - [Colour Maximite 2](cmm2.md)
   - [More...](singleboard.md)
