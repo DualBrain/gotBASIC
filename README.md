@@ -79,17 +79,17 @@ Want to hang out and chat with others that also have an unwavering fascination w
 
 ## Platforms
 
-- [Single-board Computer Projects](singleboard.md)
-  - [Raspberry Pi](pi.md)
+- [Single-board Computers](singleboard.md)
   - [Agon light™](agon.md)
   - [Colour Maximite](cmm1.md)
   - [Colour Maximite 2](cmm2.md)
+  - [Raspberry Pi](pi.md)
   - [More...](singleboard.md)
 - [Microcontrollers](micro.md)
   - [AVR (Arduino)](avr.md)
   - [ESP-8266](esp.md)
   - [PIC](pic.md)
-  - [MICROMITE](micromite.md)
+  - [Micromite](micromite.md)
   - [More...](micro.md)
 - [Personal Computers (Retro)](retro.md)
   - [Amstrad CPC](amstrad.md)
