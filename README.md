@@ -69,6 +69,7 @@ Want to hang out and chat with others that also have an unwavering fascination w
 - [SpiderBasic](spiderbasic.md)
 - [SmallBASIC](smallbasic.md)
 - [thinBASIC](thinbasic.md)
+- [Tiny BASIC](tiny.md)
 - [True BASIC](truebasic.md)
 - [twinBASIC](twinbasic.md)
 - [ugBASIC](ugbasic.md)
