@@ -4,13 +4,16 @@
 
 ## Emulators
 
-- [Color Compouter 2 Disk BASIC v1.1 circa 1982 (Archive.org)](https://archive.org/details/coco2cart_Color_Computer_Disk_BASIC_V1.1_1982_26-3022_Tandy): No need to download, start playing right away directly in your browser!
+- [Color Computer 2 Disk BASIC v1.1 circa 1982 (Archive.org)](https://archive.org/details/coco2cart_Color_Computer_Disk_BASIC_V1.1_1982_26-3022_Tandy): No need to download, start playing right away directly in your browser!
 - [XRoar - Dragon & CoCo emulator](https://www.6809.org.uk/xroar): XRoar is a Dragon emulator for Linux, Unix, Mac OS X and Windows. Due to hardware similarities, XRoar also emulates the Tandy Colour Computer (CoCo) models 1 & 2.
 
 ## IDE (Windows)
 
+- [PlayPi Games 6dev09](https://www.playpi.net/): *"Unleash the creativity with 6dev09, the game-changing IDE that transforms Color Computer and 6x09 programming and empowers your coding adventures! Experience seamless programming with 6dev09's robust support for both BASIC and Assembly languages, tailored for Color Computer and other 6x09 systems. Create and share cartridge ROMs and floppy images effortlessly, making it simple to bring your projects to life on MAME and other emulators or the Color Computer itself. Effortlessly manage complex projects through multiple tabs, allowing you to work on several files simultaneously within the same workspace."*
 - [Phoenix IDE](http://www.cococommunity.net/product/phoenix-ide/)
 - [Phoenix IDE Programming Application for the Tandy Color Computer (in BASIC)](https://youtu.be/WwE6WqpO9Dc)
+
+*Please note that I haven't personally worked with either of the above as they are both paid products. But they do seem interesting...*
 
 ## Color Computer 1
 
