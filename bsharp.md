@@ -2,6 +2,6 @@
 
 # B# (bsharp)
 
-The B# project stated goal is to answer the question: What if there were a classic (line numbers?) BASIC that were a first-class compiler for .NET.
+The B# stated goal of the project is to answer the ultimate question: *What if there were a classic (line numbers?) BASIC that were a first-class compiler for .NET.*
 
 - [GitHub](https://github.com/DualBrain/bsharp)
