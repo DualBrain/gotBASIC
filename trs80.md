@@ -2,7 +2,11 @@
 
 # RadioShack TRS-80
 
+![TRS-80](images/trs80_logo.svg.png)
+
 ## LEVEL I
+
+![TRS-80 MODEL I](images/trs80_model1.jpg)
 
 Level I BASIC is credited as being created by Steve Leininger. His involvement with the development of the TRS-80's BASIC language began before his employment with Tandy. While at National Semiconductor, Steve had written a draft of the NIBL (National Industrial Basic Language) BASIC interpreter for the SC/MP microprocessor. The NIBL interpreter was designed to be an efficient and compact implementation of BASIC for industrial applications.
 
@@ -20,7 +24,7 @@ Steve adapted Tiny BASIC to fit the TRS-80's hardware and specifications, result
 
 ## Level III
 
-tbd
+![TRS-80 MODEL III](images/trs80_model3.jpg)
 
 ## Emulators
 
@@ -34,3 +38,7 @@ tbd
 * [Learn Assembly Programming With ChibiAkumas!](https://www.chibiakumas.com/ez80/?fbclid=IwAR1kUZ2JLkmRJMGTcbyEQ1a49O-Ztrx_bkhzAPf6Ti6X3fDYuOsFUfET4nA)
 * [TRS-80 DOS - NEWDOS/80](https://www.trs-80.com/wordpress/dos-newdos80/)
 * [A Tandy/RadioShack TRS-80 Model I Clone](https://www.glensstuff.com/trs80/trs80.htm)
+
+![TRS-80](images/trs80_model4.jpg)
+
+![TRS-80](images/trs80_model4p.jpg)

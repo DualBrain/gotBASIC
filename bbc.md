@@ -2,6 +2,10 @@
 
 # BBC Micro
 
+![BBC](images/bbc_logo.svg.png)
+
+![BBC Micro](images/bbc_micro.jpg)
+
 - [Emulator (browser-based)](https://bbc.godbolt.org/)
 - [BBC Micro Users Guide](http://central.kaserver5.org/Kasoft/Typeset/BBC/Contents.html) ([PDF](http://bbc.nvg.org/doc/BBCUserGuide-1.00.pdf))
 - [Learn to write games for the BBC Micro with Eben](https://www.raspberrypi.org/blog/learn-to-write-games-for-the-bbc-micro-with-eben/)
@@ -10,6 +14,8 @@
 - [BBC BASIC](http://www.bbcbasic.co.uk/bbcbasic.html)
 
 # BBC BASIC
+
+![BBC BASIC](images/bbc_basic.gif)
 
 - [BBCSDL](http://www.bbcbasic.co.uk/bbcsdl/index.html)
 - [BBC BASIC for SDL 2.0 for Windows, Linux (86), MacOS, Raspberry Pi, Android and iOS](https://github.com/rtrussell/BBCSDL)

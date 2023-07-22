@@ -2,9 +2,9 @@
 
 # GotBASIC.com
 
-The overall goal of [GotBASIC.com](https://gotBASIC.com) is to be the **GOTO** (<-- see what I did there?) website for __**ALL**__ things related to the **BASIC** computer language; a sort-of  one-stop source for every dialect and central hub for all versions (past-and-present) of **BASIC** in all its forms.
+The overall goal of [GotBASIC.com](https://gotBASIC.com) is to be the **GOTO** (<-- see what I did there?) website for __**ALL**__ things related to the **BASIC** computer language; a sort-of one-stop source for every dialect and central hub for all versions (past-and-present) of **BASIC** in all its forms.
 
-[![BASIC Historical Marker](images/historical_marker.jpg)](https://granitegeek.concordmonitor.com/2019/06/11/finally-a-historical-marker-that-talks-about-something-important/)
+[![BASIC Historical Marker](images/historical_marker_modified.jpg)](https://granitegeek.concordmonitor.com/2019/06/11/finally-a-historical-marker-that-talks-about-something-important/)
 
 So please help us help everyone with this project; if you are aware of **BASIC**-related content floating around somewhere around on the web, please let me know.  If you are a product manufacturer of a product related to **BASIC**; please reach out to me so we can work with one another.  If you are working on a project using **BASIC**, please let me know so that I can help spread the word!
 
@@ -16,25 +16,23 @@ And remember...
 
 Want to hang out and chat with others that also have an unwavering fascination with BASIC? Have general questions/comments? Want to share your experience? Want to simply get more involved? Join us on...
 
-  - [Discord](https://discord.gg/AYcgDwERUU)
-  - [Facebook](https://www.facebook.com/groups/gotbasic)
-  - [Gitter](https://gitter.im/GotBASIC/community)
+- [Discord](https://discord.gg/AYcgDwERUU)
+- [Facebook](https://www.facebook.com/groups/gotbasic)
 
 ## General Links
 
-  - Where it all started...
-    - [BASIC Manual (v1)](https://www.dartmouth.edu/basicfifty/basicmanual_1964.pdf)
-    - [BASIC Manual (v2)](http://www.bitsavers.org/pdf/dartmouth/BASIC_Oct64.pdf)
-    - [Birth of BASIC (YouTube)](https://youtu.be/WYPNjSoDrqw)
-    - [BASIC at 50 (YouTube)](https://youtu.be/gxo9LVIgOiI)
-    - [A basic history of BASIC on it's 50th birthday](https://www.gamedeveloper.com/business/a-basic-history-of-basic-on-its-50th-birthday)
-    - [Photo of John G. Kemeny circa 1971](https://www.facebook.com/photo.php?fbid=3231692710177167&set=gm.2801583449951637&type=3&eid=ARBtSSg1CovWA2io5tfAxHmmAPipYiSrENWlV7gpvv7y37WUdFsJ9hCG0VFfODJdf76_IVQ3k6fOEczC&ifg=1)
-    - [Mary Kenneth Keller (Wikipedia)](https://en.wikipedia.org/wiki/Mary_Kenneth_Keller)
-    - [BASIC Necessities: How GE Helped Launch The Computing Language That Changed The World](https://www.ge.com/reports/basic-necessities-how-ge-helped-launch-the-computing-language-that-changed-the-world/)
-    - [History of Microsoft - 1975](https://youtu.be/BLaMbaVT22E)
-    - [A re-tracing of how Paul Allen loaded BASIC on the MITS Altair 8800 from paper tape](https://youtu.be/2wEyqJnhec8)
-    - [Altair BASIC Manual](http://www.virtualaltair.com/virtualaltair.com/PDF/AltairBasic_1275.pdf)
-
+- Where it all started...
+  - [BASIC Manual (v1)](https://www.dartmouth.edu/basicfifty/basicmanual_1964.pdf)
+  - [BASIC Manual (v2)](http://www.bitsavers.org/pdf/dartmouth/BASIC_Oct64.pdf)
+  - [Birth of BASIC (YouTube)](https://youtu.be/WYPNjSoDrqw)
+  - [BASIC at 50 (YouTube)](https://youtu.be/gxo9LVIgOiI)
+  - [A basic history of BASIC on it's 50th birthday](https://www.gamedeveloper.com/business/a-basic-history-of-basic-on-its-50th-birthday)
+  - [Photo of John G. Kemeny circa 1971](https://www.facebook.com/photo.php?fbid=3231692710177167&set=gm.2801583449951637&type=3&eid=ARBtSSg1CovWA2io5tfAxHmmAPipYiSrENWlV7gpvv7y37WUdFsJ9hCG0VFfODJdf76_IVQ3k6fOEczC&ifg=1)
+  - [Mary Kenneth Keller (Wikipedia)](https://en.wikipedia.org/wiki/Mary_Kenneth_Keller)
+  - [BASIC Necessities: How GE Helped Launch The Computing Language That Changed The World](https://www.ge.com/reports/basic-necessities-how-ge-helped-launch-the-computing-language-that-changed-the-world/)
+  - [History of Microsoft - 1975](https://youtu.be/BLaMbaVT22E)
+  - [A re-tracing of how Paul Allen loaded BASIC on the MITS Altair 8800 from paper tape](https://youtu.be/2wEyqJnhec8)
+  - [Altair BASIC Manual](http://www.virtualaltair.com/virtualaltair.com/PDF/AltairBasic_1275.pdf)
 - [Why Johnny can't code](https://www.salon.com/test2/2006/09/14/basic_2) by David Brian
 - [Wikipedia - List of BASIC dialects](https://en.wikipedia.org/wiki/List_of_BASIC_dialects)
 - [COMMAND_LINE HEROES - Season 3, Episode 2 - Learning the BASICs](https://www.redhat.com/en/command-line-heroes/season-3/learning-the-basics)  
@@ -50,6 +48,7 @@ Want to hang out and chat with others that also have an unwavering fascination w
 - [BlitzBASIC](blitz.md)
 - [Bywater BASIC](bywater.md)
 - [Chipmunk BASIC](chipmunk.md)
+- [Enhanced BASIC (EhBASIC)](ehbasic.md)
 - [FreeBASIC](freebasic.md)
 - [Gambas Almost Means BASIC!](gambas.md)
 - [GFA-BASIC 32 for Windows](gfa.md)
@@ -65,6 +64,7 @@ Want to hang out and chat with others that also have an unwavering fascination w
 - [PowerBASIC](powerbasic.md)
 - [PureBasic](purebasic.md)
 - [RAD Basic](radbasic.md)
+- [SecondBASIC Studio](secondbasic.md)
 - [SpecBAS](specbas.md)
 - [SpiderBasic](spiderbasic.md)
 - [SmallBASIC](smallbasic.md)
@@ -73,6 +73,7 @@ Want to hang out and chat with others that also have an unwavering fascination w
 - [True BASIC](truebasic.md)
 - [twinBASIC](twinbasic.md)
 - [ugBASIC](ugbasic.md)
+- [Microsoft Small Basic](mssb.md)
 - [Microsoft Visual Basic (.NET)](vb.md)
 - [Microsoft Visual Basic (pre-.NET)](vb6.md)
 - [Google's wwwBASIC](wwwbasic.md)
@@ -95,9 +96,14 @@ Want to hang out and chat with others that also have an unwavering fascination w
   - [More...](micro.md)
 - [Personal Computers (Retro)](retro.md)
   - [Amstrad CPC](amstrad.md)
+  - [Apple II](apple.md)
   - [Atari 600XL and 800XL](atari.md)
   - [Commodore Amiga](amiga.md)
   - [Commodore C64](c64.md)
+  - [Commodore PET](pet.md)
+  - [Commodore VIC-20](vic20.md)
+  - [Microbee Technology Microbee](microbee.md)
+  - [RadioShack TRS-80 Series](trs80.md)
   - [Tandy/RadioShack Color Computer Series](coco.md)
   - [More...](retro.md)
 - [Console (Retro)](console.md)

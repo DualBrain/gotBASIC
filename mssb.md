@@ -4,10 +4,7 @@
 
 According to the [official website](http://smallbasic.com):
 
-*"Small Basic is the **only** programming language created specially to help students transition from block-based coding to text-based 
-coding. By teaching the fundamental elements of syntax-based languages in an approachable manner, Small Basic gives students the skills 
-and confidence to tackle more complex programming languages such as Java and C#. You can also build applications for Kinect, Lego 
-Mindstorm, Raspberry Pi, Arduino, Oculus Rift, and more using Small Basic.*
+*"Small Basic is the **only** programming language created specially to help students transition from block-based coding to text-based coding. By teaching the fundamental elements of syntax-based languages in an approachable manner, Small Basic gives students the skills and confidence to tackle more complex programming languages such as Java and C#. You can also build applications for Kinect, Lego Mindstorm, Raspberry Pi, Arduino, Oculus Rift, and more using Small Basic.*
 
 *From age 7 to 107, Small Basic is one of the easiest ways to learn to code."*
 
@@ -16,8 +13,8 @@ Mindstorm, Raspberry Pi, Arduino, Oculus Rift, and more using Small Basic.*
 **Really?!?!**
 
 I'm planning on doing a full video and write up on this product.  Fair warning, this isn't going to be very pretty!  
-Although I applaud the effort, it's pretty clear to me that the people (or person) that originally designed the 
-language is not someone whom is familar with BASIC.  
+
+Although I applaud the effort, it's pretty clear to me that the people (or person) that originally designed the language is not someone whom is familar with BASIC.  
 
 What follows is not an exhaustive list of "issues" I see, but I believe this gives a bit of a window into why I am so disappointed:  
 

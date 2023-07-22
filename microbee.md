@@ -2,4 +2,8 @@
 
 # Applied Technology MicroBee Colour Basic
 
+![Microbee](images/microbee_logo.gif)
+
+![Microbee](images/microbee.jpg)
+
 - [Emulator](http://nanowasp.org/)

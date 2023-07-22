@@ -2,6 +2,8 @@
 
 # RadioShack/Tandy Color Computer Series
 
+![Coco 1](images/coco1a.jpg)
+
 ## Emulators
 
 - [Color Computer 2 Disk BASIC v1.1 circa 1982 (Archive.org)](https://archive.org/details/coco2cart_Color_Computer_Disk_BASIC_V1.1_1982_26-3022_Tandy): No need to download, start playing right away directly in your browser!
@@ -17,14 +19,20 @@
 
 ## Color Computer 1
 
+![Coco 1](images/coco1.jpg)
+
 - [CoCo SDC](http://cocosdc.blogspot.com/?fbclid=IwAR0JquoF2a1xcd-mzVY-7jAoVoz-dU0LeiBYaSDVoVb0TyAOWcRRnmCW1qA)
 
-## Color Compouter 2
+## Color Computer 2
+
+![Coco 2](images/coco2.jpg)
 
 - [Getting Started With Extended Color Basic (PDF)](http://www.colorcomputerarchive.com/coco/Documents/Manuals/Hardware/Getting%20Started%20With%20Extended%20Color%20Basic%20(Tandy).pdf)
 - [The MOOH - Memory expansion for your Dragon or CoCo 1/2](http://tormod.me/mooh.html): The MOOH is a memory expansion cartridge board for the Dragon 32/64 and CoCo 1/2, adding 512 KB of RAM and a socket for up to 64 KB ROM. It also features an SPI interface and an SD-card slot.
 
 ## Color Computer 3
+
+![Coco 3](images/coco3.jpg)
 
 - [Programming in BASIC on the Tandy RadioShack TRS-80 Color Computer (YouTube)](https://www.youtube.com/playlist?list=PLDfh7JjQaSYA1fP5KwRiOwefFIIF1Alid&fbclid=IwAR02qFC8wrAq8cf6rO4KUGpKb62KE_xaRvrweKEIHlfmy3Mq7E84EO6718U): A step-by-step series on how to program the Color Computer using a Virtual Color Computer 3 (50 videos).
 - [VCC Color Computer 3 Emulator (via archive.org)](https://web.archive.org/web/20181001201546/http://www.coco4.com/vcc/download.shtml)

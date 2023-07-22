@@ -2,15 +2,19 @@
 
 # Atari 600XL and 800XL
 
+![Atari 600XL](images/atari600xl.jpg)
+
 Atari BASIC is an interpreter for the BASIC programming language that shipped with the Atari 8-bit family of 6502-based home computers. Unlike many 8-bit BASICs, Atari BASIC is not a derivative of Microsoft BASIC, and differs in significant ways. It includes keywords for Atari-specific features and lacks support for string arrays, for example. 
 
 - [Atari BASIC on Wikipedia](https://en.wikipedia.org/wiki/Atari_BASIC)
 - [Atari BASIC Reference Manual](https://archive.org/stream/atari-basic-reference-manual/ataribasicreferencemanual#page/n65/mode/2up)
-- [Atari BASIC Source Book](https://archive.org/details/ataribooks-the-atari-basic-source-book) - A comlete explanation of the inside workings of Atari BASIC, along with the orginal source.
+- [Atari BASIC Source Book](https://archive.org/details/ataribooks-the-atari-basic-source-book) - A complete explanation of the inside workings of Atari BASIC, along with the original source.
 - [Atari BASIC - A Self-teaching Guide](https://www.atariarchives.org/basic/)
 - [Atari BASIC - XL Edition](https://www.atariarchives.org/basicxl/)
 
 ## Emulation
+
+![Atari 800XL](images/atari800xl.jpg)
 
 - [AE8 Atari 800 XL Emulator](http://www.zerstoerung.de/)
 - [jsA8E Demo](http://www.zerstoerung.de/jsa8e/)

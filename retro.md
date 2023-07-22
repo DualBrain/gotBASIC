@@ -44,8 +44,11 @@ This category is for languages/projects that aren't exactly retro but strive to 
 
 # Books
 
+![More BASIC Computer Games by David H. Ahl](images/more_basic_computer_games.jpg)
+
 - [More BASIC Computer Games by David H. Ahl (PDF)](https://www.atariarchives.org/morebasicgames/index.php) - 1979
 
 # Other
 
+- [Emulators, Simulators, Etc.](emulators.md)
 - [BASIC benchmark index for 8-bit computers](https://github.com/scruss/bench64)
