@@ -6,6 +6,8 @@
 
 Enhanced BASIC is a BASIC interpreter for the 6502 and compatible microprocessors. It is constructed to be quick and powerful and easily ported to most 6502 systems. It requires few resources to run and includes instructions to facilitate easy low level handling of hardware devices. It also retains most of the powerful high level instructions from similar BASICs.
 
+EhBASIC was created by Lee Davidson, an engineer from Wales, who apparently shared a lot of his hobby with the community through his website. Lee Davidson passed away September 2013. If it weren't for individuals such as [Hans Otten](http://retro.hansotten.nl/), Lee's works may have disappeared into oblivion after his passing with the subsequent shut down of his website.
+
 ## Requirements
 
 ### Minimum
