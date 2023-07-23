@@ -10,4 +10,5 @@ So with that said, these are the ones that I have either used (or spotted) in th
 
 ## 6502
 
+- [SYMON - A 6502 System Simulator (Github)](https://github.com/sethm/symon)
 - [Daryl's Computer Hobby Page - Kowalski Simulator Updates](https://sbc.rictor.org/kowalski.html) • on Gitub at [6502 simulator and macroassembler](https://github.com/mikekov/6502)
