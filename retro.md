@@ -12,6 +12,8 @@
   - [Atari 600XL/800XL](atari.md)
 - BBC Micro
   - [Model B](bbc.md)
+- Coleco
+  - [ADAM - SmartBASIC](smartbasic.md)
 - Commodore
   - [Amiga](amiga.md)
   - [C64](c64.md)
@@ -21,7 +23,7 @@
   - [PCem](https://pcem-emulator.co.uk/)
   - [Faux86](https://github.com/paulwratt/Faux86) - A portable, open-source 8086 PC emulator for bare metal Raspberry Pi
   - [BASIC-DOS](https://github.com/jeffpar/basicdos) - PC DOS Reimagined
-- RadioShack (Tandy)
+- Radio Shack (Tandy)
   - [TRS-80 Model I (Level I, Level II)](trs80.md)
   - [TRS-80 Model II](trs80.md)
   - [TRS-80 Model III](trs80.md)
