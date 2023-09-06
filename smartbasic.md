@@ -4,7 +4,7 @@
 
 ![SmartBASIC Digital Data Pack](images/smartbasic.jpg)
 
-> Unlike other computers at the time, the ADAM did not have its BASIC interpreter stored in ROM. Instead, it featured a built-in electronic typewriter and word processor, SmartWriter, as well as the Elementary Operating System (EOS) OS kernel and the 8 KB OS-7 ColecoVision operating system. The SmartBASIC interpreter was delivered on a Digital Data Pack tape cassette; this version of BASIC was designed to be mostly compatible with Applesoft BASIC. The interpreter was developed by Randall Hyde of Lazer Microsystems.
+> Unlike other computers at the time, the ADAM did not have its BASIC interpreter stored in ROM. Instead, it featured a built-in electronic typewriter and word processor, SmartWriter, as well as the Elementary Operating System (EOS) OS kernel and the 8 KB OS-7 ColecoVision operating system. The SmartBASIC interpreter was delivered on a Digital Data Pack tape cassette; this version of BASIC was designed to be mostly compatible with Applesoft BASIC. The interpreter was developed by [Randall Hyde](https://en.wikipedia.org/wiki/Randall_Hyde) of Lazer Microsystems; who is best known as the author of *The Art of Assembly Language* and developed a language called *High Level Assembly (HLA)*.
 
 I found [this "Coding Horror" blog post](https://blog.codinghorror.com/the-cult-of-coleco-adam/) of which the comments are pretty negative toward the community at the time that still were interested in the ADAM. In this blog post though is:
 
