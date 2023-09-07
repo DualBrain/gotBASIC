@@ -8,6 +8,12 @@ This list isn't meant to be the all inclusive list of all emulators that exists;
 
 So with that said, these are the ones that I have either used (or spotted) in the process of exploring these retro machines (assuming I don't have the actual hardware at hand - wouldn't be wonderful if it were possible to have all of them; but, alas, I am married and will continue to do my best to remain so.)
 
+## Atari 2600
+
+- [Stella: A multi-platform Atari 2600 VCS emulator](https://stella-emu.github.io/)
+- [z26 -- An Atari 2600 Emulator](https://www.whimsey.com/z26/index.php)
+- [PCAE: PC Atari Emulator](http://pcae.vg-network.com/)
+
 ## 6502
 
 - [SYMON - A 6502 System Simulator (Github)](https://github.com/sethm/symon)

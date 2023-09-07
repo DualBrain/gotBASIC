@@ -2,6 +2,24 @@
 
 # SmartBASIC (Coleco ADAM)
 
+The Coleco ADAM is a home computer released in 1983 by American toy manufacturer Coleco. It was an attempt to follow on the success of the company's ColecoVision video game console.
+
+The ADAM was not very successful, partly because of early production problems. Coleco announced the ADAM in June 1983 at the Summer Consumer Electronics Show (CES) and executives predicted sales of 500,000 by Christmas 1983. From the time of the computer's introduction to the time of its shipment, the price increased, from USD $525 to $725.
+
+In its favor, the ADAM had a large software library from the start. It was derived from and compatible with the ColecoVision's software and accessories and, in addition, the popular CP/M operating system was available as an option. Its price gave a complete system: an 80 kB RAM computer, tape drive, letter-quality printer, and software including the Buck Rogers: Planet of Zoom video game.
+
+The IBM PCjr sold for $669 but included no peripherals, and although the popular Commodore 64 sold for around $200, its price was not much lower after the purchase of a printer, tape or disk drive, and software.
+
+Like many home computers of its day, the ADAM was intended to use a television set for its display.
+
+The SmartWriter electronic typewriter loaded when the system was turned on. In this mode, the system operated just like a typewriter, printing letters as soon as the user typed them. Pressing the Escape/WP key put SmartWriter into word processor mode, which functioned similarly to a modern word processor. A less expensive version of the ADAM plugged into a ColecoVision, which delivered on one of ColecoVision's launch commitments that owners would one day be able to upgrade their game system to a fully featured computer system.
+
+The ADAM received some good reviews based on the quality of its keyboard and printer, and offered competitive sound and graphics.
+
+Its BASIC interpreter, called SmartBASIC, was largely compatible with Applesoft BASIC, which meant that many type-in programs from computer books and magazines would work with the Adam with little or no modification. However, sales were weak, especially after the technical issues became obvious.
+
+Coleco lost $35 million in the fourth quarter of 1984 as returns flooded in. Officially, Coleco blamed "manuals which did not offer the first-time user adequate assistance." Coleco reintroduced ADAM with a new instruction manual, lower price, and a $500 college scholarship along with each unit for use by a young child (to be paid when the child reached college). Less than 100,000 units ultimately sold. The ADAM was discontinued in 1985, less than two years after its introduction. The ADAM weakened Coleco by absorbing much of the money it had made from Cabbage Patch Kids; the company filed for bankruptcy in 1988.
+
 ![SmartBASIC Digital Data Pack](images/smartbasic.jpg)
 
 > Unlike other computers at the time, the ADAM did not have its BASIC interpreter stored in ROM. Instead, it featured a built-in electronic typewriter and word processor, SmartWriter, as well as the Elementary Operating System (EOS) OS kernel and the 8 KB OS-7 ColecoVision operating system. The SmartBASIC interpreter was delivered on a Digital Data Pack tape cassette; this version of BASIC was designed to be mostly compatible with Applesoft BASIC. The interpreter was developed by [Randall Hyde](https://en.wikipedia.org/wiki/Randall_Hyde) of Lazer Microsystems; who is best known as the author of *The Art of Assembly Language* and developed a language called *High Level Assembly (HLA)*.
@@ -33,3 +51,5 @@ And... in the comments to "Coding Horror"'s blog post, Richard continues...
 > *Rich* (March 2006)
 
 - [ADAM SmartBASIC Programming Manual Revised Edition (PDF)](https://archive.org/details/coleco-adam-smart-basic-manual)
+- [TOSEC: Coleco ColecoVision ADAM (2012-04-23)](https://archive.org/details/Coleco_ColecoVision_ADAM_TOSEC_2012_04_23)
+- [ColEm: Portable ColecoVision and Coleco Adam Emulator](https://fms.komkon.org/ColEm/)

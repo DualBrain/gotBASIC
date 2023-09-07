@@ -1,6 +1,38 @@
 [Home](https://gotbasic.com) • [VB 7+](vb.md) • [VB 1-6](vb6.md) • [FB](freebasic.md) • [QB64](qb64.md) • [QB45](qb.md) • [GW-BASIC](gw-basic.md) • [Micro](micro.md) • [Retro](retro.md)
 
-# Atari 600XL and 800XL
+# Atari
+
+## 2600
+
+- [2600 (STELLA) Programmer's Guide by Steve Wright](https://archive.org/details/StellaProgrammersGuide)
+
+### BASIC Programming
+
+- [BASIC PROGRAMMING - ATARI GAME PROGRAM INSTRUCTIONS](https://archive.org/details/basic-programming-atari-2600-us)
+- [Basic Programming - Atari - Atari 2600](https://atariage.com/manual_html_page.php?SoftwareID=852)
+- [Try BASIC Programming on the Atari 2600 (15-30 mins)](https://atariprojects.org/2019/12/24/try-basic-programming-on-the-atari-2600-15-30-mins/)
+- [Everything I Needed to Know About Programming I Learned from BASIC (Coding Horror)](https://blog.codinghorror.com/everything-i-needed-to-know-about-programming-i-learned-from-basic/)
+
+### Atari Dev Studio
+
+- [Atari Dev Studio for Homebrew Development [Release]](https://forums.atariage.com/topic/290365-atari-dev-studio-for-homebrew-development-release/)
+
+### batari Basic
+
+- [batari-Basic: a BASIC-like language for creating games that run on the Atari 2600 console (GitHub)](https://github.com/batari-Basic/batari-Basic)
+- [batari Basic Commands](https://www.randomterrain.com/atari-2600-memories-batari-basic-commands.html#ideforbb)
+- [Official Home for batari Basic](https://forums.atariage.com/topic/300856-official-home-for-batari-basic/)
+- [batari Basic (defunct website?)](https://bataribasic.com/)
+
+## 7800
+
+### Atari Dev Studio
+
+- [Atari Dev Studio for Homebrew Development [Release]](https://forums.atariage.com/topic/290365-atari-dev-studio-for-homebrew-development-release/)
+
+## 600XL and 800XL
+
+### Atari BASIC
 
 ![Atari 600XL](images/atari600xl.jpg)
 
@@ -11,6 +43,12 @@ Atari BASIC is an interpreter for the BASIC programming language that shipped wi
 - [Atari BASIC Source Book](https://archive.org/details/ataribooks-the-atari-basic-source-book) - A complete explanation of the inside workings of Atari BASIC, along with the original source.
 - [Atari BASIC - A Self-teaching Guide](https://www.atariarchives.org/basic/)
 - [Atari BASIC - XL Edition](https://www.atariarchives.org/basicxl/)
+
+### FastBasic
+
+This is a fast interpreter for the BASIC language on the Atari 8-bit computers and the Atari 5200 console.
+
+- [FastBasic - Fast BASIC interpreter for the Atari 8-bit computers (GitHub)](https://github.com/dmsc/fastbasic)
 
 ## Emulation
 
