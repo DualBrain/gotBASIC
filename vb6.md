@@ -3,6 +3,7 @@
 # Microsoft Visual Basic v1 through v6
 
 - [History of Visual Basic by George Mack](http://www.ojodepez-fanzine.net/network/qbdl/history_of_visual_basic.html)
+- [Something Pretty Right: The history and legacy of Visual Basic by Ryan Lucas](https://retool.com/visual-basic/)
 
 ## How-To's
 
