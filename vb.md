@@ -121,6 +121,8 @@ If you would like to be added to this list, please feel free to either contact m
 - [FTP](https://docs.microsoft.com/en-us/dotnet/framework/network-programming/ftp)
 - [Google Drive API how to VB.NET File Download (StackOverflow)](https://stackoverflow.com/questions/56931300/google-drive-api-how-to-vb-net-file-download)
 - [How to add watermark to PDF](https://www.syncfusion.com/kb/9072/how-to-add-watermark-to-pdf-file-in-c-vb-net?fbclid=IwAR2rHxCIGeiFCTqKs2tln5it-3Dliq4rdNsFcej3DSGjsMbYVAjyO2Hs5Mc)
+- [Fast Pixel Rendering (SO)](https://stackoverflow.com/questions/11030706/c-sharp-fast-pixel-rendering)
+- [Using the LockBits method to access image data](http://web.archive.org/web/20150227183132/http://bobpowell.net/lockingbits.aspx)
 
 ## Video Tutorials
 
