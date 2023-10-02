@@ -10,6 +10,8 @@
   - [MicroBee](microbee.md)
 - Atari
   - [Atari 600XL/800XL](atari.md)
+- Bally
+  - [Astrocade](https://en.wikipedia.org/wiki/Bally_Astrocade#Astro_BASIC)
 - BBC Micro
   - [Model B](bbc.md)
 - Coleco
@@ -36,7 +38,10 @@
   - [BASIC-11 for the Z80](https://github.com/hperaza/BASIC-11-Z80)
   - [NASCOM ROM BASIC Version 4.7 - (C) 1978 Microsoft](https://github.com/feilipu/NASCOM_BASIC_4.7)
 - ZX Spectrum
+  - [Sinclair BASIC History](https://sinclair.wiki.zxnet.co.uk/wiki/Sinclair_BASIC_history)
   - [ZX Basic Wiki](https://zxbasic.readthedocs.io/en/docs/)
+  - [Sinclair BASIC (Wikipedia)](https://en.wikipedia.org/wiki/Sinclair_BASIC)
+  - [Sinclair ZX Spectrum Next - NEXTBASIC](https://www.specnext.com/nextbasic-commands/)
 
 # *Retro Modern*
 

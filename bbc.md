@@ -11,15 +11,23 @@
 - [Learn to write games for the BBC Micro with Eben](https://www.raspberrypi.org/blog/learn-to-write-games-for-the-bbc-micro-with-eben/)
 - [Books via 8-Bit Software](http://8bs.com/othrdnld/manuals/publications.shtml)
 - [Wikipedia](https://en.wikipedia.org/wiki/BBC_BASIC)
-- [BBC BASIC](http://www.bbcbasic.co.uk/bbcbasic.html)
 
-# BBC BASIC
+## BBC BASIC
 
 ![BBC BASIC](images/bbc_basic.gif)
 
+- [BBC BASIC EDITOR (Browser)](https://bbcmic.ro/#)
+- [BBC BASIC](http://www.bbcbasic.co.uk/bbcbasic.html)
 - [BBCSDL](http://www.bbcbasic.co.uk/bbcsdl/index.html)
 - [BBC BASIC for SDL 2.0 for Windows, Linux (86), MacOS, Raspberry Pi, Android and iOS](https://github.com/rtrussell/BBCSDL)
+- [BBC BASIC (Z80)](https://www.bbcbasic.co.uk/bbcbasic/z80basic.html)
+- [RISC OS Direct for Raspberry Pi](https://www.riscosdev.com/direct/): A RISC OS for Raspberry Pi image that has a particular emphasis on programing RISC OS and contains BBC BASIC 5/6 as well as many other programming languages pre-installed.
 
-# Very Cool!!!!
+## Very Cool!!!!
 
-- [BBC Micro Bot](https://twitter.com/bbcmicrobot): Welcome to 8-bit cloud.  Send a tweet to @bbcmicrobot and it will run it on a 1980s 8-bit computer emulation!
+- [BBC Micro Bot](https://twitter.com/bbcmicrobot): Welcome to 8-bit cloud.  Send a tweet to @bbcmicrobot and it will run it on a 1980s 8-bit computer emulation! [Source (GitHub)](https://github.com/8bitkick/BBCMicroBot)
+
+## Additional Resources
+
+- [The Mighty Micro (1979)](https://youtube.com/playlist?list=PL13dwmxpaKl5JJyC4L09uf_PFXkn6FlGA&si=QmiJuMFBl_05RT9r)
+- [The Computer Programme (BBC2, 1982)](https://youtube.com/playlist?list=PLOtimvwAoYtnCtLiLspq_Gnng1XusYwPU&si=Grhr6VK9CQcui0L4)

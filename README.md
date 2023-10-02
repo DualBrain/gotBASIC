@@ -36,6 +36,7 @@ Want to hang out and chat with others that also have an unwavering fascination w
 - [Why Johnny can't code](https://www.salon.com/test2/2006/09/14/basic_2) by David Brian
 - [Wikipedia - List of BASIC dialects](https://en.wikipedia.org/wiki/List_of_BASIC_dialects)
 - [COMMAND_LINE HEROES - Season 3, Episode 2 - Learning the BASICs](https://www.redhat.com/en/command-line-heroes/season-3/learning-the-basics)  
+- [Usborne Computer and Coding Books (Pdf)](https://usborne.com/us/books/computer-and-coding-books)
 
 ## BASICS
 

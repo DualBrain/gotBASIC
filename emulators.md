@@ -14,6 +14,15 @@ So with that said, these are the ones that I have either used (or spotted) in th
 - [z26 -- An Atari 2600 Emulator](https://www.whimsey.com/z26/index.php)
 - [PCAE: PC Atari Emulator](http://pcae.vg-network.com/)
 
+## BBC Micro
+
+- [b-em](https://github.com/stardot/b-em): An open source BBC Micro emulator for Win32 and Linux
+- [b-em (Pi)](https://github.com/kilograham/b-em): An RP2040 and Raspberry Pi 2/3/4/Zero 2 W version of an open source BBC Micro emulator originally for Win32 and Linux
+
+## ZX Spetrum
+
+- [pico-zxspectrum](https://github.com/fruit-bat/pico-zxspectrum): ZX Spectrum for Raspberry Pico Pi RP2040 ([Video](https://www.youtube.com/watch?v=gnDjgHQR_io))
+
 ## 6502
 
 - [SYMON - A 6502 System Simulator (Github)](https://github.com/sethm/symon)

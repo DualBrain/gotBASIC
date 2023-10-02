@@ -171,6 +171,7 @@ If you would like to be added to this list, please feel free to either contact m
 ## Tools
 
 - [dnSpy (GitHub)](https://github.com/0xd4d/dnSpy): .NET debugger and assembly editor.
+- [ConnectionStrings.com](https://www.connectionstrings.com/): Helps developers connect software to data.
 
 ## Analyzers
 

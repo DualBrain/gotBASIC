@@ -100,3 +100,7 @@ Thanks to Gene Buckle for purchasing and releasing all of Full Moon Software's (
 
 - [The M.I.C.E. Project - The (World's) Most Ill-Concieved Emulator: A TRS-80 Model I Emulator in GW-BASIC.](http://www.vavasour.ca/jeff/mice.html)
 - [RogCAD 3D design software - mz-.bas data-file reader](https://rogcad.com/mzbas.htm)
+
+## Resources
+
+- [Q41581: More Information about BASIC's DRAW Statement Macro Language](https://jeffpar.github.io/kbarchive/kb/041/Q41581/)

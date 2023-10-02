@@ -38,6 +38,8 @@ Steve adapted Tiny BASIC to fit the TRS-80's hardware and specifications, result
 * [Learn Assembly Programming With ChibiAkumas!](https://www.chibiakumas.com/ez80/?fbclid=IwAR1kUZ2JLkmRJMGTcbyEQ1a49O-Ztrx_bkhzAPf6Ti6X3fDYuOsFUfET4nA)
 * [TRS-80 DOS - NEWDOS/80](https://www.trs-80.com/wordpress/dos-newdos80/)
 * [A Tandy/RadioShack TRS-80 Model I Clone](https://www.glensstuff.com/trs80/trs80.htm)
+* [TRS-OS](https://www.danielpaulmartin.com/home/research/?fbclid=IwAR1zBWi9dPDXrcvub0PH71vxegnvCC_M32XlGk15H0aVr8tKmCFb_n4tWn8)
+* [Agon OSboot for TRS-OS](https://github.com/sijnstra/agon-projects/tree/main/OSboot)
 
 ![TRS-80](images/trs80_model4.jpg)
 

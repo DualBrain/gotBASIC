@@ -5,6 +5,10 @@
 - [History of Visual Basic by George Mack](http://www.ojodepez-fanzine.net/network/qbdl/history_of_visual_basic.html)
 - [Something Pretty Right: The history and legacy of Visual Basic by Ryan Lucas](https://retool.com/visual-basic/)
 
+## Resources
+
+- [Using Visual Basic 6 (QUE)](http://lnr.irb.hr/ebooks/078971633X/index.htm): The entire book HTML-ized.
+
 ## How-To's
 
 - [StackOverflow - Your favorite VB6 tools and tips.](https://stackoverflow.com/questions/664370/your-favorite-visual-basic-6-0-tools-and-tips)

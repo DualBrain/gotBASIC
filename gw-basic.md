@@ -27,7 +27,9 @@ Please be sure to take the time to visit [https://gw-basic.com](https://gw-basic
 
 ## Third-Party Extensions/Tools
 
-- [Rster Master Sprite/Icon/Map Editor](https://github.com/RetroNick2020/raster-master): Has support for generating GW-BASIC source.
+- [GW-BASIC Language Server (VSCode)](https://marketplace.visualstudio.com/items?itemName=sthfaceless.gw-basic-ls)
+- [F5 Anything (VSCode)](https://marketplace.visualstudio.com/items?itemName=discretegames.f5anything)
+- [Raster Master Sprite/Icon/Map Editor](https://github.com/RetroNick2020/raster-master): Has support for generating GW-BASIC source.
 
 ## Samples/Code
 

@@ -5,6 +5,7 @@
 ## 2600
 
 - [2600 (STELLA) Programmer's Guide by Steve Wright](https://archive.org/details/StellaProgrammersGuide)
+- [Steve Guidi Video Companion Files (GitHub)](https://github.com/SteveGuidi/video-companion-media): Find some sample programs as well as a keyboard "overlay". He also has a project for connecting a PS2 keyboard to an Atari 2600!
 
 ### BASIC Programming
 
@@ -12,10 +13,14 @@
 - [Basic Programming - Atari - Atari 2600](https://atariage.com/manual_html_page.php?SoftwareID=852)
 - [Try BASIC Programming on the Atari 2600 (15-30 mins)](https://atariprojects.org/2019/12/24/try-basic-programming-on-the-atari-2600-15-30-mins/)
 - [Everything I Needed to Know About Programming I Learned from BASIC (Coding Horror)](https://blog.codinghorror.com/everything-i-needed-to-know-about-programming-i-learned-from-basic/)
+- [Write Atari 2600 Video Games in BASIC](http://relationalframework.com/Atari2600gamesonline.htm)
+- [Atari Mania - BASIC Programming](http://www.atarimania.com/game-atari-2600-vcs-basic-programming_7225.html)
 
 ### Atari Dev Studio
 
 - [Atari Dev Studio for Homebrew Development [Release]](https://forums.atariage.com/topic/290365-atari-dev-studio-for-homebrew-development-release/)
+- [Atari Dev Studio (GitHub)](https://github.com/chunkypixel/atari-dev-studio)
+- [Atari Dev Studio (VSCode)](https://marketplace.visualstudio.com/items?itemName=chunkypixel.atari-dev-studio)
 
 ### batari Basic
 
@@ -29,6 +34,8 @@
 ### Atari Dev Studio
 
 - [Atari Dev Studio for Homebrew Development [Release]](https://forums.atariage.com/topic/290365-atari-dev-studio-for-homebrew-development-release/)
+- [Atari Dev Studio (GitHub)](https://github.com/chunkypixel/atari-dev-studio)
+- [Atari Dev Studio (VSCode)](https://marketplace.visualstudio.com/items?itemName=chunkypixel.atari-dev-studio)
 
 ## 600XL and 800XL
 
