@@ -24,8 +24,8 @@ From what I understand, the developer primarily responsible for FreeBASIC is [Ja
 - JayRM
   - [JayRM's FreeBASIC Load Out](https://github.com/jayrm/fblo): Prebuilt libraries for Win32/Win64 and source files that can be dropped in to an existing FreeBASIC install.
 - [Batched Files](https://github.com/BatchedFiles)
-  -[Station992 - Http Server (GitHub)](https://github.com/BatchedFiles/Station922)
-  -[Client library for IRC (GitHub)](https://github.com/BatchedFiles/IrcClientLibrary)
+  - [Station992 - Http Server (GitHub)](https://github.com/BatchedFiles/Station922)
+  - [Client library for IRC (GitHub)](https://github.com/BatchedFiles/IrcClientLibrary)
 - ["Nine" Card Game (GitHub)](https://github.com/TagalongGames/Nine)
 - [FreeBASIC in Russian (Unofficial)](http://www.freebasic.su/)
 - [Compiling FB for DOS](https://www.freebasic.net/wiki/DevBuildDos)
