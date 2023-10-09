@@ -6,29 +6,53 @@ FreeBASIC is a completely free, open-source, multi-platform BASIC compiler, with
 
 From what I understand, the developer primarily responsible for FreeBASIC is [JayRM](https://github.com/jayrm).
 
+## Official Website
+
 - [FreeBASIC](https://www.freebasic.net/)
-- [FreeBASIC (GitHub)](https://github.com/freebasic/fbc)
+
+## Official Discord Server
+
 - [FreeBASIC (Discord)](https://discord.com/invite/286rSdK)
+
+## Official Project
+
+- [FreeBASIC (GitHub)](https://github.com/freebasic/fbc)
 - [FbFrog (GitHub)](https://github.com/freebasic/fbfrog/): FreeBASIC binding creation tool.
 - [FbFrog Scripts (GitHub)](https://github.com/freebasic/fbbindings): Scripts for fbfrog-based FreeBASIC bindings.
+
+## IDE
+
+- FBIde
+  - [FBIde](https://fbide.freebasic.net/): The "#1 editor for FreeBASIC".
 - Xuisinboy Bekchanov
   - [VisualFBEditor - IDE (GitHub)](https://github.com/XusinboyBekchanov/VisualFBEditor)
-  - [MyFbFramework - My FreeBasic Framework (GitHub)](https://github.com/XusinboyBekchanov/MyFbFramework)
 - Paul Squires
   - [FreeBASIC Editor for Windows (GitHub)](https://github.com/PaulSquires/WinFBE)
+- Kuan Hsu
+  - [PoseidonFB](https://bitbucket.org/KuanHsu/poseidonfb): [Forum discussion](https://www.freebasic.net/forum/viewtopic.php?t=23935)
+
+## Libraries
+
+- Xuisinboy Bekchanov
+  - [MyFbFramework - My FreeBasic Framework (GitHub)](https://github.com/XusinboyBekchanov/MyFbFramework)
+- Paul Squires
   - [Windows Form Library (GitHub)](https://github.com/PaulSquires/WinFormsX)
+- [Batched Files](https://github.com/BatchedFiles)
+  - [Station992 - Http Server (GitHub)](https://github.com/BatchedFiles/Station922)
+  - [Client library for IRC (GitHub)](https://github.com/BatchedFiles/IrcClientLibrary)
+
+## Additional Resources
+
 - Luther Ramsey
   - [FbRtLib (Github)](https://github.com/ImortisInglorian/fbrtLib): FreeBASIC Runtime Library written in FreeBASIC.
 - Jose Roca
   - [Windows Framework (GitHub)](https://github.com/JoseRoca/WinFBX)
 - JayRM
   - [JayRM's FreeBASIC Load Out](https://github.com/jayrm/fblo): Prebuilt libraries for Win32/Win64 and source files that can be dropped in to an existing FreeBASIC install.
-- [Batched Files](https://github.com/BatchedFiles)
-  - [Station992 - Http Server (GitHub)](https://github.com/BatchedFiles/Station922)
-  - [Client library for IRC (GitHub)](https://github.com/BatchedFiles/IrcClientLibrary)
-- ["Nine" Card Game (GitHub)](https://github.com/TagalongGames/Nine)
-- [FreeBASIC in Russian (Unofficial)](http://www.freebasic.su/)
-- [Compiling FB for DOS](https://www.freebasic.net/wiki/DevBuildDos)
+- Others
+  - ["Nine" Card Game (GitHub)](https://github.com/TagalongGames/Nine)
+  - [FreeBASIC in Russian (Unofficial)](http://www.freebasic.su/)
+  - [Compiling FB for DOS](https://www.freebasic.net/wiki/DevBuildDos)
 
 ## FreeBASIC vs GW-BASIC 
 
