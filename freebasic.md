@@ -2,22 +2,27 @@
 
 # FreeBASIC
 
-FreeBASIC is a completely free, open-source, multi-platform BASIC compiler, with syntax similar to MS-QuickBASIC, that adds new features such as pointers, unsigned data types, inline assembly, object orientation, and many others.
+FreeBASIC is a completely free, open-source, multi-platform BASIC compiler, with syntax similar to Microsoft QuickBASIC, that adds new features such as pointers, unsigned data types, in-line assembly, object orientation, and many others. Although certainly began as a project that focused on compatibility with QB; it has since evolved into its having its own individual identity. It's certainly one of the modern BASIC's to have in your personal toolbelt!
+
+From what I understand, the developer primarily responsible for FreeBASIC is [JayRM](https://github.com/jayrm).
 
 - [FreeBASIC](https://www.freebasic.net/)
 - [FreeBASIC (GitHub)](https://github.com/freebasic/fbc)
 - [FreeBASIC (Discord)](https://discord.com/invite/286rSdK)
+- [FbFrog (GitHub)](https://github.com/freebasic/fbfrog/): FreeBASIC binding creation tool.
+- [FbFrog Scripts (GitHub)](https://github.com/freebasic/fbbindings): Scripts for fbfrog-based FreeBASIC bindings.
 - Xuisinboy Bekchanov
   - [VisualFBEditor - IDE (GitHub)](https://github.com/XusinboyBekchanov/VisualFBEditor)
   - [MyFbFramework - My FreeBasic Framework (GitHub)](https://github.com/XusinboyBekchanov/MyFbFramework)
 - Paul Squires
   - [FreeBASIC Editor for Windows (GitHub)](https://github.com/PaulSquires/WinFBE)
   - [Windows Form Library (GitHub)](https://github.com/PaulSquires/WinFormsX)
+- Luther Ramsey
+  - [FbRtLib (Github)](https://github.com/ImortisInglorian/fbrtLib): FreeBASIC Runtime Library written in FreeBASIC.
 - Jose Roca
   - [Windows Framework (GitHub)](https://github.com/JoseRoca/WinFBX)
-- [FbFrog (GitHub)](https://github.com/dkl/fbfrog): FreeBASIC binding creation tool.
-- [FbFrog Scripts (GitHub)](https://github.com/dkl/fbbindings): Scripts for fbfrog-based FreeBASIC bindings.
-- [FbRtLib (Github)](https://github.com/ImortisInglorian/fbrtLib): FreeBASIC Runtime Library written in FreeBASIC.
+- JayRM
+  - [JayRM's FreeBASIC Load Out](https://github.com/jayrm/fblo): Prebuilt libraries for Win32/Win64 and source files that can be dropped in to an existing FreeBASIC install.
 - [Batched Files](https://github.com/BatchedFiles)
   -[Station992 - Http Server (GitHub)](https://github.com/BatchedFiles/Station922)
   -[Client library for IRC (GitHub)](https://github.com/BatchedFiles/IrcClientLibrary)
@@ -27,11 +32,11 @@ FreeBASIC is a completely free, open-source, multi-platform BASIC compiler, with
 
 ## FreeBASIC vs GW-BASIC 
 
-By default, FreeBASIC doesn't have support for line number and other "deprecated" language features.  However, if you specify the -lang commandline parameter, these features are enabled.  Some other areas of note (these need to be verified):
+By default, FreeBASIC doesn't have support for line number and other "deprecated" language features.  However, if you specify the `-lang` command-line parameter, these features are enabled.  Some other areas of note (these need to be verified):
 
-- KEY ON / OFF is not supported as FreeBASIC is more compatible with QB than GW-BASIC; which also did not have KEY ON / OFF.  However, QB would just ignore the command; FreeBASIC requires that you modify the code.
-- KEY (#) ON/OFF and ON KEY (#) GOSUB is not supported.  Again, somewhat expected.  The closest you can mimic the behavior is through the INKEY$ and utilize polling.
-- DEF FNname() not supported.  Since you can create actual functions this, again, is somewhat to be expected.
-- EXTERR() not supported.
-- GOSUB # ... RETURN doesnt work unless you specify "-lang qb".  The line number support can be enabled with "-lang deprecated".  Yet if you try to call RETURN it reports "Illegal outside blah blah blah or SUB block".
-- SCREEN() isn't supported.  Not the SCREEN() command, the SCREEN() function.
+- `KEY ON / OFF` is not supported as FreeBASIC is more compatible with QB than GW-BASIC; which also did not have KEY `ON` / `OFF`.  However, QB would just ignore the command; FreeBASIC requires that you modify the code.
+- `KEY (#) ON/OFF` and `ON KEY (#) GOSUB` is not supported.  Again, somewhat expected.  The closest you can mimic the behavior is through the `INKEY$` and utilize polling.
+- `DEF FNname()` not supported.  Since you can create actual functions this, again, is somewhat to be expected.
+- `EXTERR()` not supported.
+- `GOSUB # ... RETURN` doesn't work unless you specify "`-lang qb`".  The line number support can be enabled with "`-lang deprecated`".  However, even when enabled, there are still some restrictions on it's use when compared to QB.
+- `SCREEN()` isn't supported.  Not the `SCREEN()` command, the `SCREEN()` function.
