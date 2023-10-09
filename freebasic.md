@@ -2,7 +2,7 @@
 
 # FreeBASIC
 
-FreeBASIC is a completely free, open-source, multi-platform BASIC compiler, with syntax similar to Microsoft QuickBASIC, that adds new features such as pointers, unsigned data types, in-line assembly, object orientation, and many others. Although certainly began as a project that focused on compatibility with QB; it has since evolved into its having its own individual identity. It's certainly one of the modern BASIC's to have in your personal toolbelt!
+FreeBASIC is a completely free, open-source, multi-platform BASIC compiler, with syntax similar to Microsoft QuickBASIC, that adds new features such as pointers, unsigned data types, in-line assembly, object orientation, and many others. Although certainly began as a project that focused on compatibility with QB; it has since evolved into its having its own individual identity. It's certainly one of the modern BASIC's to have in your personal tool belt!
 
 From what I understand, the developer primarily responsible for FreeBASIC is [JayRM](https://github.com/jayrm).
 
@@ -33,6 +33,12 @@ From what I understand, the developer primarily responsible for FreeBASIC is [Ja
 
 ## Libraries
 
+- Luther Ramsey
+  - [FbRtLib (Github)](https://github.com/ImortisInglorian/fbrtLib): FreeBASIC Runtime Library written in FreeBASIC.
+- Jose Roca
+  - [Windows Framework (GitHub)](https://github.com/JoseRoca/WinFBX)
+- JayRM
+  - [JayRM's FreeBASIC Load Out](https://github.com/jayrm/fblo): Prebuilt libraries for Win32/Win64 and source files that can be dropped in to an existing FreeBASIC install.
 - Xuisinboy Bekchanov
   - [MyFbFramework - My FreeBasic Framework (GitHub)](https://github.com/XusinboyBekchanov/MyFbFramework)
 - Paul Squires
@@ -43,18 +49,11 @@ From what I understand, the developer primarily responsible for FreeBASIC is [Ja
 
 ## Additional Resources
 
-- Luther Ramsey
-  - [FbRtLib (Github)](https://github.com/ImortisInglorian/fbrtLib): FreeBASIC Runtime Library written in FreeBASIC.
-- Jose Roca
-  - [Windows Framework (GitHub)](https://github.com/JoseRoca/WinFBX)
-- JayRM
-  - [JayRM's FreeBASIC Load Out](https://github.com/jayrm/fblo): Prebuilt libraries for Win32/Win64 and source files that can be dropped in to an existing FreeBASIC install.
-- Others
-  - ["Nine" Card Game (GitHub)](https://github.com/TagalongGames/Nine)
-  - [FreeBASIC in Russian (Unofficial)](http://www.freebasic.su/)
-  - [Compiling FB for DOS](https://www.freebasic.net/wiki/DevBuildDos)
+- [Compiling FB for DOS](https://www.freebasic.net/wiki/DevBuildDos)
+- ["Nine" Card Game (GitHub)](https://github.com/TagalongGames/Nine)
+- [FreeBASIC in Russian (Unofficial)](http://www.freebasic.su/)
 
-## FreeBASIC vs GW-BASIC 
+## FreeBASIC vs GW-BASIC
 
 By default, FreeBASIC doesn't have support for line number and other "deprecated" language features.  However, if you specify the `-lang` command-line parameter, these features are enabled.  Some other areas of note (these need to be verified):
 
