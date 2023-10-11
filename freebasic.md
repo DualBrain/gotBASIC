@@ -4,7 +4,7 @@
 
 FreeBASIC is a completely free, open-source, multi-platform BASIC compiler, with syntax similar to Microsoft QuickBASIC, that adds new features such as pointers, unsigned data types, in-line assembly, object orientation, and many others. Although certainly began as a project that focused on compatibility with QB; it has since evolved into its having its own individual identity. It's certainly one of the modern BASIC's to have in your personal tool belt!
 
-From what I understand, the developer primarily responsible for FreeBASIC is [JayRM](https://github.com/jayrm).
+FreeBASIC is credited as being created (founded) by Andre Victor T. Vicentini circa 2004. From what I understand, the current lead maintainer primarily responsible for the FreeBASIC project is [Jeff Marshall](https://github.com/jayrm). For a full list of those that have and continue to contribute to the FreeBASIC project, be sure to check out the *readme.text* included with the installation.
 
 ## Official Website
 
@@ -17,8 +17,6 @@ From what I understand, the developer primarily responsible for FreeBASIC is [Ja
 ## Official Project
 
 - [FreeBASIC (GitHub)](https://github.com/freebasic/fbc)
-- [FbFrog (GitHub)](https://github.com/freebasic/fbfrog/): FreeBASIC binding creation tool.
-- [FbFrog Scripts (GitHub)](https://github.com/freebasic/fbbindings): Scripts for fbfrog-based FreeBASIC bindings.
 
 ## IDE
 
@@ -61,5 +59,5 @@ By default, FreeBASIC doesn't have support for line number and other "deprecated
 - `KEY (#) ON/OFF` and `ON KEY (#) GOSUB` is not supported.  Again, somewhat expected.  The closest you can mimic the behavior is through the `INKEY$` and utilize polling.
 - `DEF FNname()` not supported.  Since you can create actual functions this, again, is somewhat to be expected.
 - `EXTERR()` not supported.
-- `GOSUB # ... RETURN` doesn't work unless you specify "`-lang qb`".  The line number support can be enabled with "`-lang deprecated`".  However, even when enabled, there are still some restrictions on it's use when compared to QB.
+- `GOSUB # ... RETURN` doesn't work unless you specify "`-lang qb`".  The line number support can be enabled with "`-lang deprecated`".  However, even when enabled, there are still some restrictions on its use when compared to QB.
 - `SCREEN()` isn't supported.  Not the `SCREEN()` command, the `SCREEN()` function.
