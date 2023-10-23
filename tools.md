@@ -2,4 +2,7 @@
 
 # Tools
 
+- [regular expressions 101](https://regex101.com/)
 - [rexpaint](https://www.gridsagegames.com/rexpaint/index.html)
+- [UPX - the Ultimate Packer for eXecutables](https://upx.github.io/)
+- [FreeDOS](https://freedos.org/)

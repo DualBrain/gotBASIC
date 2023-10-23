@@ -21,6 +21,7 @@
   - [NES Resources](http://bobrost.com/nes/resources.php)
   - [NES on 8-bit Workshop](https://8bitworkshop.com/docs/platforms/nes/index.html)
   - [NES Dev Wiki](https://www.nesdev.org/wiki/Projects)
+  - [NES Emulator RP2040 DVI](https://github.com/fhoedemakers/pico-infonesPlus): NES Emulator with SD card and menu support for the Raspberry PI Pico/Adafruit Feather RP2040 DVI. Play your games from SD card on a HDMI display.
   - [Tool to compile Family Basic programs to .NES](https://archive.nes.science/nesdev-forums/f2/t10156.xhtml)
   - [Programming NES Games in BASIC](https://atariage.com/forums/topic/149491-programming-nes-games-in-basic/)
   - [Compare intermediate code betweeen S-BASIC and Hu-BASIC](http://retropc.net/ohishi/museum/SvsHu_700.htm)

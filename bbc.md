@@ -33,6 +33,7 @@
 
 ## Additional Resources
 
+- [Complete BBC Micro Games Archive](http://www.bbcmicro.co.uk/index.php)
 - [The Mighty Micro (1979)](https://youtube.com/playlist?list=PL13dwmxpaKl5JJyC4L09uf_PFXkn6FlGA&si=QmiJuMFBl_05RT9r)
 - [The Computer Programme (BBC2, 1982)](https://youtube.com/playlist?list=PLOtimvwAoYtnCtLiLspq_Gnng1XusYwPU&si=Grhr6VK9CQcui0L4)
 - [RISC OS Programmer's Reference - The Window Manager](http://www.riscos.com/support/developers/prm/wimp.html)

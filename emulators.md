@@ -8,6 +8,10 @@ This list isn't meant to be the all inclusive list of all emulators that exists;
 
 So with that said, these are the ones that I have either used (or spotted) in the process of exploring these retro machines (assuming I don't have the actual hardware at hand - wouldn't be wonderful if it were possible to have all of them; but, alas, I am married and will continue to do my best to remain so.)
 
+## Apple II
+
+- [Apple IIe Emulator for Pi Pico](https://github.com/pyrex8/pico-iie)
+
 ## Atari 2600
 
 - [Stella: A multi-platform Atari 2600 VCS emulator](https://stella-emu.github.io/)
@@ -18,6 +22,14 @@ So with that said, these are the ones that I have either used (or spotted) in th
 
 - [b-em](https://github.com/stardot/b-em): An open source BBC Micro emulator for Win32 and Linux
 - [b-em (Pi)](https://github.com/kilograham/b-em): An RP2040 and Raspberry Pi 2/3/4/Zero 2 W version of an open source BBC Micro emulator originally for Win32 and Linux
+
+## CPM
+
+- [Running CP/M on the Raspberry Pi Pico microcontroller](https://kevinboone.me/cpicom.html?i=1)
+- [A CP/M 2.2 emulator for the Raspberry Pi Pico](https://github.com/kevinboone/cpicom)
+- [Exidy Sorcerer for Pico Pi RP2040 with HDMI](https://github.com/fruit-bat/pico-sorcerer-2)
+- [Memotech EMUlator](https://memotech-bill.github.io/MEMU/)
+- [MEMU - Memotech EMUlator](https://github.com/Memotech-Bill/MEMU)
 
 ## ZX Spetrum
 
