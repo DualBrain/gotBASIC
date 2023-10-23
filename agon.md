@@ -28,13 +28,16 @@ As a microcontroller, Agon light™ has a control port featuring SPI, I2C, 20 di
 
 * [Agon light™](https://www.thebyteattic.com/p/agon.html)
 * [This Snappy 8-bit Microcomputer Brings the Speed to Retrocomputing](https://hackaday.com/2022/10/21/this-snappy-8-bit-microcomputer-brings-the-speed-to-retrocomputing)
-- [Emulator](https://github.com/tomm/fab-agon-emulator): Agon Light, Agon Light 2, Agon Console8 Emulator for Linux, Windows, any system with libSDL
-- [Emulator (Old)](https://github.com/astralaster/agon-light-emulator)
+* [Emulator](https://github.com/tomm/fab-agon-emulator): Agon Light, Agon Light 2, Agon Console8 Emulator for Linux, Windows, any system with libSDL
+* [Emulator (Old)](https://github.com/astralaster/agon-light-emulator)
+* [agon_light_midi](https://github.com/halfbyte/agon_light_midi): MIDI hard- and software for the Agon Light
+* [popup-mos](https://github.com/tomm/popup-mos): A batteries-included SDCard template for Agon Light / Agon Light 2 / Console8
 
 ## Projects
 
 * [Oregon Trail](https://github.com/LuzrBum/Agon-OregonTrail)
 * [CP/M](https://bitbucket.org/cocoacrumbs/agon-vpd-cpm/src/master/)
+* [Agon-rokky](https://github.com/nihirash/Agon-rokky): Dungeons and Diamonds game for Agon Light
 
 ## Resources
 

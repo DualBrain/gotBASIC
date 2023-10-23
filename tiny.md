@@ -15,3 +15,7 @@ All numbers are integers. Range -32768 to 32767 in signed mode, or 0 to 65535 in
 * [Dr. Dobb's Journal of Computer Calisthenics & Orthodontia, Volume 1](https://ia601302.us.archive.org/24/items/dr_dobbs_journal_vol_01/dr_dobbs_journal_vol_01.pdf)
 * [Design Notes for Tiny BASIC](http://www.ittybittycomputers.com/IttyBitty/TinyBasic/DDJ1/Design.html)
 * [The First Book of Tiny BASIC Programs](http://www.retrotechnology.com/memship/Son_of_TFBOTBAS.HTM)
+* [Tiny-Basic](https://github.com/eddavis2/Tiny-Basic): Interpreters for Tiny Basic written in Basic (various versions), C, C#, Java, Pascal, Python, VB.Net and others. Pure interpreters, e.g., not byte code, not even tokenized.
+* [tinybasic](https://github.com/slviajero/tinybasic): A BASIC interpreter for Arduino, ESP, RP2040, STM32, Infineon XMC and POSIX with IoT and microcontroller features.
+* [TinyBasicPlus](https://github.com/BleuLlama/TinyBasicPlus): A C implementation of Tiny Basic, with a focus on support for Arduino.
+

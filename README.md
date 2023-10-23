@@ -37,6 +37,7 @@ Want to hang out and chat with others that also have an unwavering fascination w
 - [Wikipedia - List of BASIC dialects](https://en.wikipedia.org/wiki/List_of_BASIC_dialects)
 - [COMMAND_LINE HEROES - Season 3, Episode 2 - Learning the BASICs](https://www.redhat.com/en/command-line-heroes/season-3/learning-the-basics)  
 - [Usborne Computer and Coding Books (Pdf)](https://usborne.com/us/books/computer-and-coding-books)
+- [BASIC vs. FORTRAN 77](https://opensource.com/article/23/4/basic-vs-fortran-77): Comparing programming blasts from the past.
 
 ## BASICS
 
@@ -68,6 +69,7 @@ Want to hang out and chat with others that also have an unwavering fascination w
 - [Dragon BASIC compiler for Game Boy Advance](https://github.com/uli/dragonbasic)
 - [EndBASIC](https://github.com/jmmv/endbasic): BASIC interpreter with a REPL and a web interface written in Rust. [HACKADAY Article](https://hackaday.com/2023/09/17/the-end-of-basic/)
 - [Enhanced BASIC (EhBASIC)](ehbasic.md)
+- [Euphoria](https://openeuphoria.org/): A powerful but easy-to-learn programming language. It has a simple syntax and structure with consistent rules, and is also easy to read. You can quickly, and with little effort, develop applications, big and small, for Windows, Unix variants (Linux, FreeBSD, ...) and OS X.
 - [FreeBASIC](freebasic.md)
 - [Fuze4 - Nintendo Switch](https://www.fuze.co.uk/nintendo-switch.html)
 - [Gambas Almost Means BASIC!](gambas.md)
@@ -126,9 +128,10 @@ Want to hang out and chat with others that also have an unwavering fascination w
 - [Microsoft Visual Basic (pre-.NET)](vb6.md)
 - [Google's wwwBASIC](wwwbasic.md)
 - [wxBasic](wxbasic.md)
-- [XBasic](http://www.maxreason.com/software/xbasic/share.html): XBasic is a comprehensive program development environment that integrates a powerful editor, compiler, debugger, function libraries and GuiDesigner into a seamless working environment that encompasses the whole process of creating fast, efficient, reliable, portable 32/64 bit programs.  See XBasic overview. Compatible and equivalent implementations of XBasic are available for Windows95/98/NT and Linux.  XBasic is written entirely XBasic, plus a little assembly language.  XBasic is open-source freeware released under the standard GPL and LGPL licenses to assure all enhancements and derivatives remain open-source.
 - [Xojo](xojo.md)
+- [XBasic](http://www.maxreason.com/software/xbasic/share.html): XBasic is a comprehensive program development environment that integrates a powerful editor, compiler, debugger, function libraries and GuiDesigner into a seamless working environment that encompasses the whole process of creating fast, efficient, reliable, portable 32/64 bit programs.  See XBasic overview. Compatible and equivalent implementations of XBasic are available for Windows95/98/NT and Linux.  XBasic is written entirely XBasic, plus a little assembly language.  XBasic is open-source freeware released under the standard GPL and LGPL licenses to assure all enhancements and derivatives remain open-source.
 - [Yabasic](http://www.yabasic.de/): Yet another Basic (also on [GitHub](https://github.com/marcIhm/yabasic)).
+- [ZBASIC](https://forum.classic-computing.de/forum/index.php?thread/23136-zbasic-v3-03-von-zedcor-fuer-cp-m/&l=2)
 
 ## Platforms
 
@@ -180,6 +183,7 @@ Although the following aren't BASIC in the classical sense, many of these have l
 
 - [BlueBasic: BASIC for Bluetooth](https://hackaday.io/project/2386-bluebasic-basic-for-bluetooth): This hackaday.io project contains a BASIC interpreter which can be flashed onto a CC2540 or CC2541 Bluetooth module. Once installed, simple use the Bluetooth Console tool to connect and start coding on the device using good old BASIC.
 - [bz80: A ez80 emulator in TI-BASIC](https://www.cemetech.net/forum/viewtopic.php?t=16689&start=0): Also on [GitHub](https://github.com/commandblockguy/bz80).
+- [mal - Make a Lisp](https://github.com/kanaka/mal): Provides a step-by-step guide for creating a LISP interpreter with implementations in BASIC (C64 and QBasic), BBC BASIC V and VB (.NET).
 
 ## Other Resources (Lists)
 
@@ -191,3 +195,4 @@ Although the following aren't BASIC in the classical sense, many of these have l
 ### Lists
 
 - [The Basics' page (since 2001)](http://basic.mindteq.com/)
+- [Retro Directory](https://retro.directory/)

@@ -2,6 +2,8 @@
 
 # Microsoft Visual Basic 7+ (.NET)
 
+**BREAKING NEWS** [OpenSilver 2.0 Launches with VB.NET Support and Over 100 New Features!](https://opensilver.net/announcements/2-0/)
+
 ## Download
 
 - [Microsoft Visual Studio 2022 Community Edition](https://visualstudio.microsoft.com/downloads/)

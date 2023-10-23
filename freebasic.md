@@ -44,6 +44,8 @@ FreeBASIC is credited as being created (founded) by Andre Victor T. Vicentini ci
 - [Batched Files](https://github.com/BatchedFiles)
   - [Station992 - Http Server (GitHub)](https://github.com/BatchedFiles/Station922)
   - [Client library for IRC (GitHub)](https://github.com/BatchedFiles/IrcClientLibrary)
+- FreeBASIC-Extended-Library
+  - [fb-ext-lib](https://github.com/FreeBASIC-Extended-Library/fb-ext-lib): A set of general purpose and game oriented libraries for FreeBASIC
 
 ## Additional Resources
 

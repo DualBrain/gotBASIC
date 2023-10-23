@@ -6,6 +6,8 @@
 
 Why aren't these sorts of projects done in /available to Visual Basic...
 
+- [Introduction to C# on ReactOS](https://www.codeproject.com/Tips/1222079/Introduction-to-Csharp-on-ReactOS)
+- [Newt: A Powerful C# Parser Generator in a Small Package](https://www.codeproject.com/Articles/4055540/Newt-A-Powerful-Csharp-Parser-Generator-in-a-Small)
 - [ls_proxy](https://github.com/axelson/ls_proxy)
 - [Interactive Language Server log inspector](https://github.com/Microsoft/language-server-protocol-inspector)
 - [Markdown Language Service](https://github.com/microsoft/vscode-markdown-languageservice)

@@ -30,6 +30,16 @@ So with that said, these are the ones that I have either used (or spotted) in th
 - [Exidy Sorcerer for Pico Pi RP2040 with HDMI](https://github.com/fruit-bat/pico-sorcerer-2)
 - [Memotech EMUlator](https://memotech-bill.github.io/MEMU/)
 - [MEMU - Memotech EMUlator](https://github.com/Memotech-Bill/MEMU)
+- [PCjs Machines - CP/M-86 1.00](https://www.pcjs.org/software/pcx86/sys/cpm/1.00/)
+
+## IBM PC
+
+- [PCjs Machines](https://www.pcjs.org/): Home of the original IBM PC emulator for browsers.
+- [DOSBox and D-Fend Reloaded: a winning combination!](https://www.retroacademy.it/2018/09/05/tutorials/dosbox-e-d-fend-reloaded-unaccoppiata-vincente/6816/)
+
+## MSX
+
+- [MSX Resource Center](https://www.msx.org/wiki/Category:MSX_Emulators)
 
 ## ZX Spetrum
 
