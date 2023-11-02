@@ -28,15 +28,26 @@ FreeBASIC is credited as being created (founded) by Andre Victor T. Vicentini ci
   - [FreeBASIC Editor for Windows (GitHub)](https://github.com/PaulSquires/WinFBE)
 - Kuan Hsu
   - [PoseidonFB](https://bitbucket.org/KuanHsu/poseidonfb): [Forum discussion](https://www.freebasic.net/forum/viewtopic.php?t=23935)
+- Marcus Germano, IV
+  - [VSCode: FreeBASIC](https://marketplace.visualstudio.com/items?itemName=sorucoder.freebasic)
+  - [freebasic-vscode-extension (GitHub)](https://github.com/sorucoder/freebasic-vscode-extension): A VSCode extension that adds support for modern versions of FreeBASIC
+- Ebben Feagan
+  - [VSCode: lang-freebasic](https://marketplace.visualstudio.com/items?itemName=me0698.lang-freebasic)
+  - [vscode-freebasic (GitHub)](https://github.com/mudhairless/vscode-freebasic): Syntax Coloring for Freebasic in VScode
 
 ## Libraries
 
+- JayRM
+  - [JayRM's FreeBASIC Load Out (GitHub)](https://github.com/jayrm/fblo): Prebuilt libraries for Win32/Win64 and source files that can be dropped in to an existing FreeBASIC install. Includes: fbfrog, FBImage, libogg, libvorbis, libmad-0.15.1b, libdumb-0.9.3, libcsidlight, libpng and zlib.
 - Luther Ramsey
   - [FbRtLib (Github)](https://github.com/ImortisInglorian/fbrtLib): FreeBASIC Runtime Library written in FreeBASIC.
 - Jose Roca
   - [Windows Framework (GitHub)](https://github.com/JoseRoca/WinFBX)
-- JayRM
-  - [JayRM's FreeBASIC Load Out](https://github.com/jayrm/fblo): Prebuilt libraries for Win32/Win64 and source files that can be dropped in to an existing FreeBASIC install.
+- [Johannes Pihl](http://www.jattegames.com/)
+  - fbList
+  - fbTimer
+  - fbHashmap
+  - fbNetComs
 - Xuisinboy Bekchanov
   - [MyFbFramework - My FreeBasic Framework (GitHub)](https://github.com/XusinboyBekchanov/MyFbFramework)
 - Paul Squires
@@ -45,21 +56,12 @@ FreeBASIC is credited as being created (founded) by Andre Victor T. Vicentini ci
   - [Station992 - Http Server (GitHub)](https://github.com/BatchedFiles/Station922)
   - [Client library for IRC (GitHub)](https://github.com/BatchedFiles/IrcClientLibrary)
 - FreeBASIC-Extended-Library
-  - [fb-ext-lib](https://github.com/FreeBASIC-Extended-Library/fb-ext-lib): A set of general purpose and game oriented libraries for FreeBASIC
+  - [fb-ext-lib (GitHub)](https://github.com/FreeBASIC-Extended-Library/fb-ext-lib): A set of general purpose and game oriented libraries for FreeBASIC
+- Ebben Feagan
+  - [freebasic-ecs (GitHub)](https://github.com/mudhairless/freebasic-ecs): Simple Entity Component System for FreeBASIC
 
 ## Additional Resources
 
 - [Compiling FB for DOS](https://www.freebasic.net/wiki/DevBuildDos)
 - ["Nine" Card Game (GitHub)](https://github.com/TagalongGames/Nine)
 - [FreeBASIC in Russian (Unofficial)](http://www.freebasic.su/)
-
-## FreeBASIC vs GW-BASIC
-
-By default, FreeBASIC doesn't have support for line number and other "deprecated" language features.  However, if you specify the `-lang` command-line parameter, these features are enabled.  Some other areas of note (these need to be verified):
-
-- `KEY ON / OFF` is not supported as FreeBASIC is more compatible with QB than GW-BASIC; which also did not have KEY `ON` / `OFF`.  However, QB would just ignore the command; FreeBASIC requires that you modify the code.
-- `KEY (#) ON/OFF` and `ON KEY (#) GOSUB` is not supported.  Again, somewhat expected.  The closest you can mimic the behavior is through the `INKEY$` and utilize polling.
-- `DEF FNname()` not supported.  Since you can create actual functions this, again, is somewhat to be expected.
-- `EXTERR()` not supported.
-- `GOSUB # ... RETURN` doesn't work unless you specify "`-lang qb`".  The line number support can be enabled with "`-lang deprecated`".  However, even when enabled, there are still some restrictions on its use when compared to QB.
-- `SCREEN()` isn't supported.  Not the `SCREEN()` command, the `SCREEN()` function.
