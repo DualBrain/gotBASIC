@@ -26,6 +26,8 @@ Steve adapted Tiny BASIC to fit the TRS-80's hardware and specifications, result
 
 ![TRS-80 MODEL III](images/trs80_model3.jpg)
 
+* [TRS-GPT](https://druid77.github.io/trs-gpt/): ChatGPT from a TRS-80 Model III Computer built in 1981
+
 ## Emulators
 
 * [trs80gp - A TRS-80 Model 1, 2, 3, 4, 12, 16, 6000, MC-10, DT-1, Videotex Emulator](http://48k.ca/trs80gp.html)
@@ -40,6 +42,7 @@ Steve adapted Tiny BASIC to fit the TRS-80's hardware and specifications, result
 * [A Tandy/RadioShack TRS-80 Model I Clone](https://www.glensstuff.com/trs80/trs80.htm)
 * [TRS-OS](https://www.danielpaulmartin.com/home/research/?fbclid=IwAR1zBWi9dPDXrcvub0PH71vxegnvCC_M32XlGk15H0aVr8tKmCFb_n4tWn8)
 * [Agon OSboot for TRS-OS](https://github.com/sijnstra/agon-projects/tree/main/OSboot)
+* [TRS-80 - Books (List)](https://www.trs-80.com/wordpress/publications/books/)
 
 ![TRS-80](images/trs80_model4.jpg)
 

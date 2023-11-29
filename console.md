@@ -27,3 +27,4 @@
   - [Compare intermediate code betweeen S-BASIC and Hu-BASIC](http://retropc.net/ohishi/museum/SvsHu_700.htm)
 - Sega Genesis/MegaDrive
   - [SecondBASIC Studio](secondbasic.md)
+  - [BasiEgaXorz](https://segaretro.org/BasiEgaXorz)

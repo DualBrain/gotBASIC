@@ -48,14 +48,16 @@ Want to hang out and chat with others that also have an unwavering fascination w
 - [AppGameKit](https://www.appgamekit.com/): AppGameKit is an easy to learn game development engine, ideal for Beginners, Hobbyists & Indie developers.  From the creators of Dark Basic.
 - [B#](bsharp.md)
 - [B4X](b4x.md)
+- [BabaBASIC (GitHub)](https://github.com/ianatha/bababasic): QuickBASIC 4.5 revival on Android
 - [BaCon - BASIC to C Converter](http://www.basic-converter.org/): BaCon is a free BASIC to C translator for Unix-based systems, which runs on most Unix/Linux/BSD platforms, including MacOSX. It intends to be a programming aid in creating tools which can be compiled on different platforms (including 64bit environments), while trying to revive the days of the good old BASIC.  
-- [Bas 2.5](http://www.moria.de/~michael/bas/): Bas is an interpreter for the classic dialect of the programming language BASIC. It is pretty compatible to typical BASIC interpreters of the 1980s, unlike some other UNIX BASIC interpreters, that implement a different syntax, breaking compatibility to existing programs. Bas offers many ANSI BASIC statements for structured programming, such as procedures, local variables and various loop types. Further there are matrix operations, automatic LIST indentation and many statements and functions found in specific classic dialects. Line numbers are not required. 
+- [Bas 2.5](http://www.moria.de/~michael/bas/): Bas is an interpreter for the classic dialect of the programming language BASIC. It is pretty compatible to typical BASIC interpreters of the 1980s, unlike some other UNIX BASIC interpreters, that implement a different syntax, breaking compatibility to existing programs. Bas offers many ANSI BASIC statements for structured programming, such as procedures, local variables and various loop types. Further there are matrix operations, automatic LIST indentation and many statements and functions found in specific classic dialects. Line numbers are not required.
 - [BASIC Anywhere Machine](bam.md)
 - [BASIC1](http://www.sydneysmith.com/wordpress/basic1/?fbclid=IwAR3ZQ-9yryCDGDKrC4pQWdZBB8oNKw-DN6U6xB9zMXgKFk8V6_s7sb2mPcU)
 - [BASIC256](http://basic256.org/): BASIC-256 is an easy to use version of BASIC designed to teach anybody (especially middle and high-school students) the basics of computer programming. It uses traditional control structures like gosub, for/next, and goto, which helps kids easily see how program flow-control works. It has a built-in graphics mode which lets them draw pictures on screen in minutes, and a set of detailed, easy-to-follow tutorials that introduce programming concepts through fun exercises. Also check out [The "So you wan tto learn" Project](http://www.basicbook.org/).
 - [Basic4GL](https://www.basic4gl.net/): Write programs in BASIC on your PC - then run them on your Android phone or tablet.
 - [BASIC8](https://github.com/paladin-t/b8): An integrated *Fantasy Computer* for game and other program development where you can create, share and play disks in a modern BASIC dialect with built-in tools for editing sprites, tiles, map, quantized, etc.
-- [BBC BASIC (SDL 2.0)](bbc.md)
+- [BasiEgaXorz](https://segaretro.org/BasiEgaXorz): BASIC compiler for the Sega Genesis consoles. [Documentation](http://devster.monkeeh.com/sega/basiegaxorz/basiegaxorz_full.html)
+- [BBC BASIC](bbc.md)
 - [BCX](bcx.md)
 - [Blassic](http://blassic.net/): Blassic is a classic Basic interpreter. The line numbers are mandatory, and it has PEEK & POKE. The main goal is to execute programs written in old interpreters, even those that use peculiar control flow constructs or automodifiable code. However, it can be used as a scripting language, and has some not-so-classic instructions. It has graphics modes that are compatible with some classic systems and user defined. 
 - [BlitzBASIC](blitz.md)
@@ -89,9 +91,11 @@ Want to hang out and chat with others that also have an unwavering fascination w
 - [Mole Basic](https://merty.home.xs4all.nl/mole/): Merty's Own Language Extension basic (MOLE basic) is an interpreter originally written to implement a simple (IF-THEN-ELSE) kind of language, usable in a IBM messaging switching environment. BASIC is choosen because I couldn't think of an easier language to learn which is so well-known and still usable for small and simple tasks.In time, the program grew and I decided to rewrite it in my own time, strip out all IBM-message switch related commands and release it to the public. Although the source is a bit of a mess right now, using lex and yacc makes it easy to adopt your own command(s) inside it, without bothering about interpreting commandlines and expressions.
 - [MoonRock](moonrock.md)
 - [NaaLaa](https://www.naalaa.com/): 'Not An Advanced Language At All' is a very easy to learn programming language for beginners interested in retro style game development.
+- [NEXTBasic](https://alcatstudio.blogspot.com/p/nextbasic-compiler.html): A customized Basic language, inspired by Visual Basic .NET, that targets the Sega Genesis (Mega Drive).
 - [nuBASIC](https://www.nubasic.eu): nuBASIC is a programming language from the BASIC family, designed by the author, Antonino Calderone, mainly for educational purposes both for C++ developers that can deal with a non-trivial example of modern C++ programming and for beginners, which may get hooked on programming. ([SourceForge](https://sourceforge.net/projects/nubasic/))
 - [Oxygen Basic](oxygen.md)
 - [PowerBASIC](powerbasic.md)
+- [PuffinBASIC](https://github.com/mayuropensource/PuffinBASIC): BASIC interpreter written in Java
 - [PureBasic](purebasic.md)
 - [Microsoft QuickBASIC, PDS BASIC (QBX) and QBasic](qb.md)
 - [QB64](qb64.md)
@@ -111,6 +115,7 @@ Want to hang out and chat with others that also have an unwavering fascination w
 - [SecondBASIC Studio](secondbasic.md)
 - [SpecBAS](specbas.md)
 - [SpiderBasic](spiderbasic.md)
+- [Squanchy-BASIC](https://github.com/tlindner/Squanchy-BASIC): Color BSAIC, improved.
 - [SmallBASIC](smallbasic.md)
 - [Microsoft Small Basic](mssb.md)
 - [TeleBASIC (GitHub)](https://github.com/telehack-foundation/.github/blob/main/basic.md): TeleBASIC is the flavor of BASIC (Beginners' All-purpose Symbolic Instruction Code), used on [Telehack](https://telehack.com/). TeleBASIC is based on the original Dartmouth BASIC, but with a large number of additional features, such as support for regular expressions, UNIX timestamps, many common hashing/encoding algorithms, multi-dimensional arrays, and the ability to use alphanumeric indices.
@@ -137,6 +142,7 @@ Want to hang out and chat with others that also have an unwavering fascination w
 
 - [Single-board Computers](singleboard.md)
   - [Agon light™](agon.md)
+  - [BASIC Engine](https://basicengine.org/)
   - [Colour Maximite](cmm1.md)
   - [Colour Maximite 2](cmm2.md)
   - [Raspberry Pi](pi.md)

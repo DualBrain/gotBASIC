@@ -6,6 +6,8 @@
 
 ![BBC Micro](images/bbc_micro.jpg)
 
+First, let's review about *where* BBC BASIC gained its foothold...
+
 - [Emulator (browser-based)](https://bbc.godbolt.org/)
 - [BBC Micro Users Guide](http://central.kaserver5.org/Kasoft/Typeset/BBC/Contents.html) ([PDF](http://bbc.nvg.org/doc/BBCUserGuide-1.00.pdf))
 - [Learn to write games for the BBC Micro with Eben](https://www.raspberrypi.org/blog/learn-to-write-games-for-the-bbc-micro-with-eben/)
@@ -16,10 +18,16 @@
 
 ![BBC BASIC](images/bbc_basic.gif)
 
+If you want to recreate the *old school* vibe, in the browser...
+
 - [BBC BASIC EDITOR (Browser)](https://bbcmic.ro/#)
-- [BBC BASIC](http://www.bbcbasic.co.uk/bbcbasic.html)
-- [BBCSDL](http://www.bbcbasic.co.uk/bbcsdl/index.html)
-- [BBC BASIC for SDL 2.0 for Windows, Linux (86), MacOS, Raspberry Pi, Android and iOS](https://github.com/rtrussell/BBCSDL)
+
+Or if you want to leverage BBC BASIC as it has evolved to work directly on modern hardware...
+
+- [BBC BASIC](http://www.bbcbasic.co.uk/bbcbasic.html): Richard Russell's BBC BASIC portal.
+- [BBC BASIC for SDL 2.0](http://www.bbcbasic.co.uk/bbcsdl/index.html): for Windows, Linux (86), MacOS, Raspberry Pi, Android and iOS. [on GitHub](https://github.com/rtrussell/BBCSDL)
+- [BBC BASIC "Console Mode"](https://www.bbcbasic.co.uk/console)
+- [QBASIC to BBC BASIC translator](https://www.bbcbasic.co.uk/qb2bbc/)
 - [BBC BASIC (Z80)](https://www.bbcbasic.co.uk/bbcbasic/z80basic.html)
 - [RISC OS Direct for Raspberry Pi](https://www.riscosdev.com/direct/): A RISC OS for Raspberry Pi image that has a particular emphasis on programing RISC OS and contains BBC BASIC 5/6 as well as many other programming languages pre-installed.
 - [BASIC Tips & Tricks](https://web.archive.org/web/20190420181634/http://www.tristone.co.uk/davespace/basic/index.html)

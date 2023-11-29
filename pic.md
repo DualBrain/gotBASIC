@@ -6,6 +6,13 @@ A PICAXE chip is a standard Microchip PIC microcontroller that has been pre-prog
 
 - [PICAXE (Official)](https://picaxe.com/)
 
+# PIC Microcontrollers
+
+- [MikroE - mikroBasic PRO for PIC](https://www.mikroe.com/mikrobasic-pic)
+
 # PIC32 Microcontrollers
 
 - [MikroE - mikroBasic PRO for PIC32](https://www.mikroe.com/mikrobasic-pic32)
+- [TRS-80 Model 1 on a PIC32 (Hackaday.IO)](https://hackaday.io/project/9077-trs-80-model-1-on-a-pic32)
+- [TRS-80 Model 1 on a PIC32 (Homepage)](https://chiselapp.com/user/ziggurat29/repository/MaximiteTRS80/index)
+- [Port of z80sim 1.17 to PIC32 (GitHub)](https://github.com/TheCodeman/z80pack-1.17-ksd-pic32)

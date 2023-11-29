@@ -29,6 +29,7 @@
 
 - [Getting Started With Extended Color Basic (PDF)](http://www.colorcomputerarchive.com/coco/Documents/Manuals/Hardware/Getting%20Started%20With%20Extended%20Color%20Basic%20(Tandy).pdf)
 - [The MOOH - Memory expansion for your Dragon or CoCo 1/2](http://tormod.me/mooh.html): The MOOH is a memory expansion cartridge board for the Dragon 32/64 and CoCo 1/2, adding 512 KB of RAM and a socket for up to 64 KB ROM. It also features an SPI interface and an SD-card slot.
+- [Squanchy-BASIC](https://github.com/tlindner/Squanchy-BASIC): Color BSAIC, improved.
 
 ## Color Computer 3
 

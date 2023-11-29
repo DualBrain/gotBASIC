@@ -12,3 +12,7 @@ There is also a [version that works on Windows (XP+)](https://geoffg.net/Downloa
 
 - [MMBasic](https://mmbasic.com/)
 - [MMBasic for Windows based on olcPixelGameEngine (GitHub)](https://github.com/UKTailwind/MMB4W)
+
+## Games
+
+- [wolf3d_cmm2](https://github.com/mauroxavierneto/wolf3d_cmm2): Wolfenstein 3D version made from scratch for Colour Maximite 2 (work in progress). Warning: Contains blood and images that may be disturbing to a sensitive audience (swastika).

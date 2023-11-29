@@ -20,6 +20,7 @@ Join us over on Discord for real-time interaction with other like minded Visual 
 
 ## .NET 7
 
+- [EFCore.VisualBasic](https://github.com/efcore/EFCore.VisualBasic): Adds VB design-time support to EF Core
 - [Status of WinForms in NativeAOT](https://codevision.medium.com/status-of-winforms-in-nativeaot-4267644b1e60)
 - [Again WinForms and NativeAOT](https://codevision.medium.com/again-winforms-and-nativeaot-fd068425cc13) 
 

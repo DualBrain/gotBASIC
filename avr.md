@@ -27,3 +27,5 @@
 - [HDMI Shield](https://github.com/techtoys/HDMI-Shield/tree/master/Ra8876_Lite)
 - [ArduinoBASIC - A BASIC interpreter and environment for the Arduino](https://github.com/robinhedwards/ArduinoBASIC)
 - [TinyBasic Plus - A C implementation of Tiny Basic, with a focus on support for Arduino](https://github.com/BleuLlama/TinyBasicPlus)
+- [DuinoMite](https://github.com/OLIMEX/DuinoMite)
+- [DuinoMite - Duinomite Basic (GitHub)](https://github.com/OLIMEX/DuinoMite/tree/master/SOFTWARE/DMBasic/src): Based on MMBasic

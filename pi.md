@@ -3,15 +3,18 @@
 # Raspberry Pi (RaspPi)
 
 - [Raspberry Pi (Official)](https://www.raspberrypi.org/)
+- [BBC BASIC "Console Mode"](https://www.bbcbasic.co.uk/console)
 - [Boot to BASIC](https://popey.com/blog/2021/01/raspberry-pi-boot-to-basic)
 
 ## BASIC
 
 **PICO**
 
+- [BBC BASIC "Console Mode"](https://www.bbcbasic.co.uk/console)
 - [BASIC Interpreter for the Raspberry Pi Pico](https://geoffg.net/picomite.html)
 - [MMBASIC - A BASIC interpereter for the Raspberry Pi](https://forums.raspberrypi.com/viewtopic.php?t=212334)
 - [Pi-cromite V5.4.05 with documentation](http://www.thebackshed.com/forum/ViewTopic.php?TID=9823)
+- [How to Set Up and Program Raspberry Pi Pico W, Pico](https://www.tomshardware.com/how-to/raspberry-pi-pico-setup)
 
 ## Visual Basic via .NET Core
 
