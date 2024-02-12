@@ -59,3 +59,6 @@ This category is for languages/projects that aren't exactly retro but strive to 
 
 - [Emulators, Simulators, Etc.](emulators.md)
 - [BASIC benchmark index for 8-bit computers](https://github.com/scruss/bench64)
+- [The Oldschool PC Font Resource](https://int10h.org/oldschool-pc-fonts/fontlist/)
+- [Perfect DOS VGA 437 Font](https://www.dafont.com/perfect-dos-vga-437.font)
+- [ntvdmx64](https://github.com/leecher1337/ntvdmx64): Run Microsoft Windows NTVDM (DOS) on 64bit Editions

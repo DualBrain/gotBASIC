@@ -33,7 +33,9 @@ Or if you want to leverage BBC BASIC as it has evolved to work directly on moder
 - [BASIC Tips & Tricks](https://web.archive.org/web/20190420181634/http://www.tristone.co.uk/davespace/basic/index.html)
 - [Brandy](https://jaguar.orpheusweb.co.uk/branpage.html): An interpreter for BBC Basic (or Basic V as it is sometimes referred) that runs under a variety of operating systems such as RISC OS, NetBSD, OpenBSD, reeBSD, Linux, Mac OSX, Amiga OS, DOS (extender) and Windows.
 - [Napoleon Brandy Basic V Interpreter](https://sourceforge.net/projects/napoleonbrandy/): Napoleon Brandy is development of David Daniels Brandy basic, an interpreter for BBC Basic (or Basic V), This project can not claim ANSI C compliance as Brandy Basic did, but supports Graphics for the platforms implemented. OS currently supported are Win32 and DOS. Currently a preview release as it is functionally incomplete.
-- [Matrix Brandy BASIC VI](http://brandy.matrixnetwork.co.uk/): a multi-platform BBC BASIC VI interpreter with optional SDL graphics support, released under the GNU General Public Licence version 2+. It is a fork of David Daniels' Brandy BASIC, baselined at version 1.20.1 from his Sourceforge release, which hasn't seen any updates since 2014.
+- [Matrix Brandy BASIC VI](http://brandy.matrixnetwork.co.uk/): a multi-platform BBC BASIC VI interpreter with optional SDL graphics support, released under the GNU General Public License version 2+. It is a fork of David Daniels' Brandy BASIC, base-lined at version 1.20.1 from his Sourceforge release, which hasn't seen any updates since 2014.
+- [bbasic](https://github.com/paulgriffiths/bbasic): An interpreter for a subset of BBC BASIC II.
+- [atom-language-bbcbasic](https://github.com/damieng/atom-language-bbcbasic): Atom grammar for the BBC Basic language.
 
 ## Very Cool!!!!
 

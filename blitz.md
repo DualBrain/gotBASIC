@@ -9,6 +9,7 @@
 - [BlitzPlus Source](https://github.com/blitz-research/blitzplus)
 - [Blitz Basic PC CD-ROM (archive.org)](https://archive.org/details/blitz_basic_pccd/): This appears to be 16-bit; so won't work on a modern Windows installation.
 - [Blitz 3D PC CD-ROM (archive.org)](https://archive.org/details/blitz-3d): This does appear to work on Windows 11 x64.
+- [Wikipedia](https://en.wikipedia.org/wiki/Blitz_BASIC)
 
 ## Community
 

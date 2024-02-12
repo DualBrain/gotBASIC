@@ -11,6 +11,11 @@
 - See alternative [Bsharp (B#)](https://github.com/DualBrain/bsharp)...
 - See alternative [QBC](QBC.md)...
 
+## Online?
+
+- [CLASSIC RELOAD - QuickBASIC](https://classicreload.com/dosx-quickbasic.html)
+- [QBasic Online Compiler](https://codedamn.com/online-compiler/qbasic)
+
 ## Tutorials
 
 - [QBasic for Beginners](https://www.qbasic.net/en/qbasic-tutorials/beginner/qbasic-beginner-1.htm)

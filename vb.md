@@ -254,6 +254,7 @@ Although Microsoft has done a great job with several technology stacks; there ar
 - [VB6 vs VB.NET Language](http://www.vbmigration.com/Resources/migratingfromvb6.aspx)
 - [VB.NET Grammars and Snippets
  for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=gordonwalkedby.vbnet)
+- [Andorid-NativeAOT](https://github.com/jonathanpeppers/Android-NativeAOT): A .NET 8, NativeAOT example on Android.
 
 ## COOL PROJECTS!!!!
 

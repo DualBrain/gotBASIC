@@ -14,6 +14,7 @@ Please be sure to take the time to visit [https://gw-basic.com](https://gw-basic
 - [Microsoft Open-Sources GW-BASIC](https://devblogs.microsoft.com/commandline/microsoft-open-sources-gw-basic/)
 - [Assembling Microsoft GW-BASIC from 1983, with MASM or JWasm](https://github.com/tkchia/GW-BASIC) - Fork of the following...
 - [Assembling Microsoft GW-BASIC from 1983](https://github.com/dspinellis/GW-BASIC)
+- [GW-BASIC (TK Chia)](https://gitlab.com/tkchia/GW-BASIC): Assembling Microsoft GW-BASIC from 1983, with MASM or JWasm.
 
 ## IBM
 
