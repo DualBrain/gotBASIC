@@ -21,6 +21,8 @@
   - [C64](c64.md)
   - [PET](pet.md)
   - [VIC20](vic20.md)
+- Compucolor
+  - [Compucolor II Emulator](https://www.compucolor.org/emu/ccemu.html)
 - IBM (and Compatibles)
   - [PCem](https://pcem-emulator.co.uk/)
   - [Faux86](https://github.com/paulwratt/Faux86) - A portable, open-source 8086 PC emulator for bare metal Raspberry Pi
@@ -42,6 +44,7 @@
   - [ZX Basic Wiki](https://zxbasic.readthedocs.io/en/docs/)
   - [Sinclair BASIC (Wikipedia)](https://en.wikipedia.org/wiki/Sinclair_BASIC)
   - [Sinclair ZX Spectrum Next - NEXTBASIC](https://www.specnext.com/nextbasic-commands/)
+  - [JSSpeccy 3](https://jsspeccy.zxdemo.org/) - a ZX Spectrum emulator in the browser
 
 # *Retro Modern*
 

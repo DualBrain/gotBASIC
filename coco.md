@@ -39,6 +39,7 @@
 - [VCC Color Computer 3 Emulator (via archive.org)](https://web.archive.org/web/20181001201546/http://www.coco4.com/vcc/download.shtml)
 - [How to get VGA for the CoCo 3](http://www.cococommunity.net/vga-for-the-coco-3/)
 - [FPGA RGB2VGA](https://sites.google.com/site/tandycocoloco/rgb2vga)
+- [CBASIC III Manual Rewrite (Color Computer 3 CBasic III Compiler Manual)](https://github.com/pwillard/CBASIC)
 
 ## CocoPi3
 

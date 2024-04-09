@@ -18,6 +18,10 @@ Join us over on Discord for real-time interaction with other like minded Visual 
 
 - [Sharplab.io](https://sharplab.io/) - You can easily switch the Code dropdown to Visual Basic, type code in and instantly see what the underlying IL will be - in the browser, nothing to download.
 
+## .NET 8
+
+- 
+
 ## .NET 7
 
 - [EFCore.VisualBasic](https://github.com/efcore/EFCore.VisualBasic): Adds VB design-time support to EF Core
@@ -48,6 +52,8 @@ Starting this section here as of November 10, 2020 to track any interesting link
 - [VisualBasic command line tests should run on netcore (16.9)](https://github.com/dotnet/roslyn/issues/49212)  
 - [Source Generators: should user generators require an attribute for discovery?](https://github.com/dotnet/roslyn/issues/42566)
 - [How to migrate a Windows Forms desktop app to .NET 5](https://docs.microsoft.com/en-us/dotnet/desktop/winforms/migration/?view=netdesktop-5.0)
+- [.NET Core Image Processing](https://devblogs.microsoft.com/dotnet/net-core-image-processing/)
+- [How do you use System.Drawing in .NET Core?](https://www.hanselman.com/blog/how-do-you-use-systemdrawing-in-net-core)
 
 Stuff to review...
 

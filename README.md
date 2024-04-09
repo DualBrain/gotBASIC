@@ -66,13 +66,18 @@ Want to hang out and chat with others that also have an unwavering fascination w
 - [Canon Basic](https://chdk.fandom.com/wiki/Canon_Basic): Canons firmware includes a scripting language, which appears to be a flavor of BASIC, for the VxWorks and DryOS cameras.
 - [Cerberus-X](https://www.cerberus-x.com/community/index.php?pages/about/): Cerberus X is a cross platform development tool based on Monkey X from Mark Sibly. Its easy to learn programming language allows you to create apps or games on multiple platforms. To achieve this, Cerberus X translates source code to native source code of one of the different target platforms and creates an executable for you. [on Github](https://github.com/cerberusxdev/cerberus)
 - [Chipmunk BASIC](chipmunk.md)
+- [Commando Basic](https://www.lucidapogee.com/?page=commandobasic): Designed to be easy for anyone to learn; it's simple but also powerful enough to handle serious tasks.
+- [Craft Basic](https://www.lucidapogee.com/?page=craftbasic): A BASIC interpreter for Windows 95 and up for learning programming, making simple games, write code interactively, perform complex calculations, display cool graphics, build windows with forms and write useful scripts.
+- [CVBasic](https://forums.atariage.com/topic/362182-colecovision-basic-compiler-cvbasic-v010/): Colecovision BASIC compiler.
 - [Decimal BASIC](http://hp.vector.co.jp/authors/VA008683/english/): Decimal BASIC is a programming environment for those who write programs for their own investigation. Decimal BASIC adopts ANSI/ISO Full BASIC as its syntax, because Full BASIC has suitable facilities for those who are unacquainted with the peculiar knowledge about computers.
 - [DolyeSoft BASIC 2.0](http://doylesoft.com/BASIC/?i=1): DoyleSoft BASIC, is a free, BASIC-like scripting language and IDE for all 32 and 64 bit versions of Windows.
 - [Dragon BASIC compiler for Game Boy Advance](https://github.com/uli/dragonbasic)
 - [EndBASIC](https://github.com/jmmv/endbasic): BASIC interpreter with a REPL and a web interface written in Rust. [HACKADAY Article](https://hackaday.com/2023/09/17/the-end-of-basic/)
 - [Enhanced BASIC (EhBASIC)](ehbasic.md)
 - [Euphoria](https://openeuphoria.org/): A powerful but easy-to-learn programming language. It has a simple syntax and structure with consistent rules, and is also easy to read. You can quickly, and with little effort, develop applications, big and small, for Windows, Unix variants (Linux, FreeBSD, ...) and OS X.
+- [Express BASIC](https://www.lucidapogee.com/?page=expressbasic): A minimal BASIC dialect with an open source and cross platform interpreter written in C inspired by Dartmouth, Palo Alto, Altair, GW-BASIC and the many dialects of Tiny BASIC.
 - [FreeBASIC](freebasic.md)
+- [FTC BASIC](https://www.lucidapogee.com/?page=ftcbasic): Fast Tiny Compiled BASIC; a compiler for x86 DOS written in QuickBasic and generates FASM output.
 - [Fuze4 - Nintendo Switch](https://www.fuze.co.uk/nintendo-switch.html)
 - [Gambas Almost Means BASIC!](gambas.md)
 - [GFA-BASIC 32 for Windows](gfa.md)
@@ -86,6 +91,7 @@ Want to hang out and chat with others that also have an unwavering fascination w
 - [Kaya-BASIC (GitHub)](https://github.com/kankouhin/Kaya-BASIC): Multi-platform BASIC compiler, supports Windows, Linux and MacOS.  (Based on the B++ compiler.)
 - [Locomotive BASIC interpreter written in Haskell](https://github.com/jarmond/locomotive-haskell)
 - [m4basic](http://www.basic-converter.org/m4basic/): BASIC to C converter based on M4
+- [Mallard BASIC](https://en.m.wikipedia.org/wiki/Mallard_BASIC): A BASIC interpreter for CP/M produced by Locomotive Software and supplied witht he Amstrad PCW range of small business computers, the ZX Spectrum +3 version of CP/M Plus and the Acorn BBC Micro's Zilog Z80 second processor.
 - [MiniScript](https://miniscript.org/): A simple, elegant language for embedding or learning to program.
 - [MMBasic](mmbasic.md)
 - [Mole Basic](https://merty.home.xs4all.nl/mole/): Merty's Own Language Extension basic (MOLE basic) is an interpreter originally written to implement a simple (IF-THEN-ELSE) kind of language, usable in a IBM messaging switching environment. BASIC is choosen because I couldn't think of an easier language to learn which is so well-known and still usable for small and simple tasks.In time, the program grew and I decided to rewrite it in my own time, strip out all IBM-message switch related commands and release it to the public. Although the source is a bit of a mess right now, using lex and yacc makes it easy to adopt your own command(s) inside it, without bothering about interpreting commandlines and expressions.
@@ -111,6 +117,7 @@ Want to hang out and chat with others that also have an unwavering fascination w
 - [Run BASIC](http://www.runbasic.com/): Run BASIC Personal Server is an all-in-one system that makes web programming easy and fun. With a knowledge of the BASIC programming language and without needing to learn a lot of arcane web technologies you can create web applications for use on a PC, for use on a local network, or hosted onto the Internet. Run BASIC applications work on Windows, Linux and Mac computers and many cell phones.
 - [Script BASIC](https://www.scriptbasic.org/)
 - [Script BASIC (on SourceForge)](https://sourceforge.net/projects/scriptbasic/)
+- [ScriptBasic for Java](https://github.com/verhas/jScriptBasic): A BASIC interpreter that can be embedded into Java programs providing the ability to script your application (or let the users to script) in good old BASIC.
 - [SDLBasic](https://www.sdlbasic.altervista.org/main/index.html): SDLBasic is a BASIC interpreter that integrates the WxBasic interpreter, the SDL graphics library, and a graphics engine, so that you can use it to write 2D games.
 - [SecondBASIC Studio](secondbasic.md)
 - [SpecBAS](specbas.md)
@@ -119,6 +126,7 @@ Want to hang out and chat with others that also have an unwavering fascination w
 - [SmallBASIC](smallbasic.md)
 - [Microsoft Small Basic](mssb.md)
 - [TeleBASIC (GitHub)](https://github.com/telehack-foundation/.github/blob/main/basic.md): TeleBASIC is the flavor of BASIC (Beginners' All-purpose Symbolic Instruction Code), used on [Telehack](https://telehack.com/). TeleBASIC is based on the original Dartmouth BASIC, but with a large number of additional features, such as support for regular expressions, UNIX timestamps, many common hashing/encoding algorithms, multi-dimensional arrays, and the ability to use alphanumeric indices.
+- [Terminal BASIC](https://github.com/terminal-basic-team): A lightweight BASIC-like language interpreter written in C++11 that is cross-platform with a primary target of uC-based systems like Arduino with at least 32kb of program memory that is inspired by Tiny and Dartmouth BASIC dialects.
 - [thinBASIC](thinbasic.md)
 - [Tiny BASIC](tiny.md)
 - [Tiny BASIC](http://tinybasic.cyningstan.org.uk/): Welcome to Damian Gareth Walker's Tiny BASIC Portal! Tiny BASIC is a subset of the BASIC programming language, originally developed in 1975 by Dennis Allison and others. It was designed for hobbyists who couldn't afford the cost of a full Microsoft BASIC package, or didn't have enough memory to run it. It was meant to be easily extensible, and people extended it from pretty early on.

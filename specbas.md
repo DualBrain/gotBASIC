@@ -7,6 +7,7 @@ SpecBAS is a remake of Sinclair BASIC - it's faster, far more powerful and more 
 - [Official Site](https://sites.google.com/site/pauldunn)
 - [Source (GitHub)](https://github.com/ZXDunny/SpecBAS)
 - [Samples (GitHub)](https://github.com/ZXDunny/SpecBAS-Demos)
+- [The SpecBAS Reference Manual](https://sites.google.com/site/pauldunn/home/manual)
 
 ## Resources
 

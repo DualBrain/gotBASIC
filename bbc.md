@@ -36,10 +36,13 @@ Or if you want to leverage BBC BASIC as it has evolved to work directly on moder
 - [Matrix Brandy BASIC VI](http://brandy.matrixnetwork.co.uk/): a multi-platform BBC BASIC VI interpreter with optional SDL graphics support, released under the GNU General Public License version 2+. It is a fork of David Daniels' Brandy BASIC, base-lined at version 1.20.1 from his Sourceforge release, which hasn't seen any updates since 2014.
 - [bbasic](https://github.com/paulgriffiths/bbasic): An interpreter for a subset of BBC BASIC II.
 - [atom-language-bbcbasic](https://github.com/damieng/atom-language-bbcbasic): Atom grammar for the BBC Basic language.
+- [Retrocoding fun with BBC BASIC](https://www.bbcmicrobot.com/learn/index.html)
+- [BBC Micro Screen Formats](https://www.dfstudios.co.uk/articles/retro-computing/bbc-micro-screen-formats/)
 
 ## Very Cool!!!!
 
 - [BBC Micro Bot](https://twitter.com/bbcmicrobot): Welcome to 8-bit cloud.  Send a tweet to @bbcmicrobot and it will run it on a 1980s 8-bit computer emulation! [Source (GitHub)](https://github.com/8bitkick/BBCMicroBot)
+- [Fun with BBC Micro Bot](https://blog.mousefingers.com/post/bbc/bbc_bbcmicrobot/)
 
 ## Additional Resources
 

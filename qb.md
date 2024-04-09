@@ -21,6 +21,10 @@
 - [QBasic for Beginners](https://www.qbasic.net/en/qbasic-tutorials/beginner/qbasic-beginner-1.htm)
 - [QBASIC Programming for Kids by Ted Felix](http://tedfelix.com/qbasic/)
 
+## Questionable??
+
+- [WinWorld - QuickBasic 4.5](https://winworldpc.com/product/quickbasic/45)
+
 ## Third-Party Extensions
 
 The following products from the company formally known as *Crescent Software* and *Full Moon Software* have all been generously made [freely available (meaning **public domain**)](http://annex.retroarchive.org/crescent/index.html) (with source) via GitHub (linked below).  You can also find more details on this directly from the original author (and, dare I say, legend) [Ethan Winer](http://ethanwiner.com/fullmoon.html).
@@ -48,6 +52,7 @@ There are many, many, many others that provided third-party tools...
 
 - [QB45.org](https://qb45.org/): About programming in QBasic/QuickBASIC, the programming language that was developed by Microsoft.
 - [QBasic Source Code Public Domain](https://thedubber.altervista.org/qbsrc.htm)
+- [Hardware Level VGA and SVGA Video Programming Information](https://www.osdever.net/FreeVGA/vga/vgatext.htm)
 
 ## Communities
 

@@ -24,6 +24,7 @@
 
 - [BlitzMax NG Download](https://www.syntaxbomb.com/blitzmax-blitzmax-ng/blitzmax-ng-download/)
 - [BlitzMax DX 1.0 Alpha Release Download](https://www.blitzcoder.org/forum/topic.php?id=803)
+- [LibSGD Announcement (for Blitz3D)](https://blitzresearch.itch.io/blitz3d/devlog/688259/libsgd-announcement)
 
 ## Amiga
 
