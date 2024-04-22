@@ -59,6 +59,8 @@ Stuff to review...
 
 - [Automatically find latent bugs in your code with .NET 5](https://devblogs.microsoft.com/dotnet/automatically-find-latent-bugs-in-your-code-with-net-5/)
 - [New C# Source Generator Samples](https://devblogs.microsoft.com/dotnet/new-c-source-generator-samples/)  
+- [Using a 32bit and 64bit dll in C# DllImport](https://stackoverflow.com/questions/10852634/using-a-32bit-or-64bit-dll-in-c-sharp-dllimport): Thread on different strategies for handling Interop for an "Any CPU" compiled project that could execute *natively* in either 32-bit or 64-bit environments.
+- [Set DllImport attribute dynamically](https://stackoverflow.com/questions/2818011/set-dllimport-attribute-dynamically)
 
 ## Microsoft (OSS)
 

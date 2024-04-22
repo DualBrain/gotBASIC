@@ -35,6 +35,11 @@ FreeBASIC is credited as being created (founded) by Andre Victor T. Vicentini ci
   - [VSCode: lang-freebasic](https://marketplace.visualstudio.com/items?itemName=me0698.lang-freebasic)
   - [vscode-freebasic (GitHub)](https://github.com/mudhairless/vscode-freebasic): Syntax Coloring for Freebasic in VScode
 
+## Tools
+
+- Daniel Klauer
+  - [fbfrog (GitHub)](https://github.com/freebasic/fbfrog): A command line tool which reads .h file (C API declarations) and generates corresponding .bi file(s) for FreeBASIC.
+
 ## Libraries
 
 - JayRM
@@ -59,6 +64,12 @@ FreeBASIC is credited as being created (founded) by Andre Victor T. Vicentini ci
   - [fb-ext-lib (GitHub)](https://github.com/FreeBASIC-Extended-Library/fb-ext-lib): A set of general purpose and game oriented libraries for FreeBASIC
 - Ebben Feagan
   - [freebasic-ecs (GitHub)](https://github.com/mudhairless/freebasic-ecs): Simple Entity Component System for FreeBASIC
+- Daniel Klauer
+  - [fbbindings (GitHub)](https://github.com/freebasic/fbbindings): Scripts for fbfrog-based FreeBASIC bindings.
+
+## Helpful Links
+
+- [Converting Microsoft lib (.LIB) to FreeBASIC lib (.dll.a)](https://www.freebasic.net/forum/viewtopic.php?t=14036)
 
 ## Additional Resources
 

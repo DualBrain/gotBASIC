@@ -46,6 +46,7 @@ Want to hang out and chat with others that also have an unwavering fascination w
 - [AMOS2](http://amos2.tech/en-us/): After 30 years, [AMOS](https://en.wikipedia.org/wiki/AMOS_%28programming_language%29)/STOS are begin recreated by the [original author](http://storyofamos.blogspot.com/) targeting HTML5/Javascript.
 - [AOZ Studio](aozstudio.md)
 - [AppGameKit](https://www.appgamekit.com/): AppGameKit is an easy to learn game development engine, ideal for Beginners, Hobbyists & Indie developers.  From the creators of Dark Basic.
+- [Applesoft BASIC in Javascript](https://www.calormen.com/jsbasic/)
 - [B#](bsharp.md)
 - [B4X](b4x.md)
 - [BabaBASIC (GitHub)](https://github.com/ianatha/bababasic): QuickBASIC 4.5 revival on Android
@@ -64,6 +65,7 @@ Want to hang out and chat with others that also have an unwavering fascination w
 - [bootBASIC](https://github.com/nanochess/bootBASIC): bootBASIC is a BASIC language in 512 bytes of x86 machine code.
 - [Bywater BASIC](bywater.md)
 - [Canon Basic](https://chdk.fandom.com/wiki/Canon_Basic): Canons firmware includes a scripting language, which appears to be a flavor of BASIC, for the VxWorks and DryOS cameras.
+- [Centurion BASIC](centurion.md): Kickin' it old-school on a genuine mini-computer.
 - [Cerberus-X](https://www.cerberus-x.com/community/index.php?pages/about/): Cerberus X is a cross platform development tool based on Monkey X from Mark Sibly. Its easy to learn programming language allows you to create apps or games on multiple platforms. To achieve this, Cerberus X translates source code to native source code of one of the different target platforms and creates an executable for you. [on Github](https://github.com/cerberusxdev/cerberus)
 - [Chipmunk BASIC](chipmunk.md)
 - [Commando Basic](https://www.lucidapogee.com/?page=commandobasic): Designed to be easy for anyone to learn; it's simple but also powerful enough to handle serious tasks.
@@ -86,6 +88,8 @@ Want to hang out and chat with others that also have an unwavering fascination w
 - [Microsoft GW-BASIC](gw-basic.md)
 - [Hollywood](https://www.hollywood-mal.com/): A multimedia-oriented programming language that can be used to create applications and games very easily.
 - [Hyundai Robotics BASIC](https://hyundai-robotics.com/english/product/product4_view.html?no=5): The Hi5a-S apparently uses a verion of BASIC.
+- [ipplesoftbasic](https://code.google.com/archive/p/ipplesoftbasic/): A free BASIC interpreter written entirely in JavaScript that is cross-platform but primarily intended to specifically target the iPhone.
+- [JavaScript BASIC](https://eder.us/projects/jbasic/): JavaScript BASIC Interpreter.
 - [JsBasic (GitHub)](https://github.com/dualbrain/jsbasic): A BASIC to Javascript transpiler (implemented in VB / .NET 7+) based, in part, on the [JSBasic (GitHub) C# project](https://github.com/danielflower/JSBasic) and [associated CodeProject article](http://www.codeproject.com/Articles/25069/JSBasic-A-BASIC-to-JavaScript-Compiler). [JsBasic (GitHub)](https://github.com/dualbrain/jsbasic) has several improvements over the the original.
 - [Just BASIC](justbasic.md)
 - [Kaya-BASIC (GitHub)](https://github.com/kankouhin/Kaya-BASIC): Multi-platform BASIC compiler, supports Windows, Linux and MacOS.  (Based on the B++ compiler.)
@@ -98,17 +102,20 @@ Want to hang out and chat with others that also have an unwavering fascination w
 - [MoonRock](moonrock.md)
 - [NaaLaa](https://www.naalaa.com/): 'Not An Advanced Language At All' is a very easy to learn programming language for beginners interested in retro style game development.
 - [NEXTBasic](https://alcatstudio.blogspot.com/p/nextbasic-compiler.html): A customized Basic language, inspired by Visual Basic .NET, that targets the Sega Genesis (Mega Drive).
+- [NG-BASIC](https://sourceforge.net/projects/ng-basic/): An experimental BASIC language that can be both interpreted within an IDE as well as compiled to a native executable.
 - [nuBASIC](https://www.nubasic.eu): nuBASIC is a programming language from the BASIC family, designed by the author, Antonino Calderone, mainly for educational purposes both for C++ developers that can deal with a non-trivial example of modern C++ programming and for beginners, which may get hooked on programming. ([SourceForge](https://sourceforge.net/projects/nubasic/))
 - [Oxygen Basic](oxygen.md)
 - [PowerBASIC](powerbasic.md)
 - [PuffinBASIC](https://github.com/mayuropensource/PuffinBASIC): BASIC interpreter written in Java
 - [PureBasic](purebasic.md)
 - [Microsoft QuickBASIC, PDS BASIC (QBX) and QBasic](qb.md)
+- [qb.js](http://stevehanov.ca/blog/index.php?id=92): an implementation of QBASIC in Javascript.
+- [qb2c](https://fossies.org/linux/misc/old/qb2c-3.43.tgz/): a (Quick)BASIC to C translator.
 - [QB64](qb64.md)
 - [QBJS](qbjs.md)
 - [QuickBASIC Clone (Unfinished)](qbc.md)
 - [QuickBasic compiler clone](qbc.md): Stated purpose is to provide tools for running QuickBASIC programs in Linux and other non-MS-DOS-environments.
-- [qb2c](https://fossies.org/linux/misc/old/qb2c-3.43.tgz/): a (Quick)BASIC to C translator.
+- [Quite BASIC](https://www.quitebasic.com/)
 - [RAD Basic](radbasic.md)
 - [RBASIC](http://www.rbasic.com/): RBASIC (Radio Basic) is a rapid application development environment especially designed to make custom software development for software-defined radio receivers easier and more enjoyable. 
 - [RCBASIC](http://rcbasic.com/): Programming language designed to simplify writing 2D games and applications. [More info...](https://n00bcode.itch.io/rcbasic-basic-programming-language-for-games) and [GitHub](https://github.com/n00b87/rcbasic3)
@@ -120,6 +127,7 @@ Want to hang out and chat with others that also have an unwavering fascination w
 - [ScriptBasic for Java](https://github.com/verhas/jScriptBasic): A BASIC interpreter that can be embedded into Java programs providing the ability to script your application (or let the users to script) in good old BASIC.
 - [SDLBasic](https://www.sdlbasic.altervista.org/main/index.html): SDLBasic is a BASIC interpreter that integrates the WxBasic interpreter, the SDL graphics library, and a graphics engine, so that you can use it to write 2D games.
 - [SecondBASIC Studio](secondbasic.md)
+- [Simple Web Basic](https://yohan.es/swbasic/)
 - [SpecBAS](specbas.md)
 - [SpiderBasic](spiderbasic.md)
 - [Squanchy-BASIC](https://github.com/tlindner/Squanchy-BASIC): Color BSAIC, improved.
@@ -185,6 +193,7 @@ Want to hang out and chat with others that also have an unwavering fascination w
 
 Although the following aren't BASIC in the classical sense, many of these have languages that are clearly inspired by (or at the very least, clearly share similarities with) BASIC (credited or not).
 
+- [Mini Micro fantasy computer](https://miniscript.org/MiniMicro/#about): A neo-retro virtual computer for learning to code, play some games and join a friendly, enthusiastic community of hobbyists. ([MiniScript Quick Reference](https://miniscript.org/files/MiniScript-QuickRef.pdf))
 - [Easylang](https://easylang.online/): Easy online programming language and development environment for teach and learning programming.
 - [microStudio](https://microstudio.dev/projects/): Create games, learn programming, play, share, prototype and jam!
 - [Sonic Pi](https://sonic-pi.net/): A code-based music creation and performance tool.
