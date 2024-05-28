@@ -95,7 +95,8 @@ Want to hang out and chat with others that also have an unwavering fascination w
 - [Kaya-BASIC (GitHub)](https://github.com/kankouhin/Kaya-BASIC): Multi-platform BASIC compiler, supports Windows, Linux and MacOS.  (Based on the B++ compiler.)
 - [Locomotive BASIC interpreter written in Haskell](https://github.com/jarmond/locomotive-haskell)
 - [m4basic](http://www.basic-converter.org/m4basic/): BASIC to C converter based on M4
-- [Mallard BASIC](https://en.m.wikipedia.org/wiki/Mallard_BASIC): A BASIC interpreter for CP/M produced by Locomotive Software and supplied witht he Amstrad PCW range of small business computers, the ZX Spectrum +3 version of CP/M Plus and the Acorn BBC Micro's Zilog Z80 second processor.
+- [Mallard BASIC](https://en.m.wikipedia.org/wiki/Mallard_BASIC): A BASIC interpreter for CP/M produced by Locomotive Software and supplied with he Amstrad PCW range of small business computers, the ZX Spectrum +3 version of CP/M Plus and the Acorn BBC Micro's Zilog Z80 second processor.
+- [MCS BASIC-52](mcsbasic52.md): (Also known as MCS-51 aka 8051/8052 basic.)
 - [MiniScript](https://miniscript.org/): A simple, elegant language for embedding or learning to program.
 - [MMBasic](mmbasic.md)
 - [Mole Basic](https://merty.home.xs4all.nl/mole/): Merty's Own Language Extension basic (MOLE basic) is an interpreter originally written to implement a simple (IF-THEN-ELSE) kind of language, usable in a IBM messaging switching environment. BASIC is choosen because I couldn't think of an easier language to learn which is so well-known and still usable for small and simple tasks.In time, the program grew and I decided to rewrite it in my own time, strip out all IBM-message switch related commands and release it to the public. Although the source is a bit of a mess right now, using lex and yacc makes it easy to adopt your own command(s) inside it, without bothering about interpreting commandlines and expressions.
