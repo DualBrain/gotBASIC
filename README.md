@@ -85,6 +85,7 @@ Want to hang out and chat with others that also have an unwavering fascination w
 - [GFA-BASIC 32 for Windows](gfa.md)
 - [GLBasic SDK](https://store.steampowered.com/app/819510/GLBasic_SDK/): An easy to learn BASIC language with Editor, Compiler and Debugger.
 - [GNU LibertyBasic Compiler Collectio Project](http://lbpp.sourceforge.net/): A collection of user friendly, fully open sourced B.A.S.I.C Linux~Win32 compilers!
+- [Hot Soup Processor](https://hsp.tv/) is an [open source, "3-Clause BSD" licensed programming language](https://github.com/onitama/OpenHSP) produced by [Onion Software/OnionSoft](https://www.onionsoft.net/) and heavily inspired by BASIC, targeting fan-created content (mostly in Japanese) on Microsoft Windows, Linux, set-top boxes, and browsers.
 - [Microsoft GW-BASIC](gw-basic.md)
 - [Hollywood](https://www.hollywood-mal.com/): A multimedia-oriented programming language that can be used to create applications and games very easily.
 - [Hyundai Robotics BASIC](https://hyundai-robotics.com/english/product/product4_view.html?no=5): The Hi5a-S apparently uses a verion of BASIC.
