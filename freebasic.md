@@ -44,8 +44,6 @@ FreeBASIC is credited as being created (founded) by Andre Victor T. Vicentini ci
 
 - JayRM
   - [JayRM's FreeBASIC Load Out (GitHub)](https://github.com/jayrm/fblo): Prebuilt libraries for Win32/Win64 and source files that can be dropped in to an existing FreeBASIC install. Includes: fbfrog, FBImage, libogg, libvorbis, libmad-0.15.1b, libdumb-0.9.3, libcsidlight, libpng and zlib.
-- Luther Ramsey
-  - [FbRtLib (Github)](https://github.com/ImortisInglorian/fbrtLib): FreeBASIC Runtime Library written in FreeBASIC.
 - Jose Roca
   - [Windows Framework (GitHub)](https://github.com/JoseRoca/WinFBX)
 - [Johannes Pihl](http://www.jattegames.com/)
