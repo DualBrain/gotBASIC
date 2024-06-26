@@ -34,11 +34,15 @@ FreeBASIC is credited as being created (founded) by Andre Victor T. Vicentini ci
 - Ebben Feagan
   - [VSCode: lang-freebasic](https://marketplace.visualstudio.com/items?itemName=me0698.lang-freebasic)
   - [vscode-freebasic (GitHub)](https://github.com/mudhairless/vscode-freebasic): Syntax Coloring for Freebasic in VScode
+- VANYA
+  - [IupEditor](https://freebasic.net/forum/viewtopic.php?t=26030): [Home Page](https://iupfbeditor.sourceforge.io/index.html)
 
 ## Tools
 
 - Daniel Klauer
   - [fbfrog (GitHub)](https://github.com/freebasic/fbfrog): A command line tool which reads .h file (C API declarations) and generates corresponding .bi file(s) for FreeBASIC.
+- SARG
+  - [FB debugger](https://freebasic.net/forum/viewtopic.php?t=13935)
 
 ## Libraries
 
