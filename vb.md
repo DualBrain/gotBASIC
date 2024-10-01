@@ -14,13 +14,18 @@ Join us over on Discord for real-time interaction with other like minded Visual 
 
 - [Discord Invite](https://discord.gg/Y8EH5fF6WG)
 
-## IL
+## Roslyn
+
+- [Using the Roslyn Scripting API](https://visualstudiomagazine.com/articles/2011/11/16/the-roslyn-scripting-api.aspx)
+
+## Tools
 
 - [Sharplab.io](https://sharplab.io/) - You can easily switch the Code dropdown to Visual Basic, type code in and instantly see what the underlying IL will be - in the browser, nothing to download.
+- [LINQPad](https://www.linqpad.net/) - The .NET Programmer's Playground
 
 ## .NET 8
 
-- 
+- TBD
 
 ## .NET 7
 
