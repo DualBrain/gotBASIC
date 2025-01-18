@@ -74,6 +74,7 @@ Want to hang out and chat with others that also have an unwavering fascination w
 - [Decimal BASIC](http://hp.vector.co.jp/authors/VA008683/english/): Decimal BASIC is a programming environment for those who write programs for their own investigation. Decimal BASIC adopts ANSI/ISO Full BASIC as its syntax, because Full BASIC has suitable facilities for those who are unacquainted with the peculiar knowledge about computers.
 - [DolyeSoft BASIC 2.0](http://doylesoft.com/BASIC/?i=1): DoyleSoft BASIC, is a free, BASIC-like scripting language and IDE for all 32 and 64 bit versions of Windows.
 - [Dragon BASIC compiler for Game Boy Advance](https://github.com/uli/dragonbasic)
+- [Engine BASIC](engine.md): for the BASIC Engine single-board computers (and more!)
 - [EndBASIC](https://github.com/jmmv/endbasic): BASIC interpreter with a REPL and a web interface written in Rust. [HACKADAY Article](https://hackaday.com/2023/09/17/the-end-of-basic/)
 - [Enhanced BASIC (EhBASIC)](ehbasic.md)
 - [Euphoria](https://openeuphoria.org/): A powerful but easy-to-learn programming language. It has a simple syntax and structure with consistent rules, and is also easy to read. You can quickly, and with little effort, develop applications, big and small, for Windows, Unix variants (Linux, FreeBSD, ...) and OS X.
