@@ -138,6 +138,7 @@ Want to hang out and chat with others that also have an unwavering fascination w
 - [Squanchy-BASIC](https://github.com/tlindner/Squanchy-BASIC): Color BASIC, improved.
 - [SmallBASIC](smallbasic.md)
 - [Microsoft Small Basic](mssb.md)
+- [Tektronix 4050 Series BASIC](tektronix.md)
 - [TeleBASIC (GitHub)](https://github.com/telehack-foundation/.github/blob/main/basic.md): TeleBASIC is the flavor of BASIC (Beginners' All-purpose Symbolic Instruction Code), used on [Telehack](https://telehack.com/). TeleBASIC is based on the original Dartmouth BASIC, but with a large number of additional features, such as support for regular expressions, UNIX timestamps, many common hashing/encoding algorithms, multi-dimensional arrays, and the ability to use alphanumeric indexes.
 - [Terminal BASIC](https://github.com/terminal-basic-team): A lightweight BASIC-like language interpreter written in C++11 that is cross-platform with a primary target of uC-based systems like Arduino with at least 32kb of program memory that is inspired by Tiny and Dartmouth BASIC dialects.
 - [thinBASIC](thinbasic.md)
