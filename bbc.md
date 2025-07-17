@@ -29,7 +29,7 @@ Or if you want to leverage BBC BASIC as it has evolved to work directly on moder
 - [BBC BASIC "Console Mode"](https://www.bbcbasic.co.uk/console)
 - [QBASIC to BBC BASIC translator](https://www.bbcbasic.co.uk/qb2bbc/)
 - [BBC BASIC (Z80)](https://www.bbcbasic.co.uk/bbcbasic/z80basic.html)
-- [RISC OS Direct for Raspberry Pi](https://www.riscosdev.com/direct/): A RISC OS for Raspberry Pi image that has a particular emphasis on programing RISC OS and contains BBC BASIC 5/6 as well as many other programming languages pre-installed.
+- [RISC OS Direct for Raspberry Pi](https://www.riscosdev.com/direct/): A RISC OS for Raspberry Pi image that has a particular emphasis on programming RISC OS and contains BBC BASIC 5/6 as well as many other programming languages pre-installed.
 - [BASIC Tips & Tricks](https://web.archive.org/web/20190420181634/http://www.tristone.co.uk/davespace/basic/index.html)
 - [Brandy](https://jaguar.orpheusweb.co.uk/branpage.html): An interpreter for BBC Basic (or Basic V as it is sometimes referred) that runs under a variety of operating systems such as RISC OS, NetBSD, OpenBSD, reeBSD, Linux, Mac OSX, Amiga OS, DOS (extender) and Windows.
 - [Napoleon Brandy Basic V Interpreter](https://sourceforge.net/projects/napoleonbrandy/): Napoleon Brandy is development of David Daniels Brandy basic, an interpreter for BBC Basic (or Basic V), This project can not claim ANSI C compliance as Brandy Basic did, but supports Graphics for the platforms implemented. OS currently supported are Win32 and DOS. Currently a preview release as it is functionally incomplete.

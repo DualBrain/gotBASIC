@@ -21,7 +21,7 @@
 
 - A small group of scientists (including [John McCarthy](https://en.wikipedia.org/wiki/John_McCarthy_(computer_scientist))) gathered for the [Dartmouth Summer Research Project on Artificial Intelligence](https://en.wikipedia.org/wiki/Dartmouth_workshop), which was the birth of this field of research.
 - [John McCarthy](https://en.wikipedia.org/wiki/John_McCarthy_(computer_scientist)) moves to MIT as a research fellow in the autumn (moving to Stanford in 1962).
-- John Kemeny creates DARSIMCO (Dartmouth Simplified Code) for the IBM 704; found little tracktion due to the arrival of FORTRAN at MIT the next year.
+- John Kemeny creates DARSIMCO (Dartmouth Simplified Code) for the IBM 704; found little traction due to the arrival of FORTRAN at MIT the next year.
 - Thomas Kurtz joins Mathematics Department (recruited by Kemeny).
 
 ## 1957

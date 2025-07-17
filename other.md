@@ -5,6 +5,7 @@
 ## People
 
 - [Felix Codes - Basic Forever](https://felix.plesoianu.ro/languages/basic/index.html)
+- [Mary Kenneth Keller (Wikipedia)](https://en.wikipedia.org/wiki/Mary_Kenneth_Keller)
 
 ## Other...
 
