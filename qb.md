@@ -11,6 +11,11 @@
 - See alternative [Bsharp (B#)](https://github.com/DualBrain/bsharp)...
 - See alternative [QBC](QBC.md)...
 
+## Articles
+
+- COMPUTE!
+  - [#80 - QuickBASIC](https://www.atarimagazines.com/compute/issue80/ibm_personal_computing_quickbasic.php)
+
 ## Online?
 
 - [CLASSIC RELOAD - QuickBASIC](https://classicreload.com/dosx-quickbasic.html)
