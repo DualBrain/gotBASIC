@@ -1,0 +1,14 @@
+
+- DEC EDU News Letters
+  - [Issue #1](https://archive.org/details/digital_edu_number_1)
+  - [Issue #2](https://archive.org/details/digital_edu_number_2)
+  - [Issue #3](https://archive.org/details/digital_edu_number_3)
+  - [Issue #4](https://archive.org/details/digital_edu_number_4)
+  - [Issue #5](https://archive.org/details/digital_edu_number_5)
+  - [Issue #6](https://archive.org/details/digital_edu_number_6)
+  - [Issue #7](https://archive.org/details/digital_edu_number_7)
+  - [Issue #8](https://archive.org/details/digital_edu_number_8)
+  - [Issue #9](https://archive.org/details/digital_edu_number_9)
+  - [Issue #10](https://archive.org/details/digital_edu_number_10)
+  - [Issue #11](https://archive.org/details/digital_edu_number_11)
+  - [Issue #12](https://archive.org/details/digital_edu_number_12)
