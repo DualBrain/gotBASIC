@@ -29,6 +29,8 @@
   - [RadioShack TRS-80 Series](trs80.md)
   - [Tandy/RadioShack Color Computer Series](coco.md)
   - [More...](retro.md)
+- Operating System/Environments
+  - [GEOS](geos.md)
 - [Console (Retro)](console.md)
   - Atari 2600
   - Atari 7800

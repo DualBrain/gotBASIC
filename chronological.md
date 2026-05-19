@@ -194,6 +194,7 @@ Fortran and CPM on up to 30 terminals beginning Dec. 1.
 
 - [Computer Games And Technologies by David Ahl](https://archive.org/details/1990AhlComputerGameTech)
 - [Death of Atari Explorer (David Ahl)](https://archive.org/details/1990DeathOfAtariExplorer)
+- [GeoBasic - Official BASIC Programming Language for GEOS C-64/128 Users](geos.md)
 
 ### 1991
 
