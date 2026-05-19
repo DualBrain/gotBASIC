@@ -24,6 +24,7 @@
 - [BASIC256](http://basic256.org/): BASIC-256 is an easy to use version of BASIC designed to teach anybody (especially middle and high-school students) the basics of computer programming. It uses traditional control structures like `GOSUB`, for/next, and goto, which helps kids easily see how program flow-control works. It has a built-in graphics mode which lets them draw pictures on screen in minutes, and a set of detailed, easy-to-follow tutorials that introduce programming concepts through fun exercises. Also check out [The "So you wan tto learn" Project](http://www.basicbook.org/).
 - [Basic4GL](https://www.basic4gl.net/): Write programs in BASIC on your PC - then run them on your Android phone or tablet.
 - [BASIC8](https://github.com/paladin-t/b8): An integrated *Fantasy Computer* for game and other program development where you can create, share and play disks in a modern BASIC dialect with built-in tools for editing sprites, tiles, map, quantized, etc.
+- [BasicV2](https://egonolsen71.github.io/basicv2/): A BASIC interpreter/compiler that's compatible with the BASIC V2 dialect used on older Commodore computers.
 - [BasiEgaXorz](https://segaretro.org/BasiEgaXorz): BASIC compiler for the Sega Genesis consoles. [Documentation](http://devster.monkeeh.com/sega/basiegaxorz/basiegaxorz_full.html)
 - [BBC BASIC](bbc.md)
 - [BCX](bcx.md)
@@ -40,12 +41,14 @@
 - [Chipmunk BASIC](chipmunk.md)
 - [Commando Basic](https://www.lucidapogee.com/?page=commandobasic): Designed to be easy for anyone to learn; it's simple but also powerful enough to handle serious tasks.
 - [Craft Basic](https://www.lucidapogee.com/?page=craftbasic): A BASIC interpreter for Windows 95 and up for learning programming, making simple games, write code interactively, perform complex calculations, display cool graphics, build windows with forms and write useful scripts.
+- [Crash BASIC](https://www.crashbasic.com/): Build games in code that reads like thought, not ceremony. Runs on desktop, mobile, and the web from the same source.
 - [CVBasic](https://forums.atariage.com/topic/362182-colecovision-basic-compiler-cvbasic-v010/): Colecovision BASIC compiler.
 
 ### D
 
 - [Decimal BASIC](http://hp.vector.co.jp/authors/VA008683/english/): Decimal BASIC is a programming environment for those who write programs for their own investigation. Decimal BASIC adopts ANSI/ISO Full BASIC as its syntax, because Full BASIC has suitable facilities for those who are unacquainted with the peculiar knowledge about computers.
 - [DolyeSoft BASIC 2.0](http://doylesoft.com/BASIC/?i=1): DoyleSoft BASIC, is a free, BASIC-like scripting language and IDE for all 32 and 64 bit versions of Windows.
+- [DotBASIC Plus](https://dotbasic.cbm8bit.com/): The "Ultimate Hobbyist Computer Language" for the [Commodore 64](c64.md).
 - [Dragon BASIC compiler for Game Boy Advance](https://github.com/uli/dragonbasic)
 
 ### E
@@ -127,12 +130,14 @@
 ### Q
 
 - [Microsoft QuickBASIC, PDS BASIC (QBX) and QBasic](qb.md)
-- [qb.js](http://stevehanov.ca/blog/index.php?id=92): an implementation of QBasic in Javascript.
-- [qb2c](https://fossies.org/linux/misc/old/qb2c-3.43.tgz/): a (Quick)BASIC to C translator.
-- [QB64](qb64.md)
-- [QBJS](qbjs.md)
-- [QuickBASIC Clone (Unfinished)](qbc.md)
-- [QuickBasic compiler clone](qbc.md): Stated purpose is to provide tools for running Quick BASIC programs in Linux and other non-MS-DOS-environments.
+  - [QBasic](https://qbasic.com)
+  - [qb.js](http://stevehanov.ca/blog/index.php?id=92): an implementation of QBasic in Javascript.
+  - [qb2c](https://fossies.org/linux/misc/old/qb2c-3.43.tgz/): a (Quick)BASIC to C translator.
+  - [QB64](qb64.md)
+  - [QBJS](qbjs.md)
+  - [QBX](https://github.com/logiclrd/QBX)
+  - [QuickBASIC Clone (Unfinished)](qbc.md)
+  - [QuickBasic compiler clone](qbc.md): Stated purpose is to provide tools for running Quick BASIC programs in Linux and other non-MS-DOS-environments.
 - [Quite BASIC](https://www.quitebasic.com/)
 
 ### R
@@ -151,6 +156,7 @@
 - [ScriptBasic for Java](https://github.com/verhas/jScriptBasic): A BASIC interpreter that can be embedded into Java programs providing the ability to script your application (or let the users to script) in good old BASIC.
 - [SDLBasic](https://www.sdlbasic.altervista.org/main/index.html): SDLBasic is a BASIC interpreter that integrates the WxBasic interpreter, the SDL graphics library, and a graphics engine, so that you can use it to write 2D games.
 - [SecondBASIC Studio](secondbasic.md)
+- [Simon's BASIC](https://commodore.software/downloads/download/10-basic-extensions/958-simon-s-basic-v3-1): Adds 114 additional keywords to BASIC 2.0 ([C64](c64.md)). These included commands to ease the coding of sprites, high-resolution and multi-color graphics, and sound.
 - [Simple Web Basic](https://yohan.es/swbasic/)
 - [SpecBAS](specbas.md)
 - [SpiderBasic](spiderbasic.md)
@@ -179,6 +185,7 @@
 ### V
 
 - [Vintage BASIC](http://www.vintage-basic.net/): Vintage BASIC is an interpreter for a programming language of days gone by. A time when every home computer had a simple language called BASIC, and every kid who owned a computer learned it. It is implemented in Haskell, a modern language very unlike BASIC. Lyle Kopnicky constructed it as a way to demonstrate how Haskell's monads could be used to implement BASIC's dynamic control structures. This odd marriage has now produced a fully functional implementation of that old favorite.
+- [Vision BASIC](https://visionbasic.net/): Vision BASIC is an advanced (modern-day) BASIC compiler for the [C64/C128](c64.md).
 - [Microsoft Visual Basic (.NET)](vb.md)
 - [Microsoft Visual Basic (pre-.NET)](vb6.md)
 - [Google's wwwBASIC](wwwbasic.md)
