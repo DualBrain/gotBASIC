@@ -7,17 +7,20 @@
 ### A
 
 - [64K BASIC](http://www.basic-lang.org/): The BASIC Programming Language: Microcomputer Edition (in Rust). [GitHub](https://github.com/AE9RB/basic-lang)
+- ALTAIR BASIC for the MITS ALTAIR 8800 computer.
+- AmigaBASIC (Microsoft, 1985) 
 - [AMOS2](http://amos2.tech/en-us/): After 30 years, [AMOS](https://en.wikipedia.org/wiki/AMOS_%28programming_language%29)/STOS are begin recreated by the [original author](http://storyofamos.blogspot.com/) targeting HTML5/Javascript.
 - [AOZ Studio](aozstudio.md)
 - [AppGameKit](https://www.appgamekit.com/): AppGameKit is an easy to learn game development engine, ideal for Beginners, Hobbyists & Indie developers.  From the creators of Dark Basic.
 - [Applesoft BASIC in Javascript](https://www.calormen.com/jsbasic/)
+- [AQB](https://github.com/gooofy/aqb): A BASIC compiler and IDE for Amiga computers.
 
 ### B
 
 - [B#](bsharp.md)
 - [B4X](b4x.md)
 - [BabaBASIC (GitHub)](https://github.com/ianatha/bababasic): QuickBASIC 4.5 revival on Android
-- [BaCon - BASIC to C Converter](http://www.basic-converter.org/): BaCon is a free BASIC to C translator for Unix-based systems, which runs on most Unix/Linux/BSD platforms, including Mac OSX. It intends to be a programming aid in creating tools which can be compiled on different platforms (including 64bit environments), while trying to revive the days of the good old BASIC.  
+- [BaCon - BASIC to C Converter](http://www.basic-converter.org/): BaCon is a free BASIC to C translator for Unix-based systems, which runs on most Unix/Linux/BSD platforms, including Mac OSX. It intends to be a programming aid in creating tools which can be compiled on different platforms (including 64bit environments), while trying to revive the days of the good old BASIC.
 - [Bas 2.5](http://www.moria.de/~michael/bas/): Bas is an interpreter for the classic dialect of the programming language BASIC. It is pretty compatible to typical BASIC interpreters of the 1980s, unlike some other UNIX BASIC interpreters, that implement a different syntax, breaking compatibility to existing programs. Bas offers many ANSI BASIC statements for structured programming, such as procedures, local variables and various loop types. Further there are matrix operations, automatic LIST indentation and many statements and functions found in specific classic dialects. Line numbers are not required.
 - [BASIC Anywhere Machine](bam.md)
 - [BASIC1](http://www.sydneysmith.com/wordpress/basic1/?fbclid=IwAR3ZQ-9yryCDGDKrC4pQWdZBB8oNKw-DN6U6xB9zMXgKFk8V6_s7sb2mPcU)
@@ -26,19 +29,20 @@
 - [BASIC8](https://github.com/paladin-t/b8): An integrated *Fantasy Computer* for game and other program development where you can create, share and play disks in a modern BASIC dialect with built-in tools for editing sprites, tiles, map, quantized, etc.
 - [BasicV2](https://egonolsen71.github.io/basicv2/): A BASIC interpreter/compiler that's compatible with the BASIC V2 dialect used on older Commodore computers.
 - [BasiEgaXorz](https://segaretro.org/BasiEgaXorz): BASIC compiler for the Sega Genesis consoles. [Documentation](http://devster.monkeeh.com/sega/basiegaxorz/basiegaxorz_full.html)
+- [BazzBasic](https://ekbass.github.io/BazzBasic): Built around one simple idea... starting programming should feel nice and even fun.
 - [BBC BASIC](bbc.md)
 - [BCX](bcx.md)
 - [Blassic](http://blassic.net/): Blassic is a classic Basic interpreter. The line numbers are mandatory, and it has PEEK & POKE. The main goal is to execute programs written in old interpreters, even those that use peculiar control flow constructs or auto-modifiable code. However, it can be used as a scripting language, and has some not-so-classic instructions. It has graphics modes that are compatible with some classic systems and user defined.
 - [BlitzBASIC](blitz.md)
 - [bootBASIC](https://github.com/nanochess/bootBASIC): bootBASIC is a BASIC language in 512 bytes of x86 machine code.
-- [Bywater BASIC](bywater.md)
+- [Bywater BASIC](bywater.md): A BASIC interpreter that implements a superset of the ANSI Standard for Minimal BASIC (X3.60-1978) and a significant subset of the ANSI Standard for Full BASIC (X3.113-1987).
 
 ### C
 
 - [Canon Basic](https://chdk.fandom.com/wiki/Canon_Basic): Canons firmware includes a scripting language, which appears to be a flavor of BASIC, for the VxWorks and DryOS cameras.
 - [Centurion BASIC](centurion.md): Kickin' it old-school on a genuine mini-computer.
 - [Cerberus-X](https://www.cerberus-x.com/community/index.php?pages/about/): Cerberus X is a cross platform development tool based on Monkey X from Mark Sibly. Its easy to learn programming language allows you to create applications or games on multiple platforms. To achieve this, Cerberus X translates source code to native source code of one of the different target platforms and creates an executable for you. [on Github](https://github.com/cerberusxdev/cerberus)
-- [Chipmunk BASIC](chipmunk.md)
+- [Chipmunk BASIC](chipmunk.md): A multi-platform BASIC interpreter that is "reasonably fast".
 - [Commando Basic](https://www.lucidapogee.com/?page=commandobasic): Designed to be easy for anyone to learn; it's simple but also powerful enough to handle serious tasks.
 - [Craft Basic](https://www.lucidapogee.com/?page=craftbasic): A BASIC interpreter for Windows 95 and up for learning programming, making simple games, write code interactively, perform complex calculations, display cool graphics, build windows with forms and write useful scripts.
 - [Crash BASIC](https://www.crashbasic.com/): Build games in code that reads like thought, not ceremony. Runs on desktop, mobile, and the web from the same source.
@@ -46,6 +50,7 @@
 
 ### D
 
+- [Dark Basic Pro](https://thegamecreators.com/product/dark-basic-pro-open-source): An [open source](https://github.com/Dark-Basic-Software-Limited/Dark-Basic-Pro) BASIC programming language for creating Windows applications and games.
 - [Decimal BASIC](http://hp.vector.co.jp/authors/VA008683/english/): Decimal BASIC is a programming environment for those who write programs for their own investigation. Decimal BASIC adopts ANSI/ISO Full BASIC as its syntax, because Full BASIC has suitable facilities for those who are unacquainted with the peculiar knowledge about computers.
 - [DolyeSoft BASIC 2.0](http://doylesoft.com/BASIC/?i=1): DoyleSoft BASIC, is a free, BASIC-like scripting language and IDE for all 32 and 64 bit versions of Windows.
 - [DotBASIC Plus](https://dotbasic.cbm8bit.com/): The "Ultimate Hobbyist Computer Language" for the [Commodore 64](c64.md).
@@ -55,6 +60,7 @@
 
 - [Engine BASIC](engine.md): for the BASIC Engine single-board computers (and more!)
 - [EndBASIC](https://github.com/jmmv/endbasic): BASIC interpreter with a REPL and a web interface written in Rust. [HACKADAY Article](https://hackaday.com/2023/09/17/the-end-of-basic/)
+- [EngineBASIC](https://basicengine.org/): The version of BASIC for the BASIC Engine low-cost single-board computer project.
 - [Enhanced BASIC (EhBASIC)](ehbasic.md)
 - [Euphoria](https://openeuphoria.org/): A powerful but easy-to-learn programming language. It has a simple syntax and structure with consistent rules, and is also easy to read. You can quickly, and with little effort, develop applications, big and small, for Windows, Unix variants (Linux, FreeBSD, ...) and OS X.
 - [Express BASIC](https://www.lucidapogee.com/?page=expressbasic): A minimal BASIC dialect with an open source and cross platform interpreter written in C inspired by Dartmouth, Palo Alto, Altair, GW-BASIC and the many dialects of Tiny BASIC.
@@ -67,10 +73,10 @@
 
 ### G
 
-- [Gambas Almost Means BASIC!](gambas.md)
+- [Gambas Almost Means BASIC!](gambas.md): A free development environment and a full powerful development platform based on a Basic interpreter with object extensions, as easy as Visual Basic.
 - [GeoBasic - Official BASIC Programming Language for GEOS C-64/128 Users](geos.md)
 - [GFA-BASIC 32 for Windows](gfa.md)
-- [GLBasic SDK](https://store.steampowered.com/app/819510/GLBasic_SDK/): An easy to learn BASIC language with Editor, Compiler and Debugger.
+- [GLBasic](https://www.glbasic.com/): An easy to learn BASIC language with Editor, Compiler and Debugger. Also titled as [GLBasic SDK](https://store.steampowered.com/app/819510/GLBasic_SDK/) (available on STEAM). 
 - [GNU LibertyBasic Compiler Collectio Project](http://lbpp.sourceforge.net/): A collection of user friendly, fully open sourced B.A.S.I.C Linux~Win32 compilers!
 
 ### H
@@ -89,7 +95,7 @@
 
 - [JavaScript BASIC](https://eder.us/projects/jbasic/): JavaScript BASIC Interpreter.
 - [JsBasic (GitHub)](https://github.com/dualbrain/jsbasic): A BASIC to Javascript transpiler (implemented in VB / .NET 7+) based, in part, on the [JSBasic (GitHub) C# project](https://github.com/danielflower/JSBasic) and [associated CodeProject article](http://www.codeproject.com/Articles/25069/JSBasic-A-BASIC-to-JavaScript-Compiler). [JsBasic (GitHub)](https://github.com/dualbrain/jsbasic) has several improvements over the the original.
-- [Just BASIC](justbasic.md)
+- [Just BASIC](justbasic.md): "Easy and powerful programming language for Windows." (See also Liberty BASIC.)
 
 ### K
 
@@ -97,6 +103,7 @@
 
 ### L
 
+- [Liberty BASIC](https://www.libertybasic.com/): "Makes programming Windows easy."
 - [Locomotive BASIC interpreter written in Haskell](https://github.com/jarmond/locomotive-haskell)
 
 ### M
@@ -104,8 +111,9 @@
 - [m4basic](http://www.basic-converter.org/m4basic/): BASIC to C converter based on M4
 - [Mallard BASIC](https://en.m.wikipedia.org/wiki/Mallard_BASIC): A BASIC interpreter for CP/M produced by Locomotive Software and supplied with he Amstrad PCW range of small business computers, the ZX Spectrum +3 version of CP/M Plus and the Acorn BBC Micro's Zilog Z80 second processor.
 - [MCS BASIC-52](mcsbasic52.md): (Also known as MCS-51 aka 8051/8052 basic.)
+- [micro(A) Interpreter](https://github.com/aurelVZ/microA-programming-language): Modern and minimal general purpose open source programming language.
 - [MiniScript](https://miniscript.org/): A simple, elegant language for embedding or learning to program.
-- [MMBasic](mmbasic.md)
+- [MMBasic](mmbasic.md): Free and open BASIC interpreter for 32-bit microcontrollers, Windows and MS-DOS.
 - [Mole Basic](https://merty.home.xs4all.nl/mole/): Merty's Own Language Extension basic (MOLE basic) is an interpreter originally written to implement a simple (IF-THEN-ELSE) kind of language, usable in a IBM messaging switching environment. BASIC is chosen because I couldn't think of an easier language to learn which is so well-known and still usable for small and simple tasks.In time, the program grew and I decided to rewrite it in my own time, strip out all IBM-message switch related commands and release it to the public. Although the source is a bit of a mess right now, using lex and yacc makes it easy to adopt your own command(s) inside it, without bothering about interpreting command lines and expressions.
 - [MoonRock](moonrock.md)
 
@@ -125,7 +133,7 @@
 
 - [PowerBASIC](powerbasic.md)
 - [PuffinBASIC](https://github.com/mayuropensource/PuffinBASIC): BASIC interpreter written in Java
-- [PureBasic](purebasic.md)
+- [PureBasic](purebasic.md): Modern BASIC programming language.
 
 ### Q
 
@@ -142,12 +150,12 @@
 
 ### R
 
-- [RAD Basic](radbasic.md)
+- [RAD Basic](radbasic.md): "100% compatible with your Visual Basic 6 projects."
 - [RBASIC](http://www.rbasic.com/): RBASIC (Radio Basic) is a rapid application development environment especially designed to make custom software development for software-defined radio receivers easier and more enjoyable.
 - [RCBASIC](http://rcbasic.com/): Programming language designed to simplify writing 2D games and applications. [More info...](https://n00bcode.itch.io/rcbasic-basic-programming-language-for-games) and [GitHub](https://github.com/n00b87/rcbasic3)
 - [RFO BASIC!](http://rfo-basic.com): The Dr. Richard Feynman Observatory BASIC! for Android.  ([Forum](https://www.tapatalk.com/groups/rfobasic/)) ([Google Play](https://play.google.com/store/apps/details?id=com.rfo.compiler))
 - [RTB - BASIC](https://projects.drogon.net/rtb): Return to Basics, or RTB, is a programming language inspired by the BASIC programming language that was used on the microcomputers of the late 1970s and 1980s.  As well has having an interactive allowing program entry, debugging, listing and so on in the same way as traditional BASIC has with line numbers, it also takes a more modern approach with a full-screen syntax highlighting editor which allows easier program entry without line-numbers, a unified looping construct, multi-line if/then/else statements, named procedures and functions and many more features to list here.  It currently runs on the Raspberry Pi under Raspbian and other Linux systems.
-- [Run BASIC](http://www.runbasic.com/): Run BASIC Personal Server is an all-in-one system that makes web programming easy and fun. With a knowledge of the BASIC programming language and without needing to learn a lot of arcane web technologies you can create web applications for use on a PC, for use on a local network, or hosted onto the Internet. Run BASIC applications work on Windows, Linux and Mac computers and many cell phones.
+- [Run BASIC](http://www.runbasic.com/): Run BASIC Personal Server is an all-in-one system that makes web programming easy and fun. With a knowledge of the BASIC programming language and without needing to learn a lot of arcane web technologies you can create web applications for use on a PC, for use on a local network, or hosted onto the Internet. Run BASIC applications work on Windows, Linux and Mac computers and many cell phones. (See also Liberty BASIC.)
 
 ### S
 
@@ -155,13 +163,13 @@
 - [Script BASIC (on SourceForge)](https://sourceforge.net/projects/scriptbasic/)
 - [ScriptBasic for Java](https://github.com/verhas/jScriptBasic): A BASIC interpreter that can be embedded into Java programs providing the ability to script your application (or let the users to script) in good old BASIC.
 - [SDLBasic](https://www.sdlbasic.altervista.org/main/index.html): SDLBasic is a BASIC interpreter that integrates the WxBasic interpreter, the SDL graphics library, and a graphics engine, so that you can use it to write 2D games.
-- [SecondBASIC Studio](secondbasic.md)
+- [SecondBASIC Studio](secondbasic.md): Create games for the Sega Genesis/Mega Drive in BASIC!
 - [Simon's BASIC](https://commodore.software/downloads/download/10-basic-extensions/958-simon-s-basic-v3-1): Adds 114 additional keywords to BASIC 2.0 ([C64](c64.md)). These included commands to ease the coding of sprites, high-resolution and multi-color graphics, and sound.
 - [Simple Web Basic](https://yohan.es/swbasic/)
-- [SpecBAS](specbas.md)
+- [SpecBAS](specbas.md): An enhanced Sinclair BASIC interpreter for modern PCs!
 - [SpiderBasic](spiderbasic.md)
 - [Squanchy-BASIC](https://github.com/tlindner/Squanchy-BASIC): Color BASIC, improved.
-- [SmallBASIC](smallbasic.md)
+- [SmallBASIC](smallbasic.md): A fast and easy to learn BASIC language interpeter.
 - [Microsoft Small Basic](mssb.md)
 
 ### T
@@ -170,34 +178,34 @@
 - [TeleBASIC (GitHub)](https://github.com/telehack-foundation/.github/blob/main/basic.md): TeleBASIC is the flavor of BASIC (Beginners' All-purpose Symbolic Instruction Code), used on [Telehack](https://telehack.com/). TeleBASIC is based on the original Dartmouth BASIC, but with a large number of additional features, such as support for regular expressions, UNIX timestamps, many common hashing/encoding algorithms, multi-dimensional arrays, and the ability to use alphanumeric indexes.
 - [Terminal BASIC](https://github.com/terminal-basic-team): A lightweight BASIC-like language interpreter written in C++11 that is cross-platform with a primary target of uC-based systems like Arduino with at least 32kb of program memory that is inspired by Tiny and Dartmouth BASIC dialects.
 - [thinBASIC](thinbasic.md)
-- [Tiny BASIC](tiny.md)
-- [Tiny BASIC](http://tinybasic.cyningstan.org.uk/): Welcome to Damian Gareth Walker's Tiny BASIC Portal! Tiny BASIC is a subset of the BASIC programming language, originally developed in 1975 by Dennis Allison and others. It was designed for hobbyists who couldn't afford the cost of a full Microsoft BASIC package, or didn't have enough memory to run it. It was meant to be easily extensible, and people extended it from pretty early on.
+- [Tiny BASIC](tiny.md): A family of dialects that are based on and/or inspired directly by the design / language specification published in 1975 by Dennis Allison / People's Computer Company (PCC).
 - [TNT Basic](http://tntbasic.com/): TNT Basic is the easiest way to make your own games for the Mac!
 - [ToyBASIC (GitHub)](https://github.com/demosthenesk/ToyBASIC): A BASIC interpreter written in FreeBASIC.
 - [True BASIC](truebasic.md)
-- [twinBASIC](twinbasic.md)
+- [twinBASIC](twinbasic.md): Crafted from scratch for total VB6 compatibility.
 
 ### U
 
-- [ugBASIC](ugbasic.md)
+- [ugBASIC](ugbasic.md): A cross compiler of BASIC dialect specialized in programs that are very efficient "by design" on various 8-bit platforms (based on MOS 6502/6510, Motorola 6809 and Zilog Z80), without the need for "fine tuning" them and without compromises of other dev-kits.
 - [UBASIC-PLUS](https://github.com/mkostrun/UBASIC-PLUS): uBasic Plus for micro-controllers adds features to uBasic such as arrays and floating point numbers, more functions and ability to control hardware (analog read/write,digital write, et c.) all while improving internal workings of the interpreter. It is centered around ARM Cortex M0 processors.
 
 ### V
 
 - [Vintage BASIC](http://www.vintage-basic.net/): Vintage BASIC is an interpreter for a programming language of days gone by. A time when every home computer had a simple language called BASIC, and every kid who owned a computer learned it. It is implemented in Haskell, a modern language very unlike BASIC. Lyle Kopnicky constructed it as a way to demonstrate how Haskell's monads could be used to implement BASIC's dynamic control structures. This odd marriage has now produced a fully functional implementation of that old favorite.
 - [Vision BASIC](https://visionbasic.net/): Vision BASIC is an advanced (modern-day) BASIC compiler for the [C64/C128](c64.md).
-- [Microsoft Visual Basic (.NET)](vb.md)
+- [Microsoft Visual Basic (.NET)](vb.md): Microsoft Visual Basic v7.0+ including .NET Framework and .NET 5+; pre-Roslyn and post-Roslyn, aka open-source versions.
 - [Microsoft Visual Basic (pre-.NET)](vb6.md)
-- [Google's wwwBASIC](wwwbasic.md)
+- [Google's wwwBASIC](wwwbasic.md): An implementation of BASIC that runs on Node.js and the Web.
 
 ### W
 
-- [wxBasic](wxbasic.md)
+- [wxBasic](wxbasic.md): A BASIC interpreter that is free, open source (LGPL) and cross-platform (Windows/Linux) that can create stand-alone executables by binding together source code with the interpreter.
 
 ### X
 
-- [Xojo](xojo.md)
 - [XBasic](http://www.maxreason.com/software/xbasic/share.html): XBasic is a comprehensive program development environment that integrates a powerful editor, compiler, debugger, function libraries and GUI Designer into a seamless working environment that encompasses the whole process of creating fast, efficient, reliable, portable 32/64 bit programs.  See XBasic overview. Compatible and equivalent implementations of XBasic are available for Windows95/98/NT and Linux.  XBasic is written entirely XBasic, plus a little assembly language.  XBasic is open-source freeware released under the standard GPL and LGPL licenses to assure all enhancements and derivatives remain open-source.
+- [XC=BASIC](https://xc-basic.net/doku.php?id=v3:start): XC=BASIC is a cross compiled, modern BASIC programming language for 8-bit Commodore (and alike) machines.
+- [Xojo](xojo.md)
 
 ### Y
 
