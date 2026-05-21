@@ -19,5 +19,3 @@ All numbers are integers. Range -32768 to 32767 in signed mode, or 0 to 65535 in
 * [tinybasic](https://github.com/slviajero/tinybasic): A BASIC interpreter for Arduino, ESP, RP2040, STM32, Infineon XMC and POSIX with IoT and microcontroller features.
 * [TinyBasicPlus](https://github.com/BleuLlama/TinyBasicPlus): A C implementation of Tiny Basic, with a focus on support for Arduino.
 * [Damian Gareth Walker's Tiny BASIC](http://tinybasic.cyningstan.org.uk/): Welcome to Damian Gareth Walker's Tiny BASIC Portal! Tiny BASIC is a subset of the BASIC programming language, originally developed in 1975 by Dennis Allison and others. It was designed for hobbyists who couldn't afford the cost of a full Microsoft BASIC package, or didn't have enough memory to run it. It was meant to be easily extensible, and people extended it from pretty early on.
-
-

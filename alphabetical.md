@@ -14,6 +14,7 @@
 - [AppGameKit](https://www.appgamekit.com/): AppGameKit is an easy to learn game development engine, ideal for Beginners, Hobbyists & Indie developers.  From the creators of Dark Basic.
 - [Applesoft BASIC in Javascript](https://www.calormen.com/jsbasic/)
 - [AQB](https://github.com/gooofy/aqb): A BASIC compiler and IDE for Amiga computers.
+- [ArduinoBASIC](https://github.com/robinhedwards/ArduinoBASIC): A BASIC interpreter and environment for the Arduino.
 
 ### B
 
@@ -23,6 +24,7 @@
 - [BaCon - BASIC to C Converter](http://www.basic-converter.org/): BaCon is a free BASIC to C translator for Unix-based systems, which runs on most Unix/Linux/BSD platforms, including Mac OSX. It intends to be a programming aid in creating tools which can be compiled on different platforms (including 64bit environments), while trying to revive the days of the good old BASIC.
 - [Bas 2.5](http://www.moria.de/~michael/bas/): Bas is an interpreter for the classic dialect of the programming language BASIC. It is pretty compatible to typical BASIC interpreters of the 1980s, unlike some other UNIX BASIC interpreters, that implement a different syntax, breaking compatibility to existing programs. Bas offers many ANSI BASIC statements for structured programming, such as procedures, local variables and various loop types. Further there are matrix operations, automatic LIST indentation and many statements and functions found in specific classic dialects. Line numbers are not required.
 - [BASIC Anywhere Machine](bam.md)
+- [BASIC-To-6809](https://github.com/nowhereman999/BASIC-To-6809): A BASIC compiler for the TRS80 Color Computer.
 - [BASIC1](http://www.sydneysmith.com/wordpress/basic1/?fbclid=IwAR3ZQ-9yryCDGDKrC4pQWdZBB8oNKw-DN6U6xB9zMXgKFk8V6_s7sb2mPcU)
 - [BASIC256](http://basic256.org/): BASIC-256 is an easy to use version of BASIC designed to teach anybody (especially middle and high-school students) the basics of computer programming. It uses traditional control structures like `GOSUB`, for/next, and goto, which helps kids easily see how program flow-control works. It has a built-in graphics mode which lets them draw pictures on screen in minutes, and a set of detailed, easy-to-follow tutorials that introduce programming concepts through fun exercises. Also check out [The "So you wan tto learn" Project](http://www.basicbook.org/).
 - [Basic4GL](https://www.basic4gl.net/): Write programs in BASIC on your PC - then run them on your Android phone or tablet.
@@ -177,7 +179,7 @@
 - [Tektronix 4050 Series BASIC](tektronix.md)
 - [TeleBASIC (GitHub)](https://github.com/telehack-foundation/.github/blob/main/basic.md): TeleBASIC is the flavor of BASIC (Beginners' All-purpose Symbolic Instruction Code), used on [Telehack](https://telehack.com/). TeleBASIC is based on the original Dartmouth BASIC, but with a large number of additional features, such as support for regular expressions, UNIX timestamps, many common hashing/encoding algorithms, multi-dimensional arrays, and the ability to use alphanumeric indexes.
 - [Terminal BASIC](https://github.com/terminal-basic-team): A lightweight BASIC-like language interpreter written in C++11 that is cross-platform with a primary target of uC-based systems like Arduino with at least 32kb of program memory that is inspired by Tiny and Dartmouth BASIC dialects.
-- [thinBASIC](thinbasic.md)
+- [thinBASIC](thinbasic.md): Very fast "BASIC like" programming language useful to Beginners and to Gurus. BASIC interpreter for Windows able to create console and gui applications with most of the user interface controls, automate process, automate data exchange, connect to databases, send mails, connect to ftp sites, rest api, parsing strings, tokenizing, traversing xml, handling files, Windows Registry, OpenGl, graphics, sound, printing... and much more.
 - [Tiny BASIC](tiny.md): A family of dialects that are based on and/or inspired directly by the design / language specification published in 1975 by Dennis Allison / People's Computer Company (PCC).
 - [TNT Basic](http://tntbasic.com/): TNT Basic is the easiest way to make your own games for the Mac!
 - [ToyBASIC (GitHub)](https://github.com/demosthenesk/ToyBASIC): A BASIC interpreter written in FreeBASIC.
