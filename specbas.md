@@ -1,8 +1,8 @@
 [Home](https://gotbasic.com) • [VB](vb.md) • [FB](freebasic.md) • [QB](qb.md) • [GW](gw-basic.md) • [Tiny](tiny.md) • [BBC](bbc.md) • [SpecBAS](specbas.md) • [A-Z](alphabetical.md) • [Platform](platform.md) • [Discord](https://discord.gg/AYcgDwERUU)
 
-# SpecBAS (aka Sinclair BASIC for Windows, Linux, RasPi, etc.)
+# SpecBAS
 
-SpecBAS is a remake of Sinclair BASIC - it's faster, far more powerful and more colorful than Sinclair BASIC has ever been!
+SpecBAS is a remake of Sinclair BASIC - it's faster, far more powerful and more colorful than Sinclair BASIC has ever been! **(That runs on modern platforms!)**
 
 - [Official Site](https://sites.google.com/site/pauldunn)
 - [Source (GitHub)](https://github.com/ZXDunny/SpecBAS)
