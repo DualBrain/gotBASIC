@@ -1,3 +1,4 @@
+[Home](https://gotbasic.com) • [VB](vb.md) • [FB](freebasic.md) • [QB](qb.md) • [GW](gw-basic.md) • [Tiny](tiny.md) • [BBC](bbc.md) • [SpecBAS](specbas.md) • [A-Z](alphabetical.md) • [Platform](platform.md) • [Discord](https://discord.gg/AYcgDwERUU)
 
 - DEC EDU News Letters
   - [Issue #1](https://archive.org/details/digital_edu_number_1)
