@@ -45,6 +45,7 @@
   - [Sinclair BASIC (Wikipedia)](https://en.wikipedia.org/wiki/Sinclair_BASIC)
   - [Sinclair ZX Spectrum Next - NEXTBASIC](https://www.specnext.com/nextbasic-commands/)
   - [JSSpeccy 3](https://jsspeccy.zxdemo.org/) - a ZX Spectrum emulator in the browser
+  - [Fuse](https://fuse-emulator.sourceforge.net/) - The Free Unix Spectrum Emulator. (Also available on Mac OSX, Windows, Wii, AmigaOS and MorphOS.)
 
 # *Retro Modern*
 

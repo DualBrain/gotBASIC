@@ -6,6 +6,7 @@
 
 ### A
 
+- [3D BASIC](https://threedbasic.wixsite.com/3d-basic): A language where anyone, young or old, can turn ideas into reality. A language where you can be a creator, not just a consumer. A language that doesn’t just teach programming — it teaches the joy of creating. 3D Basic is the language I dreamed of as a kid. A language that sparks imagination, builds confidence, and makes programming accessible to everyone.
 - [64K BASIC](http://www.basic-lang.org/): The BASIC Programming Language: Microcomputer Edition (in Rust). [GitHub](https://github.com/AE9RB/basic-lang)
 - ALTAIR BASIC for the MITS ALTAIR 8800 computer.
 - AmigaBASIC (Microsoft, 1985) 
@@ -30,10 +31,12 @@
 - [Basic4GL](https://www.basic4gl.net/): Write programs in BASIC on your PC - then run them on your Android phone or tablet.
 - [BASIC8](https://github.com/paladin-t/b8): An integrated *Fantasy Computer* for game and other program development where you can create, share and play disks in a modern BASIC dialect with built-in tools for editing sprites, tiles, map, quantized, etc.
 - [BasicV2](https://egonolsen71.github.io/basicv2/): A BASIC interpreter/compiler that's compatible with the BASIC V2 dialect used on older Commodore computers.
+- [basicFusion](https://basicfusion.org/): A modern, all-in-one BASIC programming environment built for retro game development and demoscene coding.
 - [BasiEgaXorz](https://segaretro.org/BasiEgaXorz): BASIC compiler for the Sega Genesis consoles. [Documentation](http://devster.monkeeh.com/sega/basiegaxorz/basiegaxorz_full.html)
 - [BazzBasic](https://ekbass.github.io/BazzBasic): Built around one simple idea... starting programming should feel nice and even fun.
 - [BBC BASIC](bbc.md)
 - [BCX](bcx.md)
+- [BerryBasiC](https://github.com/fritzone/berrybasic): A bare-metal BASIC for the Raspberry Pi 4. No operating system below, no shell, no explicit runtime: the Pi boots straight to a BASIC prompt in an instant, and the whole machine is yours. Is a modern BBC-flavored BASIC that runs as the *only* program on the hardware.
 - [Blassic](http://blassic.net/): Blassic is a classic Basic interpreter. The line numbers are mandatory, and it has PEEK & POKE. The main goal is to execute programs written in old interpreters, even those that use peculiar control flow constructs or auto-modifiable code. However, it can be used as a scripting language, and has some not-so-classic instructions. It has graphics modes that are compatible with some classic systems and user defined.
 - [BlitzBASIC](blitz.md)
 - [bootBASIC](https://github.com/nanochess/bootBASIC): bootBASIC is a BASIC language in 512 bytes of x86 machine code.
@@ -45,6 +48,7 @@
 - [Centurion BASIC](centurion.md): Kickin' it old-school on a genuine mini-computer.
 - [Cerberus-X](https://www.cerberus-x.com/community/index.php?pages/about/): Cerberus X is a cross platform development tool based on Monkey X from Mark Sibly. Its easy to learn programming language allows you to create applications or games on multiple platforms. To achieve this, Cerberus X translates source code to native source code of one of the different target platforms and creates an executable for you. [on Github](https://github.com/cerberusxdev/cerberus)
 - [Chipmunk BASIC](chipmunk.md): A multi-platform BASIC interpreter that is "reasonably fast".
+- [Classic BASIC](https://classicbasic.org/): A GW-BASIC-like dialect running directly in the browser.
 - [Commando Basic](https://www.lucidapogee.com/?page=commandobasic): Designed to be easy for anyone to learn; it's simple but also powerful enough to handle serious tasks.
 - [Craft Basic](https://www.lucidapogee.com/?page=craftbasic): A BASIC interpreter for Windows 95 and up for learning programming, making simple games, write code interactively, perform complex calculations, display cool graphics, build windows with forms and write useful scripts.
 - [Crash BASIC](https://www.crashbasic.com/): Build games in code that reads like thought, not ceremony. Runs on desktop, mobile, and the web from the same source.
@@ -71,6 +75,7 @@
 
 - [FreeBASIC](freebasic.md): An extremely fast, high-quality, stable and free/open source (GPL) BASIC compiler available for Microsoft Windows, DOS and Linux.
 - [FTC BASIC](https://www.lucidapogee.com/?page=ftcbasic): Fast Tiny Compiled BASIC; a compiler for x86 DOS written in QuickBasic and generates FASM output.
+- [FutureBasic](https://www.brilorsoftware.com/fb/pages/home.html): Is a high-level procedural programming langauge combined with an IDE for creating native Apple Silicon, Intel or Universal Macintosh 64-bit applications.
 - [Fuze4 - Nintendo Switch](https://www.fuze.co.uk/nintendo-switch.html)
 
 ### G
@@ -133,6 +138,10 @@
 
 ### P
 
+- [PBASIC](https://www.parallax.com/education/programming-languages/pbasic/): Parallax's variant of familiar BASIC with special commands for monitoring and controlling circuits.
+- [PC-BASIC](https://robhagemans.github.io/pcbasic/): Free, cross-platform emulator for the GW-BASIC family of interpreters. "PC-BASIC aims for a bug-for-bug compatibility with Microsoft GW-BASIC."
+- [Pi Shack BASIC](https://yeolpishack.net/store/Pi_Shack/pi-shack-basic): Describes itself as "the easiest and most interactive way to learn and experiment with hardware on and attached to SBCs including SPI, I2C and UART for Linux.
+- [PlayBASIC](https://www.playbasic.com/): Discover the power and simplicity of PlayBasic, the ultimate programming language for game development.
 - [PowerBASIC](powerbasic.md)
 - [PuffinBASIC](https://github.com/mayuropensource/PuffinBASIC): BASIC interpreter written in Java
 - [PureBasic](purebasic.md): Modern BASIC programming language.
@@ -148,6 +157,7 @@
   - [QBX](https://github.com/logiclrd/QBX)
   - [QuickBASIC Clone (Unfinished)](qbc.md)
   - [QuickBasic compiler clone](qbc.md): Stated purpose is to provide tools for running Quick BASIC programs in Linux and other non-MS-DOS-environments.
+  - [WebQB](https://webqb.org/): Classic qbasic in the browser - with a lot of "set dressing" providing that Windows 3.1 experience.
 - [Quite BASIC](https://www.quitebasic.com/)
 
 ### R
@@ -166,6 +176,8 @@
 - [ScriptBasic for Java](https://github.com/verhas/jScriptBasic): A BASIC interpreter that can be embedded into Java programs providing the ability to script your application (or let the users to script) in good old BASIC.
 - [SDLBasic](https://www.sdlbasic.altervista.org/main/index.html): SDLBasic is a BASIC interpreter that integrates the WxBasic interpreter, the SDL graphics library, and a graphics engine, so that you can use it to write 2D games.
 - [SecondBASIC Studio](secondbasic.md): Create games for the Sega Genesis/Mega Drive in BASIC!
+- [SedaiBasic2](https://github.com/camauri/SedaiBasic2): SedaiBasic2 began as a reimplementation of Commodore BASIC v7 and is now a language in its own right, built on a full optimizing compiler pipeline that targets a fast register-based bytecode virtual machine.
+- [Sega BASIC Level III A](https://segaretro.org/BASIC_Level_III_A): A BASIC cartridge for the Sega SC-3000.
 - [Simon's BASIC](https://commodore.software/downloads/download/10-basic-extensions/958-simon-s-basic-v3-1): Adds 114 additional keywords to BASIC 2.0 ([C64](c64.md)). These included commands to ease the coding of sprites, high-resolution and multi-color graphics, and sound.
 - [Simple Web Basic](https://yohan.es/swbasic/)
 - [SpecBAS](specbas.md): An enhanced Sinclair BASIC interpreter for modern PCs!
@@ -180,7 +192,9 @@
 - [TeleBASIC (GitHub)](https://github.com/telehack-foundation/.github/blob/main/basic.md): TeleBASIC is the flavor of BASIC (Beginners' All-purpose Symbolic Instruction Code), used on [Telehack](https://telehack.com/). TeleBASIC is based on the original Dartmouth BASIC, but with a large number of additional features, such as support for regular expressions, UNIX timestamps, many common hashing/encoding algorithms, multi-dimensional arrays, and the ability to use alphanumeric indexes.
 - [Terminal BASIC](https://github.com/terminal-basic-team): A lightweight BASIC-like language interpreter written in C++11 that is cross-platform with a primary target of uC-based systems like Arduino with at least 32kb of program memory that is inspired by Tiny and Dartmouth BASIC dialects.
 - [thinBASIC](thinbasic.md): Very fast "BASIC like" programming language useful to Beginners and to Gurus. BASIC interpreter for Windows able to create console and gui applications with most of the user interface controls, automate process, automate data exchange, connect to databases, send mails, connect to ftp sites, rest api, parsing strings, tokenizing, traversing xml, handling files, Windows Registry, OpenGl, graphics, sound, printing... and much more.
+- [TI-99/4A BASIC](https://sourceforge.net/projects/ti99basic/): A version of Texas Instruments' BASIC as found in ROM on the TI-99/4A, but do so on Windows!
 - [Tiny BASIC](tiny.md): A family of dialects that are based on and/or inspired directly by the design / language specification published in 1975 by Dennis Allison / People's Computer Company (PCC).
+- [Thoreau BASIC](https://thoreaubasic.com/): A free 64-bit BASIC interpreter for Windows x64 and **bootable x64 UEFI**. Write GW-BASIC-style line-numbered programs, run them on Windows or directly from firmware without an operating system, package them as standalone EXE/EFI applications, and use international keyboard layouts on bare-metal UEFI.
 - [TNT Basic](http://tntbasic.com/): TNT Basic is the easiest way to make your own games for the Mac!
 - [ToyBASIC (GitHub)](https://github.com/demosthenesk/ToyBASIC): A BASIC interpreter written in FreeBASIC.
 - [True BASIC](truebasic.md)
