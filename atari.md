@@ -29,6 +29,13 @@
 - [Official Home for batari Basic](https://forums.atariage.com/topic/300856-official-home-for-batari-basic/)
 - [batari Basic (defunct website?)](https://bataribasic.com/)
 
+### VCS Game Maker
+
+Build Atari 2600 games with blocks.
+
+- [Home](https://abstractpolygon.github.io/vcs-game-maker-absply/)
+- [Project](https://github.com/AbstractPolygon/vcs-game-maker-absply)
+
 ## 7800
 
 ### Atari Dev Studio
@@ -68,6 +75,7 @@ This is a fast interpreter for the BASIC language on the Atari 8-bit computers a
 
 ## Interesting Tidbits
 
+- [Curated source code for Atari BASIC](https://github.com/thinkyhead/AtariBASIC)
 - [Atari BASIC - The Good, the Bad, and the Ugly](https://web.archive.org/web/20070524044410/http://www3.sympatico.ca/maury/other_stuff/atari_basic.html)
 - [Create your own version of Microsoft BASIC for 6502](https://www.pagetable.com/?p=46)
 - [Atari BASIC (Archive.org)](https://archive.org/search.php?query=atari%20basic)

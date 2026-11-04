@@ -1,10 +1,16 @@
 [Home](https://gotbasic.com) • [VB](vb.md) • [FB](freebasic.md) • [QB](qb.md) • [GW](gw-basic.md) • [Tiny](tiny.md) • [BBC](bbc.md) • [SpecBAS](specbas.md) • [A-Z](alphabetical.md) • [Platform](platform.md) • [Discord](https://discord.gg/AYcgDwERUU)
 
-# GFA-BASIC 32 for Windows
+# GFA-BASIC for Windows
+
+## GFA-BASIC 32
 
 > GFA-BASIC 32 for Windows is the most powerful 32-bits BASIC for Windows 9x/NT/200x/XP/Vista/7/8/10. It comes a with a RAD (integrated development) including the famous GFA-BASIC text-editor, design-time form-editor, and a blazingly optimized compiler.
 
 - [GFA-BASIC 32 for Windows](http://gfabasic32.blogspot.com/)
+
+## GFA-BASIC 16
+
+- [GFA Basic Windows Extended 16bits](https://dompub30.free.nf/GFA-Win16.html)
 
 ## Resources
 

@@ -12,6 +12,7 @@
 ## IDE (Windows)
 
 - [PlayPi Games 6dev09](https://www.playpi.net/): *"Unleash the creativity with 6dev09, the game-changing IDE that transforms Color Computer and 6x09 programming and empowers your coding adventures! Experience seamless programming with 6dev09's robust support for both BASIC and Assembly languages, tailored for Color Computer and other 6x09 systems. Create and share cartridge ROMs and floppy images effortlessly, making it simple to bring your projects to life on MAME and other emulators or the Color Computer itself. Effortlessly manage complex projects through multiple tabs, allowing you to work on several files simultaneously within the same workspace."*
+- [BasiCoCo](https://github.com/ringger/basicoco): A TRS-80 Color Computer BASIC Emulator.
 - [Phoenix IDE](http://www.cococommunity.net/product/phoenix-ide/)
 - [Phoenix IDE Programming Application for the Tandy Color Computer (in BASIC)](https://youtu.be/WwE6WqpO9Dc)
 
